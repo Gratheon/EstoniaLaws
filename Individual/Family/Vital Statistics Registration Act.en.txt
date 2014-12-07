@@ -1,0 +1,966 @@
+Issuer: Riigikogu
+Type: seadus
+In force from: 09.07.2014
+In force until: In force
+Publication notation: RT V, 09.07.2014, 15
+
+Vital Statistics Registration Act
+
+Passed 20.05.2009
+RT I 2009, 30, 177
+Entry into force 01.07.2010, partially 22.06.2009
+
+Amended by the following acts
+Passed - Published - Entry into force
+22.04.2010 - RT I 2010, 20, 103 - 18.05.2010, partially  28.05.2010
+17.06.2010 - RT I 2010, 38, 231 - 01.07.2010
+08.12.2010 - RT I, 21.12.2010, 4 - 01.01.2011
+08.12.2010 - RT I, 28.12.2010, 6 - 01.01.2011
+05.12.2012 - RT I, 19.12.2012, 1 - 01.01.2013, partially  29.12.2012
+07.11.2013 - RT I, 22.11.2013, 1 - 01.01.2014
+11.12.2013 - RT I, 23.12.2013, 1 - 01.01.2014, partially  01.01.2020
+19.02.2014 - RT I, 13.03.2014, 4 - 01.07.2014
+11.06.2014 - RT I, 21.06.2014, 8 - 01.01.2015
+11.06.2014 - RT I, 29.06.2014, 3 - 09.07.2014, partially  01.01.2015 and 01.05.2015
+19.06.2014 - RT I, 29.06.2014, 109 - 01.07.2014, the titles of ministers substituted on the basis of subsection 107³ (4) of the Government of the Republic Act.
+
+1. chapter  GENERAL PROVISIONS 
+
+§ 1. Scope of application of Act
+
+(1) This Act provides for the competence and functions of vital statistics offices, the procedure for performance of vital statistics procedures and the rights and obligations of persons upon performance of vital statistics procedures.
+
+(2) The provisions of the Population Register Act apply to issues which are not regulated by this Act.
+
+(3) The provisions of the Administrative Procedure Act apply to administrative proceedings prescribed in this Act, taking account of the specifications provided for in this Act.
+
+§ 2. Vital statistics entry
+
+(1) A vital statistics entry is a set of data entered in the population register concerning birth, death, contraction of marriage, divorce and other changes under family law or names law (hereinafter vital statistics data).
+
+(2) The minister responsible for the area may, by a regulation, establish the specific procedure for making vital statistics entries.
+
+(3) Vital statistics data shall be stored in the population register.
+
+(4) Only vital statistics data specified by law shall be entered in the population register in the cases provided by law.
+
+(5) The vital statistics data entered in the population register shall be presumed to be correct.
+
+§ 3. Vital statistics office
+
+(1) Vital statistic offices register births and deaths, certify the contraction of marriages and divorces and make entries concerning changes under family law and names law in the population register arising therefrom, change and correct data entered in the population register and issue extracts of vital statistics data in the population register (hereinafter vital statistics procedures).
+
+(2) Vital statistics offices are:
+1) rural municipality and city governments;
+2) county governments;
+3) foreign missions of Estonia;
+4) the Ministry of the Interior.
+
+(3) Rural municipality and city governments register births and deaths in the cases provided for in §§ 21 and 31 of this Act, and issue initial birth and death certificates. Rural municipality and city governments register births and deaths only if there is no county government in their administrative territory. The minister responsible for the area may, with good reason, grant a rural municipality or city government the right to perform the procedures provided for in subsection (4) of this section.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(3^1) The costs of registration of births and deaths as costs of state functions performed by local governments shall be compensated to rural municipality or city governments from the state budget in an amount established by the Government of the Republic.
+[RT I, 28.12.2010, 6 - entry into force 01.01.2011]
+
+(4) County governments register births and deaths, certify contraction of marriages and divorces, change and correct vital statistics data, make data acquisition entries on the basis of vital statistics acts, court decisions, foreign vital statistics documents and parish registers, issue extracts of vital statistics data and transcripts of family registers, store parish registers, vital statistics acts and family registers, make entries concerning changes under names law and perform other vital statistics procedures in the cases provided by law. County governments instruct the vital statistics officials of local governments and ministers of religion in issues related to the performance of vital statistics procedures and organise in co-operation with the Ministry of the Interior the training and examination of vital statistics officials of local governments.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(5) Consular officers make entries on the basis of foreign vital statistics documents and issue extracts of vital statistics data.
+[RT I, 21.12.2010, 4 - entry into force 01.01.2011]
+
+(6) The Ministry of the Interior instructs other vital statistics offices in issues related to the performance of vital statistics procedures, changes and corrects vital statistics data, issues extracts of vital statistics documents which have not been preserved at a county government and transcripts of family registers, makes data acquisition entries on the basis of parish registers, vital statistics documents and court decisions and makes entries concerning changes under names law, stores family registers, parish registers, name change files, vital statistics acts and printouts of vital statistics entries and performs other vital statistics procedures in the cases provided by law. The Ministry of the Interior organises in co-operation with county governments the training and examination of vital statistics officials of county governments.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(7) A minister of religion of a church, congregation or association of congregations shall perform the functions of a vital statistics office which are related to the contraction of marriage if the minister responsible for the area has granted such right to the minister of religion pursuant to § 17 of this Act.
+
+(8) A notary shall perform the functions of a vital statistics office which are related to the contraction of marriage or divorce with the specifications provided for in the Notaries Act.
+
+§ 4. Vital statistics official
+
+(1) A vital statistics official is an official of a vital statistics office whose function is to perform vital statistics procedures.
+
+(2) A person who complies with the requirements provided for in the Civil Service Act and who has been granted the right to act as a vital statistics official by the minister responsible for the area after passing the examination of a vital statistics official may be appointed as a vital statistics official. The right to act as a vital statistics official shall be granted to an official by the minister responsible for the area for five years.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(3) The knowledge of an official and a minister of religion of family law and the legal bases of the performance of vital statistics procedures and the knowledge of the official of information technology systems used for the performance of vital statistics procedures shall be tested at the examination of a vital statistics official. Preliminary training shall be organised before the examination. Participation in training is not mandatory for persons taking the examination.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(3^1) After every five years, the minister responsible for the area shall extend the right to act as a vital statistics official for the following five years without the vital statistics official taking a new examination if the vital statistics official has, after every five years, participated in preliminary training organised before the examination specified in subsection (3) of this section.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(4) The procedure for the training and examination specified in subsection (3) of this section and the format of the certificate of a vital statistics official shall be established by a regulation of the minister responsible for the area.
+
+(5) Subsections (2) and (3) of this section shall not apply to consular officers and notaries performing vital statistics procedures. In order to acquire the competence to certify contraction of marriage or divorce, notaries are required to pass an evaluation of their knowledge of family law, name law and the legal bases of and information technology systems used for the performance of vital statistics procedures. Attestation of a notary shall be organised by the Chamber of Notaries pursuant to the procedure established by the Government of the Republic.
+[RT I 2010, 20, 103 - entry into force 28.05.2010]
+
+§ 5. Revocation of right to perform vital statistics procedures
+
+() The minister responsible for the area shall revoke the right of a vital statistics official to perform vital statistics procedures:
+1) on the basis of a reasoned written application of the county government of the location of the vital statistics office if the activities of the vital statistics official upon performing vital statistics procedures are contrary to legislation and the vital statistics official has thereby committed a serious violation related to office;
+2) on the basis of an application of the vital statistics official;
+3) on the basis of a reasoned proposal of a vital statistics office.
+
+§ 6. Basis for vital statistics entry
+
+(1) For the purpose of making a vital statistics entry, an application in compliance with the requirements provided by law and, in the cases provided by law, a document certifying the facts to be entered in the register shall be submitted. In order to establish the facts necessary for making a vital statistics entry, a vital statistics official may apply the principle of investigation provided for in the Administrative Procedure Act. The submission of the document or information is not required if the information necessary for making an entry can be obtained from the population register.
+
+(2) A reference shall be added to a vital statistics entry which allows to examine the application or document which is the basis for the entry. If the application or document is not prepared electronically, a vital statistics official shall put it in a format which can be electronically reproduced.
+
+(3) A foreign document which is the basis for a vital statistics entry shall be legalised or authenticated by a certificate (apostille) specified in the first paragraph of Article 3 of the Convention Abolishing the Requirement of Legalisation for Foreign Public Documents, unless otherwise prescribed by an international agreement or the document is forwarded through diplomatic or official channels.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(4) A foreign court decision which is the basis for a vital statistics entry shall be recognised in accordance with an international agreement or the Code of Civil Procedure.
+
+(5) Documents submitted to a vital statistics office shall be in Estonian or, in the case of documents in foreign languages, except in Russian and English, translated into Estonian, Russian or English. The translation shall be made by a sworn translator or certified by a notary.
+[RT I, 23.12.2013, 1 - entry into force 01.01.2014]
+
+§ 7. Making of vital statistics entries
+
+(1) A vital statistics official certifying or establishing a fact to be entered in the population register shall make the decision as a vital statistics entry. Only decisions to refuse to make an entry shall be prepared in writing.
+
+(1^1) Vital statistics entries shall be registered in the population register.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(2) A vital statistics entry shall contain the name of the vital statistics office, the date and number of the entry.
+
+(3) A vital statistics entry shall be made on the basis of a proper application. In cases provided by law, a vital statistics official shall make a vital statistics entry on his or her own initiative (ex officio).
+
+(4) Upon making a vital statistics entry, a vital statistics official shall enter the data provided for in this Act in the population register. A vital statistics official shall verify the correctness of the data before making an entry. Data entered previously in the register shall be used upon making an entry, if possible. The vital statistics official who makes an entry shall check the correctness and completeness of the entry and that the entry is stored in the population register.
+
+(5) If data are missing, data fields shall be left empty.
+
+(6) A vital statistics entry shall be made at a vital statistics office where an application is submitted for certification or establishment of a fact related to the marital status of a person or other fact to be entered in the population register.
+
+(7) A vital statistics entry shall be explained to the applicant who is present and the applicant shall be informed that upon request an extract of the created or changed vital statistics data shall be issued to the applicant. An extract shall be sent by electronic means or unregistered letter to the applicant who is not present at the request thereof.
+
+(8) If the making of entries in the population register is temporarily not possible, entries shall be made on paper. Entries made on paper shall be transferred to the population register by a data acquisition entry as soon as possible. Entries made on paper and printouts of data acquisition entries shall be forwarded to the Ministry of the Interior for storage.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(9) The form of entries made on paper shall be established by the minister responsible for the area and the minister responsible for the area shall also have the right to regulate the details of the procedure provided for in subsection (8) of this section by a regulation.
+
+(10) A printout signed by the person making the entry shall be immediately made of an entry made in the population register on the basis of this Act and shall be forwarded to the Ministry of the Interior for storage. The procedure for forwarding and storage of printouts shall be established by the minister responsible for the area. If a data acquisition entry is made on the basis of a foreign document, a copy of the document signed by an official which is the basis for the entry shall be forwarded to the Ministry of the Interior together with the signed printout.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(11) Entries upon the making of which the formal prerequisites of the source document are verified without verifying the contents of the document shall be made by a data acquisition entry. In such case, the issuer of the document shall be responsible for the correctness of the data.
+
+§ 8. Entry into force of vital statistics entries
+
+(1) A prerequisite for entry into force of a vital statistics entry is the signing thereof by a vital statistics official competent to make the entry.
+
+(2) A vital statistics entry shall be signed digitally.
+
+(3) A vital statistics entry shall enter into force upon storage thereof in the population register. A vital statistics entry made on paper shall enter into force upon signing thereof by a vital statistics official.
+
+§ 9. Application submitted to vital statistics office
+
+(1) An application for the performance of vital statistics procedures shall be submitted by the person in respect of whom the vital statistics entry is made. An entry shall be made on the basis of an application of another person or ex officio only in the cases provided by law.
+
+(2) An application shall be submitted personally and in writing or in a digitally signed electronic form, unless otherwise provided by law.
+
+(3) An application shall be submitted at a vital statistics office. A person need not appear at a vital statistics office in order to submit an application if he or she submits a digitally signed application or a written application on which the authenticity of the signature of the applicant is officially certified.
+
+(4) If a vital statistics official certifies or establishes a fact which results in the need to change the data of another person, in particular a child or former spouse of the applicant, the data of the other person may be changed without his or her application.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(5) In addition to other data required by law, an application submitted to a vital statistics office shall set out the following data on the applicant:
+1) personal name;
+2) personal identification code, in the absence thereof, date of birth and sex;
+3) clearly worded content of the application;
+4) information on place of birth;
+5) data on residence;
+6) contact details, including telephone number and e-mail address;
+7) citizenship;
+8) marital status;
+9) nationality;
+10) mother tongue;
+11) education;
+12) area of activity.
+
+(5^1) For the purposes of this Act, the residence of a person shall be the residence entered in the population register.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(6) If an application is submitted by a citizen of a foreign state who does not have an Estonian personal identification code, he or she shall, in addition to the data specified in subsection (5) of this section, indicate in the application submitted to a vital statistics office the data of the document certifying his or her citizenship and, if he or she has a foreign personal identification code, his or her personal identification code.
+
+(7) An application shall be registered if it includes at least the data specified in clauses (5) 1)–3) of this section. If the specified data are incomplete, the application shall not be accepted. The application shall be registered in the population register.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(8) Until the making of an entry, the applicant may amend or withdraw his or her application in the form specified in subsection (2) of this section.
+
+(9) The information specified in clauses (5) 9)–12) of this section shall be collected for statistical purposes and applicants shall be informed that the provision thereof is voluntary.
+
+(10) An applicant shall present a document specified in clauses 2 (2) 1)–8) or § 4 of the Identity Documents Act or a foreign travel document for identification, except upon submission of a digitally signed application.
+
+(11) The minister responsible for the area may establish by a regulation the forms of applications submitted to vital statistics offices.
+
+§ 9^1. Use of interpreter upon performance of vital statistics procedures
+
+(1) If an applicant is not proficient in Estonian and the vital statistics official does not translate what is related to the procedure himself or herself, the official shall notify the applicant of the possibility to involve an interpreter in the performance of the procedure.
+
+(2) The costs of involving an interpreter shall be borne by the applicant.
+
+(3) The interpreter shall translate the content of the application for the performance of a vital statistics procedure orally. The correctness of data shall be verified by the signature of the applicant on the application. A notation concerning the language into which the application was translated and the personal data of the interpreter shall be made in the application. The interpreter shall confirm the notation by his or her signature.
+
+(4) If the vital statistics official has doubts concerning the correctness of the translation, he or she may refuse participation of the interpreter involved by the applicant in the proceedings. If necessary, the term for proceedings shall be extended until the applicant involves a trustworthy interpreter.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 10. Party to proceedings who is deaf, mute, blind or unable to write
+
+(1) If a party to a vital statistics procedure, according to him or her or to a vital statistics official, does not hear or speak sufficiently, the vital statistics official shall communicate with him or her in writing.
+
+(2) If an applicant, according to him or her or a vital statistics official, does not see or is unable to complete and sign in own hand the application, the vital statistics official shall complete the application on the basis of the statements of the applicant, the signature field shall be left empty and the official who accepts the application shall make a corresponding notation on the application.
+
+§ 11. General principles for change and correction of vital statistics data
+
+(1) Vital statistics data shall be changed and corrected only in the cases and pursuant to the procedure provided for in this Act, the Family Law Act or the Names Act.
+
+(2) Upon changing and correcting vital statistics data, the former data shall be replaced by correct data. The replaced data shall be transferred to the archives of the population register.
+
+(3) Reproduction of changed and corrected vital statistics data shall be possible permanently.
+
+(4) Upon access to vital statistics data and in an extract, the replaced data are presented only when the presentation thereof is specifically applied for. Upon reproduction of replaced data, it shall be clear that the data are replaced data.
+
+§ 12. Correction of vital statistics data
+
+(1) A vital statistics office shall correct spelling mistakes and other obvious inaccuracies in vital statistics data which do not affect the content of the data. A vital statistics office may make a correction on the basis of a corresponding application or ex officio.
+
+(2) Vital statistics data shall also be corrected if the incorrectness of the data is due to an error in the document which is the basis for the entry and the document has been corrected. Upon correction of vital statistics data entered in the population register by a data acquisition entry from a vital statistics act, the vital statistics act which was the basis for the entry of the data in the register shall not be corrected.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(3) A person whose data have been corrected shall be sent an extract of the corrected data by unregistered mail or electronic means at his or her request.
+
+§ 13. Change of vital statistics data
+
+(1) Vital statistics data shall be changed by the vital statistics office which received the application for change of data. In the case provided for in subsection (3) of this section, the entry concerning the change shall be made on the basis of a decision of an Estonian court by the county government of the location of the court.
+
+(2) The vital statistics data of a person shall be changed on the basis of his or her application, a court judgment, a decision of a vital statistics office or other document certifying the change. Data shall be changed on the basis of a decision of a vital statistics office only if the vital statistics office is competent to certify or establish the fact to be entered in the register.
+
+(3) A vital statistics office may make the necessary changes in vital statistics data ex officio if the vital statistics data have changed on the basis of a court judgment or if the incorrectness of the data is apparent from Estonian or foreign vital statistics documents or other documents.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(4) If a person finds that the vital statistics data entered in the population register concerning him or her are incorrect but there is no basis provided for in subsections (2) and (3) of this section for changing the data, the person has the right of recourse to a court for the establishment of the fact and the vital statistics data shall be changed on the basis of a court decision establishing the fact to be entered in the register.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(5) If a vital statistics office establishes the nullity of a fact related to marital status or the nullity of a vital statistics entry, the vital statistics office shall change the vital statistics data to the necessary extent and enter a reference to the legal basis of the nullity in the population register.
+
+(6) If an entry has been made on the basis of a vital statistics act which is invalid or void, the vital statistics office shall declare the entry invalid.
+
+(7) Upon changing of vital statistics data entered in the population register by a data acquisition entry from a vital statistics act, the vital statistics act which was the basis for the entry of the data in the register shall not be changed.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 14. Restriction on performance of vital statistics procedures
+
+(1) A vital statistics official shall not perform vital statistics procedures with regard to himself or herself and other persons specified in subsections 10 (1) and (2) of the Administrative Procedure Act.
+
+(2) Entries made in violation of the prohibitions provided for in subsection (1) of this section are void.
+
+(3) A vital statistics official who has established the nullity of a vital statistics entry shall change the vital statistics data pursuant to the procedure provided for in subsection 13 (5) of this Act.
+
+§ 15. Release of vital statistics data
+
+() [RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(1) A person has the right to obtain extracts of vital statistics data concerning himself or herself, his or her minor children and wards. In other cases data are released upon existence of legitimate interest, taking account of the provisions of subsection 72 (3) of the Population Register Act.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(2) Certified extracts shall be made of vital statistics data. Extracts may be issued both electronically and on paper. An extract shall have the notation "Kinnitatud väljavõte" [Certified extract].
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(3) A vital statistics official shall certify an electronic extract by digital signature. A vital statistics official shall certify an extract issued on paper by signature and the seal of the vital statistics office.
+
+(4) An extract reflects vital statistics data as at the time of making of the extract. If the data in the extract are different from the data in the population register, the data in the population register shall be deemed to be correct.
+
+(5) At the request of an applicant, an extract may also contain changed or corrected data.
+
+(6) Extracts shall be prepared in Estonian. An extract to be presented in a foreign state shall be prepared in multiple languages.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(7) The forms of extracts and the list of languages used in extracts prepared in multiple languages shall be established by a regulation of the minister responsible for the area.
+
+(8) State authorities and local government authorities and others who perform public duties shall rely on the data entered in the population register and shall not request submission of an extract.
+
+§ 15^1. Certificate issued regarding vital statistics event
+
+(1) A certificate in the form of a certified extract shall be issued to a person regarding a vital statistics event provided for in this Act which occurred at an Estonian vital statistics office.
+
+(2) Every applicant has the right to receive a certificate regarding the entry concerning a vital statistics event. The initial certificate shall be issued within 14 days from making of the entry. At the request of the applicant, the vital statistics office shall issue the initial certificate immediately after making the entry concerning the vital statistics event.
+
+(3) A duplicate certificate shall be issued by a county government or consular officer on the basis of an application for the issue of a certificate regarding a vital statistics event submitted by the person. The application may also be submitted through a representative. Right of representation shall be granted by a written authorisation document.
+
+(4) Initial certificates are issued free of charge. A state fee shall be paid for the issue of a duplicate certificate according to the rate provided for in the State Fees Act.
+
+(5) An extract provided for in subsection 15 (6) of this Act prepared in multiple languages to be presented in a foreign state shall be issued in the form of a duplicate certificate.
+
+(6) A person can apply for a certificate regarding vital statistics data concerning himself or herself and his or her minor children or wards through the information portal eesti.ee.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 15^2. Release of data from document concerning change under family law and names law
+
+(1) Data from a document concerning a change under family law or names law stored at a vital statistics office shall be released to:
+1) an adult concerning himself or herself, his or her minor children and wards;
+2) state and local government authorities and legal and natural persons for the performance of public duties assigned to them by law or on the basis thereof;
+3) legal and natural persons with legitimate interest, taking account of the provisions of subsection 72 (3) of the Population Register Act.
+
+(2) Data from a document stored at a vital statistics office shall be released in the form of a statement or copy of the vital statistics document.
+
+(3) In the case provided for in clause (1) 2) of this section, data shall be released only if the data have not been entered in the population register.
+
+(4) Birth data concerning a stillborn child born before 1 July 2010 shall be released in the form of a birth certificate to which a notation shall be added indicating that the child was stillborn.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 15^3. State fee for issue of certificate regarding court judgement made in matrimonial matters based on Council Regulation (EC) No 2201/2003
+
+(3) For the issue of a certificate regarding court judgement made in matrimonial matters on the basis of Council Regulation (EC) No 2201/2003 concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility, repealing Regulation (EC) No 1347/2000 (OJ L 338, 23.12.2003, p. 1–29), a state fee shall be paid according to the rate provided for in the State Fees Act.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 16. Modification of data in population register
+
+(1) If it becomes evident upon making a vital statistics entry that data entered in the population register concerning the applicant are incorrect or incomplete, a vital statistics official shall modify the data pursuant to the Population Register Act to the extent that it is possible without postponing the making of the vital statistics entry.
+
+(2) If a vital statistics entry is made concerning a person whose data have not been entered in the population register, the person shall be granted a personal identification code pursuant to the procedure provided for in the Population Register Act before making the entry.
+
+(3) If a vital statistics act prepared at an Estonian vital statistics office is destroyed or damaged, the entry shall be based on the decision of a vital statistics official which is made on the basis of documents verifying the existence and data of the vital statistics act. In order to make the entry, at least the set of data to be entered on a vital statistics certificate shall be verified.
+
+2. chapter  GRANT OF RIGHT TO PERFORM FUNCTIONS RELATED TO CONTRACTION OF MARRIAGE TO MINISTERS OF RELIGION 
+
+§ 17. Right to perform functions related to contraction of marriage
+
+(1) The minister responsible for the area may grant a minister of religion of a church, congregation or association of congregations the right to perform the functions of vital statistics offices which are related to the contraction of marriage if the minister of religion:
+1) has active legal capacity;
+2) is at least 21 years of age;
+3) has oral and written proficiency in Estonian;
+4) has at least secondary education;
+5) has undergone the training specified in subsection 4 (3) of this Act and passed the examination of a vital statistics official;
+6) has not been punished for an intentionally committed criminal offence;
+7) is not under preliminary investigation for or accused of a criminal offence for which the law prescribes imprisonment;
+8) has not been deprived of the right to act as a vital statistics official by a court decision entered into force;
+9) has not been punished for an act of corruption under administrative or criminal procedure;
+10) is a citizen of Estonia, the European Union, a Member State of the European Economic Area or the Swiss Confederation.
+
+(2) The right specified in subsection (1) of this section is granted for a period of five years. Every five years, a minister of religion shall be granted the right specified in subsection (1) of this section on the basis of an application specified in subsection 18 (1) of this Act for the following five years without taking a new examination if the minister of religion:
+1) has certified the contraction of at least 25 marriages during the previous period of five years;
+2) complies with the requirements provided for in clauses (1) 1)–4) and 6)–10) of this section;
+3) has undergone the training specified in subsection 4 (3) of this Act every five years.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 18. Application for right and documents to be submitted
+
+(1) A church, congregation or association of congregations entered in the register of religious associations shall submit an application to the minister responsible for the area for the grant of the right to perform the functions related to the contraction of marriage to a minister of religion.
+
+(2) An application specified in subsection (1) of this section shall set out the following information:
+1) the name, registration number, postal address and telecommunications numbers of the church, congregation or association of congregations which submits the application;
+2) the personal name, date of birth, personal identification code, education and citizenship of the minister of religion;
+3) the time and place of passing the examination specified in subsection 4 (3) of this Act;
+4) the time and place of undergoing the training specified in subsection 4 (3) of this Act if passing of the examination is not required for granting the right to perform the functions related to the contraction of marriage.
+
+(3) Copies of the documents certifying the information specified in clauses (2) 2) and 3) of this section and three specimen signatures of the minister of religion shall be appended to the application.
+
+(4) The application shall be signed by the minister of religion and the chairman of the management board of the church or association of congregations which submits the application. If the application is submitted by a congregation which does not belong to a church or association of congregations, the application shall be signed by the chairman of the management board of the congregation.
+
+§ 19. Review of applications
+
+(1) The minister responsible for the area shall review the submitted applications and make a decision to grant or to refuse to grant the right to perform the functions related to the contraction of marriage by a directive within 30 days after receipt of the application.
+
+(2) The minister responsible for the area shall refuse to grant the right to a minister of religion if:
+1) the application does not contain all the information specified in subsection 18 (2) of this Act regardless of the additional term set for the submission of information;
+2) the application contains knowingly submitted false information.
+
+(3) A copy of the directive of the minister responsible for the area shall be sent to the county government of the registered office of the congregation of the minister of religion and to the applicant.
+
+(4) The minister responsible for the area shall provide a minister of religion who has been granted the right to certify the contraction of marriage by the minister responsible for the area with an identification seal bearing the grand national coat of arms. The specimen signature and seal impression of a minister of religion who has been granted the right by the minister responsible for the area shall be forwarded to the Ministry of Foreign Affairs and the county government of the registered office of the congregation of the minister of religion.
+
+§ 20. Revocation of right granted to minister of religion
+
+(1) The minister responsible for the area shall revoke the right to certify the contraction of marriage granted to a minister of religion:
+1) if the application contains false information;
+2) on the basis of a reasoned written application of the county government of the registered office of the congregation of the minister of religion if the activities of the minister of religion upon performance of the functions related to the contraction of marriage are contrary to legislation and the minister of religion has thereby committed a serious violation related to office;
+3) on the basis of an application of the minister of religion;
+4) on the basis of a reasoned proposal of the management board of a church, congregation or association of congregations.
+
+(2) Upon revocation of the right to certify the contraction of marriage granted to a minister of religion, the minister of religion or a representative of the church, congregation or association of congregations shall deliver the seal of the minister of religion to the Ministry of the Interior and the forms specified in subsection 42 (8) of this Act to the county government of the registered office of the congregation of the minister of religion within one month after revocation of the right.
+
+3. chapter  VITAL STATISTICS ENTRIES 
+
+1. division  Registration of birth 
+
+§ 21. Registration of birth in Estonian vital statistics office
+
+(1) A birth shall be registered in an Estonian vital statistics office if:
+1) the child is born in Estonia;
+2) the residence of a parent of the child is in Estonia or
+3) a parent of the child is an Estonian citizen.
+
+(2) An Estonian vital statistics office shall register a birth in the cases specified in subsection (1) of this section unless the birth is registered in a foreign state.
+
+§ 22. Registration of birth
+
+(1) The following data shall be entered in the population register upon registration of a birth:
+1) the personal name, sex, date of birth, personal identification code, place of birth and citizenship of the child;
+2) the personal identification code of the mother;
+3) the personal identification code of the father;
+4) right of custody.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(2) The birth of a stillborn child shall not be registered pursuant to the procedure provided for in this Division.
+
+(3) A vital statistics office shall register a birth within seven working days after the receipt of an application for registration of the birth.
+
+(4) A rural municipality or city government performing the duties of a guardian shall register a birth ex officio within seven working days after starting to perform the duties of a guardian.
+
+§ 23. Application for registration of birth
+
+(1) In order to register a birth, the legal representative of the child shall personally submit a relevant application at a vital statistics office within one month from the date of birth of the child. With good reason, the term for the registration of birth may be extended to up to two months.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(2) The application shall set out the information specified in subsection 9 (5) and subsection 22 (1) of this Act and documents certifying the information shall be appended to the application. If the birth of a child is registered by a guardian who is a legal person, the information specified in subsection 22 (1) of this Act shall be included in the application.
+
+(3) If the mother of a child is not married and the father of the child has not submitted an application for acknowledgement of paternity, a vital statistics official shall explain to the applicant the possibility to submit an application for acknowledgement of paternity and the possibility to demand the establishment of filiation by a court proceeding.
+
+(4) Parents who are married to each other may submit an application for registration of birth through the information portal eesti.ee or in a digitally signed form if the health care provider has forwarded the data of the medical birth certificate to the population register.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 24. Registration of data of child
+
+(1) The personal name of a child shall be entered in the population register on the basis of an application of the legal representative of the child.
+
+(2) The sex, date of birth and personal identification code of a child shall be entered in the population register on the basis of a certificate of a health care provider or a court decision. If a certificate of a health care provider issued in a foreign state does not contain a personal identification code, the child shall be granted an Estonian personal identification code on the basis of the Population Register Act before registration of the birth in a foreign mission of Estonia or an Estonian vital statistics office. In the case of a foundling, an estimated date of birth shall be entered as the date of birth on the basis of the estimate of a health care provider.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(3) The county and the city or rural municipality where the child was born shall be entered in the register as the place of birth of the child. The registration of the place of birth of a child born in a foreign state shall be based on the administrative division of the country of birth. In the case of a foundling, the place of finding the child shall be registered as the place of birth on the basis of a certificate of a police authority.
+
+(4) Estonian citizenship shall be entered in the population register as the citizenship of a child upon registration of the birth if at least one parent is an Estonian citizen. Upon registration of the birth of a child of a citizen of a Member State of the European Union, Member State of the European Economic Area or the Swiss Confederation, the citizenship of the child shall be entered in the population register on the basis of an application of the parents.
+
+(5) The form of the certificate of a health care provider submitted to a vital statistics official registering the birth of a child shall be established by a regulation of the minister responsible for the area.
+
+§ 25. Registration of data of parents and guardian
+
+(1) The data of the mother of a child shall be entered in the population register on the basis of a certificate of a health care provider or a court decision.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(2) The data of the father of a child shall be entered in the population register on the basis of a document certifying the marriage of the father to the mother of the child or an application for acknowledgement of paternity specified in § 26 of this Act and the accompanying consent of the mother or on the basis of a court decision establishing filiation.
+
+(3) The data of the man who is married to the mother of a child shall not be entered in the population register as the data of the father only in the cases specified in § 85 of the Family Law Act if the spouses have submitted a corresponding joint application to a vital statistics office or if another man has acknowledged paternity. The joint application may be submitted by appearing in person or in a notarially certified format. A parent who is living in a foreign state may submit a written application on which the signature of the applicant is notarially certified by an Estonian consular officer.
+[RT I, 29.06.2014, 3 - entry into force 09.07.2014]
+
+(4) If a parent is deceased, a document certifying the death of the parent shall be submitted to a vital statistics office.
+
+(5) If the filiation of a child has not been established pursuant to the Family Law Act, data of a parent shall not be entered in the register.
+
+(6) The data of a guardian appointed to a child shall be entered in the population register on the basis of the court ruling on the appointment of the guardian.
+
+(7) If there is reason to believe that submission of the application specified in subsection (3) of this section may be impossible or difficult after the birth of the child, the application may be submitted during the pregnancy of the woman.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 26. Submission of application for acknowledgement of paternity and grant of consent to acknowledgement
+
+(1) In order to verify filiation, an application for acknowledgement of paternity and the consent required for the acknowledgement of paternity shall be submitted to a vital statistics office by appearing in person or in a notarially authenticated format. A parent who is living in a foreign state may submit a written application on which the signature of the applicant is notarially certified by an Estonian consular officer.
+
+(2) [Repealed - RT I, 29.06.2014, 3 - entry into force 09.07.2014]
+
+(3) Upon acceptance of the declarations of intention specified in subsection (1) of this section, a vital statistics official or a consular officer shall explain the legal consequences of the declaration of intention to the person concerned.
+
+(4) [Repealed - RT I, 29.06.2014, 3 - entry into force 09.07.2014]
+
+(5) If there is reason to believe that submission of the application specified in subsection (1) of this section may be impossible or difficult after the birth of the child, the application may be submitted during the pregnancy of the woman.
+
+(6) If a child was born as a result of artificial insemination provided for in §§ 18 and 21 of the Artificial Insemination and Embryo Protection Act, the man's consent to artificial insemination of the woman shall substitute for the application for acknowledgement of paternity.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 27. Additional data to be submitted in application for acknowledgement of paternity and grant of consent to acknowledgement
+
+() If paternity is acknowledged after the registration of the birth of a child, the following data shall be submitted in the application for acknowledgement of paternity and grant of consent to acknowledgement in addition to the data specified in subsection 9 (5) of this Act:
+1) the personal name, personal identification code and citizenship of the child;
+2) the personal name and personal identification code of the mother of the child;
+3) changes in a parent's right of custody.
+
+§ 28. Entry concerning acknowledgement of paternity
+
+(1) If paternity is acknowledged simultaneously with the registration of birth, a separate entry concerning acknowledgement of paternity shall not be made.
+
+(2) If paternity is not acknowledged simultaneously with the registration of birth, the entry concerning acknowledgement of paternity shall contain the following information:
+1) the personal name, personal identification code and citizenship of the child;
+2) the personal name and personal identification code of the father.
+
+§ 29. Registration of right of custody
+
+(1) If the parents of a child are married to each other or have married after the birth of the child, data concerning joint right of custody shall be entered in the population register.
+
+(2) If the parents are not married to each other, they shall state whether they wish to exercise joint right of custody or leave the right of custody only to one of the parents upon submitting the application for acknowledgement of paternity and the corresponding consent of the mother. A vital statistics official shall explain to them the rights and obligations arising from joint right of custody, the possibility to leave the right of custody only to one of the parents and the legal consequences accompanying the registration of the birth of a child.
+
+§ 30. Birth certificate
+
+(1) In order to certify a birth, a certified extract of the following data in the population register shall be issued:
+1) the personal name, personal identification code, date of birth and place of birth of the born person;
+2) the personal name, personal identification code and date of birth of both parents of the born person.
+3) the number of the entry.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(2) A birth certificate shall contain the personal names of the born person and his or her parents as at the time of making of the entry. At the request of the applicant, an extract of the changes in the names of the born person or the parents, or in other data specified in subsection (1) of this section shall be appended to the birth certificate.
+
+(3) The birth certificate of an adopted child shall contain data as at the time following the adoption. Data preceding the adoption shall be issued only upon the application of the adopted child who has become an adult.
+
+(4) The form of birth certificates shall be established by a regulation of the minister responsible for the area.
+
+(5) An extract of other data shall be appended to the birth certificate upon request.
+
+(6) A state fee shall be paid for the issue of a birth certificate according to the rate provided for in the State Fees Act.
+
+2. division  Registration of death 
+
+§ 31. Registration of death in Estonia
+
+(1) A death shall be registered by an Estonian vital statistics office pursuant to the procedure provided for in this Division if:
+1) the person dies in Estonia;
+2) the last residence of the person deceased in a foreign state was in Estonia or
+3) the person deceased in a foreign state was an Estonian citizen.
+
+(2) An Estonian vital statistics office shall register a death in the cases specified in subsection (1) of this section unless the death is already registered in a foreign state.
+
+(3) On the basis of a court ruling on declaration of death, a county government of the location of the court which is performing the functions of a vital statistics office shall ex officio make a data acquisition entry.
+
+§ 32. Registration of death
+
+(1) The following data shall be entered in the population register for registration of a death:
+1) the personal name and personal identification code of the deceased person;
+2) the place and time of death;
+3) the place of finding of the deceased person if the place of death is unknown;
+4) the place of burial;
+5) changes in right of custody due to the death;
+6) termination of marriage;
+7) the personal name and personal identification code of the person submitting the application for registration of the death.
+
+(2) If the personal data of the deceased person have not been entered in the population register, the missing data shall be entered in the register on the basis of an identity document of the deceased person, medical death certificate or a certificate of a police authority.
+
+(3) Data concerning the place and time of death shall be registered on the basis of a medical death certificate, certificate of a police authority or court decision on declaration of death of the person.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(4) If there is no data concerning the time of death, a notation shall be made in the register stating that the exact time of death cannot be determined and the time of death shall be indicated with the accuracy of a week, month or year if possible.
+
+(5) If the place of burial of the deceased person is known, the name and the location of the cemetery shall be entered in the register as the place of burial on the basis of the statements of the applicant. The place of cremation of the deceased person shall not be indicated as the place of burial.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(6) The relevant county and city or rural municipality shall be registered as the place of death, burial and finding.
+
+(7) Upon registration of the death of an unidentified person, the data on the medical death certificate shall be entered in the register. The given names field of the unidentified person shall be left empty and the notation "unidentified male", "unidentified female" or "unidentified person" shall be added instead of surname.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(8) A vital statistics office shall register a death within three working days after the receipt of a corresponding application.
+
+§ 33. Documents submitted for registration of death
+
+(1) In order to register a death, the spouse, a relative or relative by marriage of the deceased person, or the head of an institution providing health care services, a police officer or another person who has information concerning the death of the person shall submit an application to a vital statistics office within seven days after the date of death of the person or the date of finding of the deceased person.
+
+(2) In addition to other required data, an application shall set out the data specified in subsection 32 (1) of this Act and the documents specified in subsections 32 (2) and (3) of this Act shall be appended to the application.
+
+(3) If a death is registered by the head of an institution providing health care services, a police officer or a representative of a legal or natural person based on a transaction, he or she shall submit only the data specified in clauses 9 (5) 1), 2) and 6) of this Act concerning himself or herself and the registry code and registered office of the legal person he or she represents in the application for registration of the death.
+
+§ 34. Obligations arising from registration of death
+
+(1) If it becomes evident upon registration of a death, that the deceased person had sole custody over a minor child or the deceased person was a guardian of a person with restricted active legal capacity, a vital statistics official shall notify the rural municipality or city government or court of the residence of the child or the person under guardianship of the death.
+
+(2) Upon registration of a death, the applicant shall give the identity document of the deceased person to the vital statistics official. An identity document issued in Estonia shall be forwarded by the vital statistics office to the Police and Border Guard Board within one month from the delivery thereof. An identity document issued in a foreign state shall be forwarded by the rural municipality or city government to the county government of the location thereof within one month from the delivery of the document together with printouts of the entry. The county government shall forward the identity document to the foreign mission of the country of nationality of the deceased person located in Estonia within one month from the receipt thereof. If there is no foreign mission of the country of nationality of the deceased person located in Estonia, the county government shall forward the identity document of the deceased person issued in a foreign state to the Ministry of Foreign Affairs.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 35. Change of data concerning death
+
+(1) If a person declared dead returns alive, a vital statistics office shall cancel the data concerning the death entered in the population register on the basis of a court ruling on annulment of the ruling on declaration of death and, if necessary, change other vital statistics data. If the marriage of a person declared dead or his or her right of custody is restored pursuant to law, a vital statistics office shall make the necessary entries concerning the specified facts.
+
+(2) A vital statistics office shall cancel or change the data concerning death and, if necessary, change other vital statistics data ex officio if it is proven that the person whose death was registered is alive, the death of a wrong person has been registered or it is clear that the death has been registered without basis for other reasons or if the person registered as an unidentified deceased person has been identified and a new medical death certificate has been prepared. This subsection does not apply if the death is established by a court or the person is declared dead by a court.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 36. Death certificate
+
+(1) In order to certify a death, a certified extract of the following data in the population register shall be issued:
+1) the personal name, personal identification code and date of birth of the deceased person;
+2) the time of death and the time of registration of death;
+3) the number of the entry.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(2) An extract of other data shall be appended upon request.
+
+(3) A death certificate is not issued concerning a stillborn child. The death of a stillborn child is certified by a medical death certificate.
+
+(4) The form of death certificates shall be established by a regulation of the minister responsible for the area.
+
+(5) A state fee shall be paid for the issue of a death certificate according to the rate provided for in the State Fees Act.
+
+3. division  Contraction of Marriage 
+
+1. subdivision  Preparation for contraction of marriage 
+
+§ 37. Application for marriage
+
+(1) In order to contract marriage, prospective spouses shall personally submit a joint written application for marriage at the vital statistics office where they wish to contract marriage or to a minister of religion entitled to certify the contraction of marriage.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(2) In the application for marriage, prospective spouses shall express their wish to contract marriage with each other. They confirm that there are no circumstances hindering the contraction of marriage. A prospective spouse shall indicate the following in an application for marriage:
+1) whether he or she wishes to keep the current surname or choose a new surname;
+2) if the previous marriage has been terminated, the basis of termination thereof;
+3) the desired time of contraction of marriage;
+4) whether the prospective spouses wish their proprietary relationship to be subject to the jointness of property, the set-off of assets increment or separateness of property regulation deriving from the Family Law Act;
+5) the number of the marriage to be contracted;
+6) the personal names and personal identification codes of the joint children of the prospective spouses;
+7) data on the cohabitation preceding the marriage;
+8) the number of children to be living with the prospective spouses after the contraction of marriage.
+
+(3) The information specified in clauses (2) 5), 7) and 8) of this section shall be collected for statistical purposes and applicants shall be informed that the provision thereof is voluntary.
+
+(4) Upon making the choice specified in clause (2) 4) of this section, a vital statistics official shall explain to the prospective spouses the legal nature of the proprietary relationships of jointness of property, set-off of assets increment and separateness of property as well as the fact that if the prospective spouses do not state their choice, they shall be considered to have chosen the jointness of property regulation.
+
+(5) The persons wishing to contract marriage may change the preference specified in clause (2) 4) of this section until the contraction of marriage, by personally submitting a joint written application to the vital statistics official to whom they submitted the application for marriage. The said changes shall form an integral part of the application for marriage. The latest choice of proprietary relationship shall have legal effect.
+
+(6) An application for change of data provided for in clause (2) 3) of this section may be submitted by one of the prospective spouses to the vital statistics office where the application for marriage was submitted.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 38. Documents submitted for contraction of marriage
+
+(1) The following documents shall be appended to an application for marriage:
+1) documents certifying the birth of both prospective spouses;
+2) in case of second or subsequent marriage, a document concerning the fact that the previous marriage has been terminated or annulled;
+3) a court ruling concerning the extension of the active legal capacity of a prospective spouse who is a minor;
+4) a document certifying the elimination of other hindrance to the contraction of marriage.
+
+(2) The submission of a document certifying the birth of a prospective spouse is not required if the prospective spouse proves that obtaining the certificate is impossible or excessively difficult.
+
+(3) If an alien wishes to contract marriage in Estonia, he or she shall in addition to submitting the documents prescribed in subsection (1) of this section prove that he or she has a legal basis for the stay in Estonia specified in the Aliens Act.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(4) A citizen of a Member State of the European Union or a person who is considered to be a family member of a citizen of the European Union pursuant to the Citizen of European Union Act is not required to prove that he or she has a legal basis for the stay in Estonia.
+
+§ 39. Submission of certificate of legal capacity to contract marriage for contraction of marriage in Estonia
+
+() [RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(1) A certificate of legal capacity to contract marriage is a document issued by the country of residence or nationality of a prospective spouse by which a competent authority of his or her country of residence or nationality certifies that the person has no hindrances to the contraction of marriage pursuant to the law of his or her country of residence or nationality.
+
+(2) A certificate specified in subsection (1) of this section is valid until the term specified on the certificate but not longer than six months from the issue thereof. The certificate must be valid at the time of contraction of the marriage.
+
+(3) A person whose residence is in a foreign state or who has resided in Estonia less than six months immediately before the submission of an application for marriage is required to submit a certificate of legal capacity to contract marriage.
+
+(4) A person whose citizenship is not determined and who has been issued an Estonian long-term residence permit or granted permanent right of residence, and a citizen of Estonia shall, if their residence is in a foreign state or if the have resided in Estonia less than six months immediately before the submission of an application for marriage and if they are unable to submit a certificate of legal capacity to contract marriage with good reason, provide a written confirmation concerning the fact that there are no hindrances to the contraction of marriage in the course of the proceedings of contraction of marriage at a vital statistics official. The confirmation shall substitute for a certificate of legal capacity to contract marriage.
+
+(5) A citizen of a foreign state whose residence is in a foreign state or who has resided in Estonia less than six months immediately before the submission of an application for marriage and who is unable to submit a certificate of legal capacity to contract marriage with good reason may be granted permission for contraction of marriage without the certificate by the court in whose territorial jurisdiction the marriage is intended to be contracted. Permission is valid for six months.
+
+(6) A person who has resided in Estonia at least six months immediately before the submission of an application for marriage and whose vital statistics data are recorded in the population register is not required to submit a certificate of legal capacity to contract marriage.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 40. Certificate of legal capacity to contract marriage of resident of Estonia and citizen of Estonia
+
+(1) If a resident of Estonia or a citizen of Estonia wishes to contract marriage outside Estonia, a certificate of legal capacity to contract marriage shall be issued to him or her at his or her request. The certificate shall be issued by a county government or Estonian consular officer in the region where the marriage is to be contracted. The certificate may in addition to the standard data also contain other data if this is necessary pursuant to the law of the state of contraction of the marriage.
+
+(2) An application for the issue of a certificate of legal capacity to contract marriage shall in addition to the data specified in subsection 9 (5) of this Act contain the name of the state to which the certificate is to be presented and the name, sex, personal identification code or, in the absence thereof, the date of birth, place of birth, residence and marital status of the person with whom the applicant wishes to contract marriage.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(3) An authority shall not issue a certificate until it is convinced, on the basis of the documents required for the contraction of marriage, that there are no hindrances to the contraction of marriage pursuant to Estonian law.
+
+(4) The certificate shall set out the prerequisites for contraction of marriage arising from Estonian law.
+
+(5) A certificate of legal capacity to contract marriage shall be valid for six months from the date of issue thereof.
+
+(6) If the issue of a certificate of legal capacity to contract marriage has been refused, the person applying for the certificate may file an appeal to an administrative court.
+
+(7) The form of certificates of legal capacity to contract marriage and data to be entered therein shall be established by a regulation of the minister responsible for the area.
+
+(8) A state fee shall be paid for the issue of a certificate of legal capacity to contract marriage according to the rate provided for in the State Fees Act.
+
+§ 41. Term for contraction of marriage
+
+(1) The date of contraction of marriage shall be determined upon agreement with the prospective spouses. A marriage shall not be contracted earlier than one month and later than three months from the date on which the prospective spouses submitted an application for marriage to a vital statistics office.
+
+(2) A vital statistics official may with good reason shorten or extend the term provided for in subsection (1) of this section. The term may be extended for up to six months after submission of the application for marriage.
+
+(3) If the vital statistics official has doubts concerning the correctness of the data, except statistical data, submitted in the application for marriage, the term for contraction of marriage shall be extended and correct data shall be ascertained. The term may be extended for up to the term provided for in subsection (2) of this section. Unless a hindrance to the contraction of marriage is eliminated, the marriage shall not be contracted.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(4) If the prospective spouses fail to appear on the determined date to contract marriage without giving a reason for the failure to appear, they shall be deemed not to have submitted an application for contraction of marriage.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+2. subdivision  Certification of contraction of marriage and making of marriage entry 
+
+§ 42. Marriage entry
+
+(1) A vital statistics official certifying the contraction of marriage pursuant to the Family Law Act shall immediately after the prospective spouses answer yes write the time on a pre-completed printout of the marriage entry, present the printout to them for signing and thereafter sign the printout himself or herself.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(2) The vital statistics official shall make the marriage entry in the population register on the day of contraction of the marriage or on the following working day at the latest. After making the entry, the vital statistics official shall enter the number and date of the entry, his or her name and signature on the pre-completed printout of the marriage entry. The printout of the entry specified in the previous sentence shall be deemed to be the printout provided for in subsection 7 (10) of this Act.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(3) If according to the application for marriage the spouses have chosen the set-off of assets increment or separateness of property as their proprietary relationship, the vital statistics official shall, on the day of contraction of the marriage, submit a corresponding notice together with a digitally signed transcript of the application for marriage to the land register department in whose territorial jurisdiction the spouses have their residence for making an entry in the marital property register. If the notice and the digitally signed transcript of the application for marriage cannot be submitted on the day of contraction of the marriage, the notice and the transcript shall be submitted on the first working day following the day of contraction of the marriage.
+[RT I, 19.12.2012, 1 - entry into force 29.12.2012]
+
+(4) The following data shall be entered in the population register for registration of a marriage:
+1) the personal name, personal identification code and residence of both prospective spouses;
+2) the new surname chosen upon contraction of marriage;
+3) the date, time and place of contraction of marriage;
+4) the name of the vital statistics office certifying the contraction of marriage;
+5) [repealed - RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+6) if a spouse was previously married, the basis for the termination of the previous marriage;
+7) changes in parent's right of custody arising from contraction of marriage.
+
+(5) The relevant county and city or rural municipality shall be registered as the place of contraction of marriage.
+
+(6) A minister of religion certifying the contraction of marriage pursuant to the Family Law Act shall immediately after the prospective spouses answer yes write the time on the marriage entry and present the marriage entry to them for signing and thereafter sign the entry himself or herself.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(7) A minister of religion shall within three working days from certifying the contraction of marriage forward the marriage entry on paper signed by the spouses and the application for marriage specified in subsection 37 (2) of this Act to the county government of the registered office of the congregation. The county government shall transfer the data of the marriage entry on paper to the population register by a data acquisition entry no later than on the working day following the receipt of the marriage entry. Thereafter the vital statistics official of the county government shall enter the number and date of the data acquisition entry and his or her name and signature on the marriage entry on paper prepared by the minister of religion. A reference to the marriage entry prepared by the minister of religion shall be added to the data acquisition entry.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(7^1) If according to the application for marriage the spouses have chosen the set-off of assets increment or separateness of property as their proprietary relationship, the county government shall, on the day of making the data acquisition entry specified in subsection (7) of this section, submit a corresponding notice together with a digitally signed transcript of the application for marriage to the land register department in whose territorial jurisdiction the county government is located for making an entry in the marital property register.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(8) The forms of applications for marriage, marriage entries and marriage certificates shall be issued to a minister of religion by the county government of the registered office of the congregation, which instructs ministers of religion in issues concerning the completion of documents related to the contraction of marriage.
+
+(9) A state fee shall be paid for the making of a marriage entry according to the rate provided for in the State Fees Act.
+
+§ 43. Marriage certificate
+
+(1) In order to certify the contraction of marriage, a certified extract of the following data in the population register shall be issued:
+1) the personal name, personal identification code and date of birth of both spouses;
+2) the pre-marital surname if a person chose a new surname upon contraction of marriage;
+3) the name of the vital statistics office certifying the contraction of marriage;
+4) the date of contraction of marriage.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+5) [repealed - RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(2) A marriage certificate shall contain the personal names of the spouses as at the time of making of the entry. A marriage certificate concerning a divorced spouse shall be issued only together with a notation on the divorce. An extract of the changes in names shall be added at the request of the applicant.
+
+(3) An extract of other data shall be appended upon request.
+
+(4) The form of marriage certificates shall be established by a regulation of the minister responsible for the area.
+
+(5) A state fee shall be paid for the issue of a marriage certificate according to the rate provided for in the State Fees Act.
+
+4. division  Divorce 
+
+§ 44. Application for divorce
+
+(1) In order to divorce, the spouses shall personally submit a joint written application to a vital statistics office.
+
+(2) In the application the spouses shall express their wish to divorce and confirm that they have no disputes concerning the circumstances relating to the divorce. In addition to the above, the application shall contain the following:
+1) the time and place of contraction of the marriage being dissolved;
+2) the surname after the divorce if a spouse wishes to restore the surname which was last borne before the marriage being dissolved or the surname which was last borne before the first marriage;
+3) the number of the marriage being dissolved;
+4) the number of joint children.
+
+(3) A document certifying the contraction of marriage shall be appended to the application for divorce.
+
+(4) If a spouse cannot appear with good reason at a vital statistics office in person for submission of a joint application, he or she may submit a separate notarially authenticated application.
+
+(5) The information specified in clauses (2) 3) and 4) of this section shall be collected for statistical purposes and applicants shall be informed that the provision thereof is voluntary.
+
+§ 45. Term for divorce
+
+(1) A divorce shall not be granted earlier than one month and later than three months from the date of submission of an application specified in § 44 of this Act.
+
+(2) Upon accepting an application, a vital statistics official shall determine the date of divorce which shall be communicated to both spouses.
+
+(2^1) If a spouse cannot appear with good reason at a vital statistics office for submission of a joint application for divorce and submits a separate notarially authenticated application, the date of the divorce shall be communicated to the spouse who submitted the application at the vital statistics office in person and the date of the divorce shall be thereby deemed to be communicated to both spouses.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(3) If the spouses cannot appear at the vital statistics office on the determined date with good reason, they shall notify the vital statistics office thereof and the vital statistics office shall determine a new date for divorce.
+
+(4) If the spouses fail to appear at the vital statistics office on the determined date to divorce without giving a reason for the failure to appear, they shall be deemed not to have submitted an application for divorce.
+
+(5) An application for changing the date of divorce provided for in subsection (2) of this section may by submitted by one of the spouses. In such case, the new date of the divorce shall be communicated to the spouse who submitted the application at the vital statistics office in person and the new date of the divorce shall be thereby deemed to be communicated to both spouses.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 46. Divorce
+
+(1) A vital statistics official shall grant a divorce in the presence of both spouses under the conditions provided for in the Family Law Act.
+
+(2) A vital statistics official granting a divorce shall present a pre-completed printout of divorce entry to the divorcing spouses for signing.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(3) A vital statistics official shall immediately register a divorce in the population register pursuant to § 48 of this Act.
+
+§ 47. Divorce without presence of spouse
+
+() A divorce may be granted without the presence of one spouse if the spouse cannot appear at a vital statistics office with good reason and the consent of the spouse to the divorce without the presence of the spouse which is authenticated by a notary or consular officer is submitted.
+
+§ 48. Divorce entry
+
+(1) The following data shall be entered in the population register for registration of a divorce:
+1) the personal name and personal identification code of both spouses;
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+2) the pre-marital surname if a spouse wishes to restore the surname which was last borne before the marriage or the surname which was last borne before the first marriage;
+3) the time and place of the divorce;
+4) the name of the office which granted the divorce.
+
+(2) A state fee shall be paid for the making of a divorce entry according to the rate provided for in the State Fees Act.
+
+(3) The divorce entry shall be made in the population register on the day of the divorce. After making the entry, the vital statistics official shall enter the number and date of the entry, his or her name and signature on the pre-completed printout of the divorce entry. The printout of the entry specified in the previous sentence shall be deemed to be the printout provided for in subsection 7 (10) of this Act.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 49. Divorce certificate
+
+(1) In order to certify a divorce, a certified extract of the following data in the population register shall be issued:
+1) the personal name, personal identification code and date of birth of both divorced spouses;
+2) the surname after the divorce if a divorced spouse restored the surname which was last borne before the marriage or the surname which was last borne before the first marriage;
+3) the name of the office which granted the divorce;
+4) the date of the divorce;
+5) the number of the entry.
+
+(2) An extract of other data shall be appended upon request.
+
+(3) The form of divorce certificates shall be established by a regulation of the minister responsible for the area.
+
+(4) A state fee shall be paid for the issue of a divorce certificate according to the rate provided for in the State Fees Act.
+
+3^1. chapter  REGISTRATION OF DATA CONCERNING REASSIGNMENT OF SEX 
+
+[
+					RT I
+					2013-11-22
+					1
+					122112013001
+				 - pub. 01.01.2014] 
+
+§ 49^1. Change of data in population register due to reassignment of sex
+
+(1) In order to change the data in the population register due to reassignment of sex, the person shall submit a written application and the decision of a medical assessment committee on the reassignment of sex to the county government.
+
+(2) The following data shall be entered in the population register upon reassignment of sex:
+1) the given names, sex and personal identification code;
+2) the surname of the applicant on the conditions provided for in § 15 of the Names Act.
+
+(3) Other data and vital statistics entries in the population register related to the person whose sex has been reassigned shall not be changed.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 49^2. Sex reassignment certificate
+
+(1) A person whose sex has been reassigned shall be issued an extract of vital statistics data concerning the change of data on the sex.
+
+(2) The form of sex reassignment certificates shall be established by a regulation of the minister responsible for the area.
+
+(3) An extract of other data shall be appended to the sex reassignment certificate upon request.
+
+(4) A state fee shall be paid for the issue of a sex reassignment certificate according to the rate provided for in the State Fees Act.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+4. chapter  DATA ACQUISITION BASED ON FOREIGN VITAL STATISTICS DOCUMENT 
+
+§ 50. Change and entry of vital statistics data of resident of Estonia and citizen of Estonia
+
+(1) If changes in the marital status of a person have been certified or established in a foreign state, the changed or created vital statistics data shall be entered in the population register by a data acquisition entry provided that the changes are recognised in Estonia. The data shall be entered in the population register by a data acquisition entry from the foreign document to the extent in which such vital statistics data are registered in Estonia. If the foreign document does not contain the data specified in the previous sentence, the official making the entry shall decide whether a data acquisition entry on the basis of the existing data shall be made or not.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(2) A person whose data have been entered in the population register is required to submit to an Estonian vital statistics office an application for the registration of a change in his or her marital status, if the change has occurred in a foreign state, and the necessary documents for entry of the change in the population register. Applications are accepted by all county governments. An application may be submitted orally.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+(3) A reference to the foreign vital statistics document shall be added to the data acquisition entry pursuant to subsection 6 (3) of this Act.
+
+(4) In the case provided for in subsection (1) of this section, data acquisition may be performed ex officio.
+
+(5) Data based on vital statistics data registered in a foreign state shall be marked differently from the facts certified or established by an Estonian vital statistics office and upon making an extract a reference shall be made to the fact that the vital statistics event which is the basis for the entry has occurred in a foreign state.
+
+§ 51. Change and entry of vital statistics data of other persons
+
+(1) If a person not specified in § 50 of this Act applies for the performance of a vital statistics procedure in Estonia, the person shall in the following cases submit, upon a reasoned request of a vital statistics official, the following foreign vital statistics documents concerning himself or herself for the making of a data acquisition entry:
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+1) a foreign birth certificate if the person is applying for the registration of the birth data of his or her child, the contraction of marriage or divorce;
+2) a foreign marriage certificate if a married person is applying for the registration of the birth data of his or her child or divorce in an Estonian vital statistics office;
+3) a foreign divorce certificate if a divorced person is applying for the registration of the birth data of his or her child or the contraction of marriage in an Estonian vital statistics office;
+
+(2) Section 50 of this Act shall apply to data acquisition.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+5. chapter  ADMINISTRATIVE SUPERVISION OVER PERFORMANCE OF VITAL STATISTICS PROCEDURES 
+
+[
+					RT I
+					2014-03-13
+					4
+					113032014004
+				 - pub. 01.07.2014] 
+
+§ 52. Administrative supervision over performance of vital statistics procedures
+
+() [RT I, 13.03.2014, 4 - entry into force 01.07.2014]
+
+(1) Administrative supervision is exercised by:
+[RT I, 13.03.2014, 4 - entry into force 01.07.2014]
+1) the Ministry of the Interior over the compliance with this Act and other legislation related to vital statistics procedures upon the performance of vital statistics procedures by county governments;
+2) the Ministry of the Interior and the county government of the registered office of the congregation of a minister of religion over the compliance with this Act and other legislation related to vital statistics procedures upon the performance of vital statistics procedures related to the contraction of marriage by the minister of religion.
+
+(2) If the Ministry of the Interior considers it necessary for a county government to exercise administrative supervision over the legality of the performance of vital statistics procedures by a rural municipality or city government, the Ministry of the Interior shall submit a request for the exercise of administrative supervision to the county government under whose administration the rural municipality or city is. The county government who receives the request shall be required to exercise administrative supervision.
+[RT I, 13.03.2014, 4 - entry into force 01.07.2014]
+
+(3) If the Ministry of the Interior considers it necessary for the Ministry of Justice to exercise administrative supervision over the legality of the performance of vital statistics procedures by a notary, the Ministry of the Interior shall submit a request for the exercise of administrative supervision to the Ministry of Justice.
+[RT I, 13.03.2014, 4 - entry into force 01.07.2014]
+
+(4) The minister responsible for the area may establish the specific procedure for exercise of administrative supervision.
+[RT I, 13.03.2014, 4 - entry into force 01.07.2014]
+
+§ 53. Rights of administrative supervisory officials
+
+() [RT I, 13.03.2014, 4 - entry into force 01.07.2014]
+Upon exercise of administrative supervision, officials have the right:
+[RT I, 13.03.2014, 4 - entry into force 01.07.2014]
+1) to receive information necessary for the exercise of administrative supervision, including to examine documents and access rooms where vital statistics procedures are performed or documents related to vital statistics procedures are stored;
+[RT I, 13.03.2014, 4 - entry into force 01.07.2014]
+2) in the case of violation of the requirements for performing vital statistics procedures, to issue precepts for termination of the violation of the requirements and for performance of vital statistics procedures in compliance with the requirements.
+
+6. chapter  IMPLEMENTATION OF ACT 
+
+§ 54. Correction of data acquisition errors
+
+() Errors occurred in the entry of data from vital statistics acts in the population register shall also be corrected pursuant to the procedure provided for in § 12 of this Act. The reason for the change shall be referred to in the entry.
+
+§ 54^1. Data acquisition from Estonian vital statistics act prepared before 1 July 2010
+
+(1) Vital statistics data from a vital statistics act prepared before 1 July 2010 shall be entered in the population register by a data acquisition entry on the basis of an application of a person or ex officio. An application may be submitted in oral form.
+
+(2) Upon making an entry, data shall be entered in the population register from a vital statistics act to the extent in which such entries are made in Estonia. Upon entry of data in the population register, the composition of data entered in the corresponding act shall be taken account of.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 55. Officials and ministers of religion performing functions of vital statistics official appointed before entry into force of this Act
+
+(1) Officials who have been appointed before the time of entry into force of this Act and whose function under the job description is the performance of vital statistics procedures, as well as ministers of religion who wish to continue the performance of vital statistics procedures related to the contraction of marriage are required to pass the examination specified in subsection 4 (3) of this Act before entry into force of this Act.
+
+(2) After passing the examination specified in subsection 4 (3) of this Act, an official shall be granted the right to act as a vital statistics official. Upon failure to pass the examination, the official shall lose the right to perform vital statistics procedures and that may constitute the basis for his or her release from service on the basis of the Civil Service Act.
+
+(3) A minister of religion who has passed the examination shall be granted the right specified in subsection 17 (1) of this Act for five years. After five years, the provisions of subsection 17 (2) of this Act shall be applied. A minister of religion who has failed to pass the examination shall lose the right to certify the contraction of marriage.
+
+§ 55^1. Period of validity of examination of vital statistics official passed before 1 January 2014
+
+(1) The examination of a vital statistics official passed before 1 January 2014 shall be valid for five years from the grant of the right to act as a vital statistics official.
+
+(2) The validity of the right to act as a vital statistics official indicated in a certificate issued before 1 January 2014 shall terminate after five years from the the date of grant of the corresponding right. After five years, the provisions of subsection 4 (3) of this Act shall be applied.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 55^2. Registration of death based on court decision on declaration of death entered into force before 1 July 2010
+
+(1) A county government shall register a death on the basis of a court decision on declaration of death entered into force before 1 July 2010.
+
+(2) In the case provided for in subsection (1) of this section, a written application for registration of death and the court decision on declaration of death shall be submitted to the county government. A vital statistics official of the county government may register the death on the basis of the court decision on declaration of death also ex officio.
+
+(3) The death entry shall be made on the basis of the court decision on declaration of death and a death certificate shall be issued to the person who submitted the application for registration of death at his or her request.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 55^3. Registration of divorce granted by court before 1 January 1995
+
+(1) A county government shall register a divorce on the basis of a court judgment granting divorce made before 1 January 1995.
+
+(2) In the case provided for in subsection (1) of this section, a written application for registration of divorce together with the court judgment and a document certifying payment of the state fee or data which enable verification of the payment of the state fee. The application may be submitted by only one of the spouses.
+
+(3) The divorce shall be registered by making a divorce entry on the basis of the data of the court judgment and a divorce certificate shall be issued to the person who submitted the application for registration of judgement granting divorce at his or her request.
+[RT I, 22.11.2013, 1 - entry into force 01.01.2014]
+
+§ 56. Transfer of vital statistics documents to public archives
+
+() Parish registers, birth, marriage and death registers, family registers, vital statistics acts and printouts of vital statistics entries shall be transferred to the public archives 110 years after their preparation.
+
+§ 57.  –  § 66. [Omitted from this text.]
+
+
+
+§ 67. Entry into force of Act
+
+(1) This Act enters into force on 1 July 2010.
+
+(2) Subsections 3 (3) and (4), subsections 4 (3) and (5) and § 57 of this Act enter into force pursuant to the general procedure.
+[RT I 2010, 20, 103 - entry into force 18.05.2010]
+
+(3) The regulation specified in subsection 4 (4) of this Act shall enter into force at the time provided for in the regulation.
+
+(4) As of 1 June 2010, an application for marriage which is in compliance with the requirements provided for in § 37 of this Act shall be submitted to a vital statistics office for the contraction of marriage and an application for divorce which is in compliance with the requirements provided for in § 44 of this Act shall be submitted to a vital statistics office for divorce.
+[RT I 2010, 20, 103 - entry into force 18.05.2010]

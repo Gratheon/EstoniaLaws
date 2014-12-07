@@ -1,0 +1,544 @@
+Issuer: Riigikogu
+Type: seadus
+In force from: 01.01.2010
+In force until: In force
+Publication notation: RT V, 13.11.2013, 9
+
+Private International Law Act
+
+Passed 27.03.2002
+RT I 2002, 35, 217
+Entry into force 01.07.2002
+
+Amended by the following acts
+Passed - Published - Entry into force
+22.04.2004 - RT I 2004, 37, 255 - 01.05.2004
+18.11.2009 - RT I 2009, 59, 385 - 01.01.2010
+
+1. part GENERAL PROVISIONS
+
+§ 1. Scope of application of Act
+
+() This Act applies in cases where a legal relationship is connected with the law of more than one state.
+
+§ 2. Application of foreign law
+
+(1) If, according to an Act, international agreement or transaction, foreign law is to be applied, the court shall apply such law regardless of whether or not application of the law is requested.
+
+(2) Foreign law shall be applied pursuant to the interpretation and practice of application of the governing law in the corresponding state.
+
+§ 3. States where national law consists of non-unified system
+
+() If a provision of this Act refers to the law of a state where national law consists of a non-unified system, the legal order prescribed by the law of such state shall be applied. In the absence of the corresponding provisions in the law of such state, the legal order which is most closely connected with the circumstances of the legal relationship applies.
+
+§ 4. Ascertainment of foreign law
+
+(1) The content of foreign law to be applied shall be ascertained by the court conducting the procedure. For such purpose, the court conducting the procedure has the right to request the assistance of the parties.
+
+(2) The parties have the right to submit documents to the court for ascertainment of the content of foreign law. The court is not required to act pursuant to the documents submitted by the parties.
+
+(3) Courts have the right to request assistance from the Ministry of Justice or the Ministry of Foreign Affairs of the Republic of Estonia and to use experts.
+
+(4) If the content of foreign law cannot be ascertained within a reasonable period of time despite all efforts, Estonian law applies.
+
+§ 5. Rights of administrative agencies in application of foreign law
+
+() The provisions of this Act concerning courts apply also to administrative agencies.
+
+§ 6. Renvoi
+
+(1) If this Act prescribes the application of foreign law (transmission), the rules of private international law of the corresponding state apply. If such rules prescribe the application of Estonian law (remission), the rules of Estonian substantive law apply.
+
+(2) If foreign law prescribes the application of the law of a third state, such transmission shall not be taken into consideration.
+
+(3) If the provisions of § 23^1  or Division 1 of Chapter 1 of Part 6 of this Act prescribe the application of foreign law, the rules of the substantive law of such state apply.
+[
+							RT I
+							2004
+							37
+							255
+						 - pub. 01.05.2004] 
+
+§ 7. Public policy
+
+() Foreign law shall not apply if the result of such application would be in obvious conflict with the essential principles of Estonian law (public order). In such an event Estonian law applies.
+
+§ 8. Formal requirements for transactions
+
+() A transaction is formally valid if it is in compliance with the formal requirements of the law governing the transaction or the law of the state where the transaction is entered into.
+
+§ 9. Representation
+
+(1) The preconditions under which a transaction entered into by a representative results in rights or obligations for the principal with regard to a third party shall be governed by the law of the state in which the representative acted.
+
+(2) The law specified in subsection (1) of this section applies also to relationships between a representative without the right of representation and a third party.
+
+(3) An authorisation for the disposal of a right in rem in immovable property shall be granted in compliance with the formal requirements of the law of the state of location of the immovable property.
+
+2. part NATURAL PERSON
+
+§ 10. Residence of natural person
+
+() Estonian law applies to determination of the residence of a natural person.
+
+§ 11. Citizenship of natural person
+
+(1) The citizenship of a natural person shall be determined pursuant to the law of the state the citizenship of which is to be decided on.
+
+(2) If a natural person has the citizenship of several states, the citizenship of the state with which the person is most closely connected applies, unless otherwise provided by this Act.
+
+(3) If this Act is to be applied to a stateless person, a person whose citizenship cannot be ascertained or to a refugee, the residence of the person shall be taken into consideration instead of their citizenship.
+
+§ 12. Passive and active legal capacity of natural persons
+
+(1) The law of the state of residence of a natural person applies to their passive and active legal capacity.
+
+(2) A change of residence shall not restrict the active legal capacity already acquired.
+
+(3) If a person entered into a transaction although pursuant to the law of the state of their residence, the person does not have active legal capacity or their active legal capacity has been restricted, such person shall not rely on their incapacity if the person would have had active legal capacity pursuant to the law of the state where they entered into the transaction. Such provision does not apply if the other party was or should have been aware of the lack of active legal capacity of the person.
+
+(4) The provisions of subsection (3) of this section do not apply to transactions arising from family law or the law of succession or to transactions concerning immovables situated in other states.
+
+§ 13. Declaration of death
+
+(1) The grounds and consequences of a declaration of death are governed by the law of the last known state of residence of the missing person.
+
+(2) If the law specified in subsection (1) of this section is foreign law, the missing person may be declared dead also pursuant to Estonian law if an interested person has a legitimate interest therein.
+
+3. part LEGAL PERSON
+
+§ 14. Law governing legal persons
+
+(1) A legal person shall be governed by the law of the state on the basis of which the legal person is founded.
+
+(2) If a legal person is actually managed in Estonia or the main activities of the person are carried out in Estonia, the legal person shall be governed by Estonian law.
+
+§ 15. Scope of governing law
+
+() On the basis of the law governing a legal person, the following, in particular, shall be determined:
+1) the legal nature of the legal person;
+2) foundation and termination of the legal person;
+3) the passive legal capacity of the legal person;
+4) the name or business name of the legal person;
+5) the bodies of the legal person;
+6) the internal relations of the legal person;
+7) liability for the debts of the legal person;
+8) legal representation of the legal person.
+
+§ 16. Restrictions on right of representation
+
+() A legal person shall not rely on a restriction on the right of representation of a body of the legal person or a restriction on the passive legal capacity of the legal person if such restrictions are unknown in the law of the residence or place of business of the other party to the transaction. Such provision does not apply if the other party is aware of the restriction.
+
+§ 17. Other associations of persons and pools of assets
+
+(1) The provisions of this Part apply also to other organised associations of persons and pools of assets.
+
+(2) Contractual associations without an organisational structure shall be governed by the provisions of this Act concerning contracts.
+
+4. part OBJECTS
+
+§ 18. Law governing rights  in rem
+
+(1) The creation and extinguishment of a right in rem shall be determined pursuant to the law of the state in which the thing was situated at the time of creation or extinguishment of the right  in rem.
+
+(2) A right in rem shall not be exercised in conflict with the essential principles of the law of the state of location of the thing.
+
+(3) If a movable is taken into Estonia and the creation or extinguishment of the right in rem has not been completed abroad, the events which occurred abroad shall be deemed to have occurred in Estonia.
+
+(4) Claims which arise from damaging nuisances spreading from immovables shall be governed by § 50 of this Act.
+
+§ 19. Application of law of state of location of thing in event of legal succession
+
+() If a right  in rem is created or extinguishes by way of universal succession, in particular on the basis of family law or the law of succession, the law governing legal succession in general applies to such right in rem as a whole unless and in so far as the law of the state of location of the thing prescribes that the law of the state of location of the thing applies also in the case of universal succession.
+
+§ 20. Goods in transit
+
+(1) Creation and extinguishment of rights in rem in goods in transit on the basis of a transaction shall be governed by the law of the state of destination of the goods.
+
+(2) The parties may also agree to apply the law of the state of origin of the goods or the law governing the transaction.
+
+(3) Agreements concerning governing law shall not affect the rights of third parties in the goods.
+
+§ 21. Document accompanying goods
+
+(1) A document accompanying goods shall be governed by the law provided for in the document. If a document accompanying goods does not specify the governing law, the document shall be governed by the law of the state where the place of business of the issuer of the document is situated. A document accompanying goods in transit shall be governed by the law of the state of destination of the goods.
+
+(2) The law governing a document accompanying goods determines whether, for the purposes of acquisition of the goods, delivery of the document is equal to delivery of the goods. If for the purposes of acquisition of the goods delivery of the document accompanying goods is equal to delivery of the goods, the law governing the document applies also to the goods.
+
+(3) If a person relies on the validity of a right in rem on the basis of the law governing a document accompanying goods and another person does so on the basis of the law which would be applicable if the document accompanying goods had not been issued, the law which would be applicable if the document had not been issued applies.
+
+§ 22. Means of transport
+
+(1) Aircraft, watercraft and rail vehicles shall be governed by the law of their state of origin. The state of origin is:
+1) in the case of aircraft, the state of nationality;
+2) in the case of watercraft, the state of the place of registration, in the absence thereof, the state of the home port;
+3) in the case of rail vehicles, the state which has issued the permission to use the rail vehicle.
+
+(2) Rights of security and rights of retention arising from law which secure claims for compensation for damage caused by means of transport, or claims for compensation for the expenses made on a means of transport shall be governed by the law governing the secured claim. In the case of rights of security created on the basis of the laws of different states, the right of security which was created earlier shall have priority.
+
+§ 23. Intellectual property
+
+() Intellectual property and the creation, content, extinguishment and protection thereof shall be governed by the law of the state for the territory of which protection of the property is applied for.
+
+§ 23^1. Registered security
+
+(1) Shares, debt obligations and other rights expressed in the form of an entry in a register (registered securities) shall be governed by the law of the state where the respective register is maintained.
+
+(2) If a person (custodian) holds a registered security for and at the account of another person in a register or on an account other than the one specified in subsection (1) of this section (respective register), the rights expressed by entries made in the respective register (security held via custodian) shall be governed by the law of the state where the respective register is kept on the security held via the custodian.
+
+(3) On the basis of the law governing registered securities and securities held via a custodian the following, in particular, shall be ascertained:
+1) the legal nature of the security;
+2) the substance, creation and termination of rights in rem with regard to the security;
+3) the consequences of disposal of the security for rights arising from the security;
+4) the conditions of exercising rights arising from the security;
+5) using the security as collateral, including the creation and exercise of the right of sale;
+6) the ranking of rights encumbering the security;
+7) the rights and duties of the custodian with regard to the security held by the custodian.
+[
+								RT I
+								2004
+								37
+								255
+							 - pub. 01.05.2004] 
+
+5. part RIGHT OF SUCCESSION
+
+§ 24. Law governing succession
+
+() Succession shall be governed by the law of the last state of residence of the bequeather.
+
+§ 25. Choice of law
+
+() A person may make a disposition in their will or a succession contract that the law of the state of their citizenship applies to their estate. Such disposition shall be invalid if the person is no longer a citizen of the corresponding state at the moment of their death.
+
+§ 26. Scope of governing law
+
+() The law governing succession shall determine, in particular, the following:
+1) the types and effect of testamentary dispositions;
+2) succession capacity and unworthiness to succeed;
+3) the extent of succession;
+4) the successors and the relationships between them;
+5) liability for the debts of the bequeather.
+
+§ 27. Law governing form of will
+
+(1) The Hague Convention of 1961 on the Conflicts of Laws Relating to the Form of Testamentary Dispositions (RT II 1998, 16/17, 28) applies to the form of a will.
+
+(2) The convention specified in subsection (1) of this section applies also to the form of succession contracts.
+
+§ 28. Capacity to make a will
+
+(1) A person may make, amend or revoke their will if the person has corresponding capacity according to the law of the state of their residence at the time of making, amendment or revocation of the will. If according to the law of such state the person does not have the capacity to make a will, they may make, amend or revoke their will if they are entitled thereto according to the law of the state of which the person is a citizen at the time of making, amendment or revocation of the will.
+
+(2) A change of residence or citizenship shall not restrict already acquired capacity to make a will.
+
+(3) The provisions of this section apply to the capacity of a person to enter into, amend or terminate a succession contract, respectively.
+
+§ 29. Succession contracts and reciprocal wills
+
+(1) Succession contracts shall be governed by the law of the state of residence of the bequeather at the time of entry into the contract or, in the case specified in § 25 of this Act, the law of the state of citizenship of the person. The governing law shall determine the admissibility, validity, content and binding force of a succession contract, and the consequences of the contract under the law of succession.
+
+(2) At the time of making a reciprocal will, the will shall be made in compliance with the laws of the states of residence of both testators or with the law of the state of residence of one of the spouses, jointly chosen by the testators.
+
+6. part LAW OF OBLIGATIONS
+
+1. chapter GENERAL PROVISIONS OF LAW OF OBLIGATIONS AND CONTRACTS
+
+1. division General Provisions and Contracts
+
+§ 30. Scope of application
+
+() The provisions of this Division do not apply to memorandums of association of legal persons or to the personal liability of the bodies, shareholders or members of a legal person arising from law for the obligations of the legal person.
+
+§ 31. Provisions of general application in Estonian law
+
+() The provisions of this Chapter shall not prejudice application of such provisions of Estonian law which are applicable regardless of the law governing contracts.
+
+§ 32. Choice of governing law
+
+(1) Contracts shall be governed by the law of the state agreed upon by the parties.
+
+(2) The parties may choose the law governing the whole contract or to a part thereof if the contract is divisible in such manner.
+
+(3) The fact that the parties have chosen foreign law to govern the contract, whether or not accompanied by the choice of foreign jurisdiction, shall not, where all the elements relevant to the contract at the time of the choice are connected with one state only, prejudice application of such rules of the law of the state which cannot be derogated from by contract (mandatory rules).
+
+(4) Any variation as to the law to be applied made after entry into the contract shall not prejudice the formal validity of the contract under § 37 of this Act nor affect the rights of third parties.
+
+(5) The provisions of §§ 36 and 37 of this Act apply to the material and formal validity of agreements concerning the choice of law.
+
+§ 33. Law applicable in absence of choice of law
+
+(1) If the law governing a contract has not been chosen pursuant to § 32 of this Act, the contract shall be governed by the law of the state with which the contract is most closely connected. If a contract is divisible and a part of the contract has independently a closer connection with another state, such part may be governed by the law of that other state.
+
+(2) A contract is presumed to be most closely connected with the state where the residence or the seat of the directing body of the party who is to perform the obligation characteristic of the contract is situated at the time of entry into the contract. If a contract is entered into in the course of the economic or professional activity of the party who is to perform the obligation characteristic of the contract, the contract is presumed to be most closely connected with the state where the principal place of business of such party is situated. If under the terms of a contract the obligation characteristic of the contract is to be performed in a place of business other than the principal place of business, the contract is presumed to be most closely connected with the state where such other place of business is situated.
+
+(3) Subsection (2) of this section does not apply if the obligation characteristic of the contract cannot be determined.
+
+(4) If the object of a contract is a right in rem in immovable property or a right to use immovable property, the contract is presumed to be most closely connected with the state where the immovable property is situated.
+
+(5) In the case of a contract of carriage, the contract is presumed to be most closely connected with the state where the principal place of business of the carrier is situated at the time of entry into the contract if the place of departure or destination or, in the case of a contract for carriage of goods, the principal place of business of the consignor or the place of loading or discharge is situated in the same state. The provisions concerning contracts for carriage of goods apply to all contracts the main purpose of which is the carriage of goods.
+
+(6) Subsections (2)–(5) of this section do not apply if it becomes evident from the circumstances as a whole that the contract is more closely connected with another state.
+
+§ 34. Consumer contracts
+
+(1) In the case of consumer contracts, a choice of law shall not have the result of depriving the consumer of the protection afforded to the consumer by the mandatory rules of their state of residence if:
+1) in the state of residence of the consumer, entry into the contract was preceded by a specific offer addressed to the consumer or by advertising, and the consumer has performed in such state all the acts necessary for entry into the contract;
+2) the other party or a representative thereof has received the consumer’s order in the state of residence of the consumer;
+3) the contract is for the sale of goods and the consumer has travelled from their state of residence to another state and there has given their order, provided that the consumer’s journey was arranged by the seller for the purpose of inducing the consumer to enter into the contract.
+
+(2) If the law applicable is not chosen pursuant to § 32 of this Act, the law of the state of residence of the consumer applies to consumer contracts entered into under the circumstances specified in subsection (1) of this section.
+
+(3) Subsections (1) and (2) of this section do not apply to contracts of carriage and contracts for the supply of services where the services are to be supplied to the consumer exclusively in a state other than their state of residence. Subsections (1) and (2) of this section apply to package travel contracts.
+
+(4) The law of the state of residence of the consumer applies to the form of a consumer contract entered into under the circumstances specified in subsection (1) of this section.
+
+§ 35. Employment contracts
+
+(1) In the case of an employment contract, a choice of law shall not have the result of depriving the employee of the protection afforded to the employee by the mandatory rules of the law of the state which would be applicable pursuant to subsection (2) of this section in the absence of a choice of law.
+
+(2) In the absence of a choice of law, an employment contract shall be governed by the law of the state where:
+1) the employee habitually carries out their work in the performance of the contract, even if the employee is temporarily employed in another state;
+2) the place of business through which the employee was engaged is situated, if the employee does not habitually carry out their work in any one state.
+
+(3) The provisions of subsection (2) of this section do not apply if it becomes evident from all the circumstances that the employment contract is more closely connected with another state. In such case, the law of such other state applies.
+
+§ 36. Substantive validity of contract
+
+(1) The validity of a contract, or of any provision of a contract, shall be determined on the basis of the law of the state which would be applicable if the contract or the provision were valid.
+
+(2) If it is evident from the circumstances that it would not be fair to apply the law specified in subsection (1) of this section to the consequences of the conduct of one of the parties, such party may rely on the law of the state of their residence to establish that they have not entered into the contract.
+
+§ 37. Formal validity of contract
+
+(1) A contract entered into by persons who are in different states shall be formally valid if it is entered into in compliance with the formal requirements of the law of one of such states or with the formal requirements of the law governing the contract.
+
+(2) If a contract is entered into through a representative, the state where the representative acts shall be the relevant state for the purposes of application of subsection (1) of this section.
+
+(3) A contract the object of which is a right in rem in immovable property or a right to use immovable property shall be formally valid if it is entered into in compliance with the formal requirements of the law of the state where the immovable property is situated.
+
+§ 38. Assignment of claim
+
+(1) In the case of assignment of a claim, the relationship between the assignor and the assignee shall be governed by the law of the state which governs the contract between the assignor and the assignee.
+
+(2) The law governing a claim to be assigned shall determine the assignability of the claim, the relationship between the assignee and the obligor, the preconditions under which the assignee may require performance of obligations from the obligor, and any question whether the obligor’s obligations have been performed.
+
+(3) This section applies also to pledging of claims.
+
+§ 39. Legal subrogation
+
+(1) If a third party is to satisfy a claim of an obligee, the law governing the obligation of the third party shall determine whether the third party is entitled to exercise against the obligor the rights which the obligee had against the obligor under the law governing their relationship.
+
+(2) Subsection (1) of this section applies also if several persons are subject to the same claim and one of them has satisfied the claim.
+
+2. division Insurance Contracts
+
+§ 40. Scope of application
+
+() The provisions of this Division apply to insurance contracts which insure risks situated in the territory of Estonia or a member state of the European Union. The provisions of this Division do not apply to reinsurance contracts.
+
+§ 41. Location of insured risk
+
+(1) In the event of a non-life insurance contract, the state where the insured risk is situated is:
+1) the state where the property is situated, if the insurance relates to risks associated with immovable property, above all, with structures or constructions, or to risks associated with the contents of structures or constructions in so far as the contents are covered by the same contract;
+2) the state of registration, if the insurance relates to risks associated with vehicles to be entered in a register of Estonia or a member state of the European Union;
+3) the state where the policy holder has performed the acts necessary for entry into the contract, if the insurance relates to travel or holiday risks under an insurance contract of a duration of up to four months.
+
+(2) In the case of life insurance contracts, and non-life insurance contracts not specified in subsection (1) of this section, the state where the insured risk is situated is:
+1) the state of residence of the policy-holder if the policy-holder is a natural person;
+2) if the policy-holder is not a natural person, the state of the policy-holder’s place of business to which the contract relates.
+
+§ 42. Free choice of governing law
+
+() A contract shall be governed by the law chosen by the parties if:
+1) the insured risk and the residence or the seat of the directing body of the policy-holder are situated in the same member state of the European Union which allows for free choice of the law;
+2) the insurance contract is entered into with an insurance company which does not engage in insurance activities in a state specified in § 40 of this Act neither itself nor through intermediaries;
+3) in the case of non-life insurance, the contract is an insurance contract specified in subsections 427 (2)–(4) of the Law of Obligations Act (RT I 2001, 81, 487);
+4) in the case of non-life insurance, the insurance relates to risks which are associated with the economic or professional activity of the policy-holder and are situated in different states specified § 40 of this Act and one of the insured risks is situated in a member state of the European Union which allows for free choice of the law.
+
+§ 43. Restrictions on choice of governing law in event of non-life insurance
+
+(1) If a non-life insurance contract is not entered into in compliance with the requirements specified in § 42 of this Act, the parties may still choose the following as the law governing the contract:
+1) the law of the state specified in § 40 of this Act in which the insured risk is situated:
+2) the law of the state where the residence or directing body of the policy-holder is situated.
+
+(2) If the states specified in subsection (1) of this section allow for the choice of any other law, the parties may take advantage of such choice.
+
+(3) If an insurance contract covers insured events which may occur in the state of location of the insured risk as well as in a state specified in § 40 of this Act, the parties may choose the law of the latter state.
+
+§ 44. Restrictions on choice of governing law in event of life insurance
+
+(1) If a life insurance contract is not entered into in compliance with the requirements specified in clause 42 1) of this Act, the parties may still choose the contract to be governed by the law of a state allowed by the law of the state where the insured risk is situated.
+
+(2) If the residence of a policy-holder who is a natural person is not situated in the state specified in § 40 of this Act which is the state of the person’s citizenship, the parties may choose the contract to be governed by the law of the state of the person’s citizenship.
+
+§ 45. Law applicable in absence of choice of law
+
+(1) If the parties to an insurance contract have not agreed on the law governing the contract and the residence or directing body of the policy-holder and the insured risk are situated in the territory of the same state, the law of such state applies.
+
+(2) If the parties to an insurance contract have not agreed upon the law governing the contract and the circumstances do not meet the requirements provided for in subsection (1) of this section, the contract shall be governed by the law of the state chosen pursuant to §§ 42 and 43 of this Act with which the contract is most closely connected. It is presumed that from among the states specified in § 40 of this Act the contract is most closely connected with the state in which the insured risk is situated. An independent part of the contract which has a closer connection with another state the law of which may be chosen pursuant to §§ 42 and 43 of this Act may be governed by the law of that other state.
+
+(3) A life insurance contract shall be governed by the law of the state where the insured risk is situated at the moment of entry into the contract. If the insured risk is situated in several different states, the third sentence of subsection (2) of this section applies, respectively.
+
+§ 46. Obligatory insurance
+
+(1) A contract of obligatory insurance shall be governed by the law of the state which prescribes the obligation to enter into the insurance contract.
+
+(2) If an insurance contract covers insured risks situated in more than one of the states specified in § 40 of this Act and at least one of those states prescribes obligatory insurance, the contract shall be deemed to consist of several contracts each relating to only one state.
+
+(3) An insurance contract is in compliance with the requirements for obligatory insurance if it is in compliance with the provisions governing obligatory insurance in the state which prescribes the obligatory insurance.
+
+(4) If, pursuant to the law of a state prescribing obligatory insurance, an insurer must notify the competent authority of expiry of insurance cover, the insurer can rely on the absence of insurance cover with regard to third parties only pursuant to the law of such state.
+
+§ 47. Application of general provisions
+
+() Other aspects of insurance contracts shall be governed by the general provisions relating to the law governing contracts.
+
+2. chapter NON-CONTRACTUAL OBLIGATIONS
+
+§ 48. Scope of application
+
+(1) The provisions of this Chapter shall apply only insofar as not provided otherwise by Regulation (EC) No. 864/2007 of the European Parliament and of the Council on the law applicable to non-contractual obligations.
+
+(2) The injured party may exercise the right granted to them in Article 7 of the Regulation specified in subsection (1) of this section to opt for the application of the law of the state where the act constituting the basis for the damage was performed or where the event took place, only in the court of first instance until the end of the first court hearing or until the completion of the written preliminary procedure.
+[
+								RT I
+								2009
+								59
+								385
+							 - pub. 01.01.2010] 
+
+§ 48^1. Unjust enrichment
+
+[
+								RT I
+								2009
+								59
+								385
+							 - pub. 01.01.2010] 
+
+(1) Claims against unjust enrichment which arise from the performance of an obligation shall be governed by the law of the state which governs the actual or presumed legal relationship on the basis of which the obligation was performed.
+
+(2) Claims against unjust enrichment which arise from violation of a right of another person shall be governed by the law of the state in which the violation occurred.
+
+(3) In other cases, claims arising from unjust enrichment shall be governed by the law of the state in which unjust enrichment occurred.
+
+§ 49. Negotiorum gestio
+
+(1) A claim arising from negotiorum gestio  shall be governed by the law of the state where the negotiorum gestor  performed the act.
+
+(2) Claims arising from performance of the obligations of another person shall be governed by the law governing such obligation.
+
+§ 50. Unlawful causing of damage
+
+(1) Claims arising from unlawful causing of damage shall be governed by the law of the state where the act or event which forms the basis for causing the damage was performed or occurred.
+
+(2) If the consequences do not become evident in the state where the act or event which formed the basis for causing the damage was performed or occurred, the law of the state where the consequences of the act or event became evident shall be applied at the request of the injured party.
+
+§ 51. Direct right of claim against insurer
+
+() An injured party may submit a claim directly against the insurer of the person required to compensate for damage if so prescribed by the law governing the compensation for damage or to the insurance contract.
+
+§ 52. Restrictions to application of foreign law
+
+() If a claim arising from unlawful causing of damage is governed by foreign law, compensation ordered in Estonia shall not be significantly greater than the compensation prescribed for similar damage by Estonian law.
+
+§ 53. Closer connection
+
+(1) If a non-contractual obligation has a closer connection with the law of a state other than that which would be applicable pursuant to the provisions of this Chapter, the law of such other state applies.
+
+(2) A closer connection may arise, above all:
+1) from a legal relationship or factual connection between the parties;
+2) in the cases specified in subsections 48 (2) or (3) or § 49 or 50 of this Act, from the fact that at the time of occurrence of the event or performance of the act with legal effect, the residence of the parties is in the same state. In the case of a legal person, the location of the management board or the body substituting for the management board of the legal person or the place of business connected with the act or event shall be taken into consideration instead of the residence.
+
+§ 54. Choice of governing law
+
+() The parties may agree on application of Estonian law after occurrence of the event or performance of the act from which a non-contractual obligation arose. A choice of law shall not affect the rights of third parties.
+
+7. part FAMILY LAW
+
+1. chapter MARRIAGE
+
+§ 55. Law governing procedure for contraction of marriage
+
+(1) If a marriage is contracted in Estonia, Estonian law applies to the procedure for the contraction of the marriage.
+
+(2) A marriage contracted in a foreign state is deemed to be valid in Estonia if it is contracted pursuant to the procedure for contraction of marriage provided by the law of the state where the marriage is contracted and the material prerequisites of the marriage are in compliance with the laws of the states of residence of both spouses.
+
+§ 56. Law governing prerequisites for contraction of marriage
+
+(1) The prerequisites of and hindrances to the contraction of a marriage and the consequences arising therefrom shall be governed by the law of the state of residence of the prospective spouses.
+
+(2) If a prerequisite does not exist for an Estonian citizen for contraction of marriage arising from the law of the state of their residence, Estonian law applies if pursuant to Estonian law the prerequisite for contraction of marriage would have existed.
+
+(3) A previous marriage of a prospective spouse shall not hinder contraction of a new marriage if the previous marriage has been terminated on the basis of a decision made or recognised in Estonia, even if such decision is not in accordance with the law of the state of residence of the prospective spouse.
+
+§ 57. General legal consequences of marriage
+
+(1) The general legal consequences of a marriage shall be determined by the law of the state where the common residence of the spouses is situated.
+
+(2) If the spouses reside in different states but have the same citizenship, the general legal consequences of the marriage shall be determined by the law of the state the citizens of which the spouses are.
+
+(3) If the spouses reside in different states and have different citizenship, the general legal consequences of the marriage shall be determined on the basis of the law of the state of their last common residence if one of the spouses still resides in such state.
+
+(4) If the law governing the general legal consequences of a marriage cannot be determined pursuant to subsections (1)–(3) of this section, the law of the state with which the spouses are otherwise most closely connected applies.
+
+§ 58. Law governing proprietary rights of spouses
+
+(1) The proprietary rights of the spouses shall be governed by the law chosen by the spouses. Regardless of the provisions of subsection 11 (2) of this Act, the spouses may choose the law of the state of residence or the state of citizenship of one of the spouses as the law governing their proprietary rights.
+
+(2) The fact of the choice of governing law shall be notarised. If the governing law is not chosen in Estonia, the choice of law is formally valid if the formal requirements prescribed for marital property contracts by the chosen law are complied with.
+
+(3) If the spouses have not chosen the governing law, the proprietary rights of the spouses shall be governed by the law applicable to the general legal consequences of the marriage (§ 57 of this Act) at the time of contraction of the marriage.
+
+§ 59. Protection of third parties
+
+() If the residence of at least one of the spouses is in Estonia or at least one of the spouses engages in economic or professional activity in Estonia, the spouses can rely on proprietary rights other than those prescribed by Estonian law with regard to third parties only if the third party concerned was or should have been aware of such rights at the time of creation of the legal relationship.
+
+§ 60. Law governing divorce and nullity of marriage
+
+(1) A divorce shall be governed by such law as specified in § 57 of this Act, which is applicable at the time of commencement of the divorce procedure.
+
+(2) If a divorce is not permissible pursuant to the law as specified in § 57 of this Act or is permissible only under extremely strict conditions, Estonian law applies instead if one of the spouses resides in Estonia or has Estonian citizenship or resided in Estonia or had Estonian citizenship at the time of contraction of the marriage.
+
+(3) Nullity of a marriage shall be governed by the law as specified in § 56 of this Act.
+
+§ 61. Law governing maintenance obligations
+
+() The Hague Convention of 2 October 1973 on the Law Applicable to Maintenance Obligations (RT II 1999, 24, 140) applies to maintenance obligations arising from family relationships.
+
+2. chapter RELATIONSHIPS BETWEEN PARENT AND CHILD
+
+§ 62. Filiation
+
+(1) Establishment and contestation of filiation shall be governed by the law of the state of residence of the child at the time of birth.
+
+(2) Filiation from a parent may be established and contested also pursuant to the law of the state of residence of the parent. A parent may recognise a child pursuant to the law of the state of residence of the parent.
+
+(3) A child may contest their filiation also pursuant to the law of the state in which the child resides at the time of contestation.
+
+§ 63. Adoption
+
+(1) Adoption shall be governed by the law of the state of residence of the adoptive parent. Adoption by spouses shall be governed by the law governing the general legal consequences of the marriage at the time of adoption.
+
+(2) If pursuant to the law of the state of residence of a child the consent of the child or another person in a family law relationship with the child is necessary for adoption, the law of the state of residence of the child applies to the consent.
+
+(3) In addition to the requirements provided for in subsections (1) and (2) of this section, all the other requirements for adoption arising from Estonian law shall be complied with in order to adopt a child whose residence is in Estonia.
+
+§ 64. Adoption in foreign state
+
+() If adoption is governed by foreign law or if a child is adopted on the basis of a judgment of a foreign court, such adoption has the same effect in Estonia as pursuant to the law under which the child was adopted.
+
+§ 65. Relationships between child and parent
+
+() Family law relationships between a parent and a child shall be governed by the law of the state of residence of the child.
+
+§ 66. Guardianship and curatorship
+
+() The law of the state where guardianship or curatorship is established applies to the guardianship or curatorship.
+
+8. part IMPLEMENTATION OF ACT
+
+§ 67. Entry into force of Act
+
+() This Act shall enter into force at the time provided for in the Act implementing this Act.

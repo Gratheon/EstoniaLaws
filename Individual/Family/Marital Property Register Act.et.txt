@@ -1,0 +1,547 @@
+Väljaandja: Riigikogu
+Akti liik: seadus
+Teksti liik: terviktekst
+Redaktsiooni jõustumise kp: 01.01.2014
+Redaktsiooni kehtivuse lõpp: 31.12.2014
+Avaldamismärge: RT I, 23.12.2013, 36
+
+Abieluvararegistri seadus
+
+Vastu võetud 09.11.1995
+RT I 1995, 87, 1540
+jõustumine 01.09.1996
+
+Muudetud järgmiste aktidega
+Vastuvõtmine - Avaldamine - Jõustumine
+26.06.1996 - RT I 1996, 51, 967 - 29.07.1996
+20.01.1999 - RT I 1999, 10, 155 - 01.01.2000
+06.06.2001 - RT I 2001, 56, 336 - 07.07.2001
+14.11.2001 - RT I 2001, 93, 565 - 01.02.2002
+05.06.2002 - RT I 2002, 53, 336 - 01.07.2002
+22.02.2005 - RT I 2005, 15, 85 - 01.01.2006
+15.06.2005 - RT I 2005, 39, 308 - 01.01.2006
+12.10.2005 - RT I 2005, 57, 450 - 01.01.2006
+26.01.2006 - RT I 2006, 7, 42 - 04.02.2006
+24.01.2007 - RT I 2007, 12, 66 - 01.01.2008
+21.11.2007 - RT I 2007, 67, 413 - 28.12.2007
+18.11.2009 - RT I 2009, 60, 395 - 01.07.2010
+22.04.2010 - RT I 2010, 22, 108 - 01.01.2011 jõustub päeval, mis on kindlaks määratud Euroopa Liidu Nõukogu otsuses Eesti Vabariigi suhtes kehtestatud erandi kehtetuks tunnistamise kohta Euroopa Liidu toimimise lepingu artikli 140 lõikes 2 sätestatud alusel, Euroopa Liidu Nõukogu 13.07.2010. a otsus Nr 2010/416/EL (ELT L 196, 28.07.2010, lk 24–26).
+17.06.2010 - RT I 2010, 38, 231 - 01.07.2010
+05.12.2012 - RT I, 19.12.2012, 1 - 01.01.2013, osaliselt 29.12.2012
+11.12.2013 - RT I, 23.12.2013, 1 - 01.01.2014, osaliselt 01.01.2015 ja 01.01.2020
+19.06.2014 - RT I, 29.06.2014, 109 - 01.07.2014, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud ministrite ametinimetused alates 2014. aasta 1. juulil jõus olevast redaktsioonist.
+
+1. peatükk ÜLDSÄTTED
+
+§ 1. Abieluvararegister
+
+(1) Abieluvararegister on riiklik register, kuhu kantakse abikaasade abieluvaralepingus toodud ning seaduses sätestatud juhtudel teised varalised õigused.
+
+(1^1) Abieluvararegistrit peetakse elektrooniliselt.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2) Abieluvararegistri pidamise ja andmetöötluse korra kehtestab valdkonna eest vastutav minister määrusega.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+[RT I, 29.06.2014, 109 - jõust. 01.07.2014, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud alates 2014. aasta 1. juulist „justiitsminister” sõnadega „valdkonna eest vastutav minister”.] 
+
+(2^1) Valdkonna eest vastutav minister võib määrusega kehtestada arvutiandmetöötluseks vajalikud nõuded registripidajale esitatavate dokumentide vormi ja esitamise tehniliste tingimuste kohta.
+[RT I, 29.06.2014, 109 - jõust. 01.07.2014, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud alates 2014. aasta 1. juulist „Justiitsminister” sõnadega „Valdkonna eest vastutav minister”.] 
+
+(3) Abieluvararegistrile ja selle pidamisele kohaldatakse avaliku teabe seaduses andmekogude kohta sätestatut käesolevas seaduses sätestatud erisustega.
+[RT I 2007, 12, 66 - jõust. 01.01.2008] 
+
+§ 2. Registripidaja
+
+(1) Abieluvararegistrit peavad maakohtute kinnistusosakonnad.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(1^1) Abieluvararegistri vastutav töötleja on Justiitsministeerium ning volitatud töötleja Registrite ja Infosüsteemide Keskus.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2^1) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(3) [Kehtetu - RT I 2005, 15, 85 - jõust. 01.01.2006] 
+
+(4) [Kehtetu - RT I 2005, 39, 308 - jõust. 01.01.2006] 
+
+§ 3. Kohtunikuabi pädevus
+
+(1) Abieluvararegistri kandeid ja kandemääruseid teevad kohtunikuabid.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(3) Kohtunikuabi ei või teha kannet ega kandemäärust, kui ta on abikaasa sugulane või hõimlane või kui muu asjaolu võib tekitada kahtlust tema erapooletuses.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(4) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 4. Registri tööpiirkonna muutumine
+
+[Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 5. [Kehtetu - RT I 2005, 15, 85 - jõust. 01.01.2006] 
+
+§ 6. Abieluvararegistri andmetega tutvumine
+
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(1) Igaüks võib abieluvararegistri registrikaardile kantud andmetega tutvuda ja saada nendest väljatrükke.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2) Registritoimikuga võib tutvuda ja selle koosseisu kuuluvatest dokumentidest väljatrükke saada õigustatud huvi olemasolu korral. Abikaasa, notari, kohtutäituri, pankrotihalduri, kohtu ja järelevalveõigusliku asutuse õigustatud huvi eeldatakse.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(3) Registritoimikuga tutvumise loa andmisest keeldumise kohta vormistatakse määrus tsiviilkohtumenetluse seadustiku § 59 lõike 6 kohaselt. Kui registritoimikuga tutvumise loa andmisest keeldub notar, kohaldatakse notariaadiseaduse § 41.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(4) Registripäevik on asutusesiseseks kasutamiseks ja sellega tutvumist ei võimaldata.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(5) Abieluvararegistri andmetega saab tutvuda kinnistusosakonnas, notaribüroos või vastava veebilehe kaudu. Abieluvararegistri andmetega tutvumisel notaribüroos tasutakse notari tasu notari tasu seaduse kohaselt.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 7. Kande õiguslik tähendus
+
+(1) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2) [Kehtetu -  RT I 2009, 60, 395 - jõust. 01.07.2010] 
+
+(3) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(4) Kandega ei ole seotud seadusest tulenevate varaliste õiguste tekkimine, muutumine ja lõppemine abikaasade endi vahelistes suhetes.
+
+§ 8. Töökeel
+
+(1) Abieluvararegistrit peetakse eesti keeles.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2) Dokumendid, mis ei ole eesti keeles, esitatakse registripidajale koos vandetõlgi tehtud või notariaalselt kinnitatud eestikeelse tõlkega.
+[RT I, 23.12.2013, 1 - jõust. 01.01.2014] 
+
+§ 9. Registri pitsat
+
+[Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+2. peatükk ABIELUVARAREGISTRI SISU
+
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 10. Registri koosseis
+
+Abieluvararegistri koosseisu kuuluvad:
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+1) registrikaart;
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+2) registritoimik;
+3) registripäevik.
+
+§ 11. Registrikaart
+
+(1) Kanne tehakse registrikaardile.
+
+(2) Registrikaartidel on unikaalne numeratsioon. Iga registrikaart saab jooksva numbri selle avamise ajalise järjekorra järgi.
+
+(3) Abikaasade varaliste õiguste kohta võib avada ainult ühe registrikaardi.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 12. Registritoimik
+
+() Registritoimikus säilitatakse kandeavaldusi, abieluvaralepinguid, kohtulahendeid ja muid kande aluseks olevaid dokumente.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 13. Registripäevik
+
+(1) Registripäevikus registreeritakse kandeavaldus, milles on väljendatud soov kande tegemiseks, ja seaduses sätestatud juhtudel perekonnaseisuametniku või notari esitatud teade.
+[RT I, 19.12.2012, 1 - jõust. 29.12.2012] 
+
+(2) Registripäevikusse kantavate andmete loetelu kehtestab valdkonna eest vastutav minister määrusega.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+[RT I, 29.06.2014, 109 - jõust. 01.07.2014, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud alates 2014. aasta 1. juulist „justiitsminister” sõnadega „valdkonna eest vastutav minister”.] 
+
+(3) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 14. Asenduskaart
+
+[Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 15. Tähestikuline kartoteek
+
+[Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 16. Säilitustähtaeg
+
+() Abieluvararegistrisse kantud andmeid ja registritoimiku dokumente säilitatakse tähtajatult.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+3. peatükk REGISTRIKANDED
+
+§ 17. Registrikaardi kanded
+
+(1) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2) Registrikaardile kantakse järgmised andmed:
+1) registrikaardi number;
+2) abikaasade ees- ja perekonnanimed;
+3) mõlema abikaasa isikukood, selle puudumisel sünniaeg;
+4) kande jooksev number;
+5) seaduses sätestatud juhtudel varasuhte liik, varasuhte muutmine või lõppemine, samuti esemed või teatavasse liiki kuuluvad esemed, mis on abieluvaralepinguga tunnistatud ühisvaraks või lahusvaraks;
+6) abikaasade varaliste õiguste suhtes välisriigi seaduse kohaldamine ja viide abieluvaralepingule, millega vastav kokkulepe sõlmiti;
+7) kande alus, kande tegemise kuupäev, kande teinud isiku nimi ja ametinimetus ning märked;
+8) muud seaduses sätestatud andmed.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(3) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(4) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 18. Abikaasa andmed registrikaardil
+
+[Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 19. Avaldus kande tegemiseks
+
+(1) Kanne tehakse abikaasade notariaalselt kinnitatud avalduse või seaduses sätestatud juhtudel perekonnaseisuametniku või notari esitatud teate alusel. Abikaasade poolt tehtud avaldus võib sisalduda abieluvaralepingus.
+[RT I, 19.12.2012, 1 - jõust. 29.12.2012] 
+
+(1^1) Kanne kustutatakse ja muudetakse abikaasade notariaalselt kinnitatud avalduse alusel. Abikaasade poolt tehtud avaldus võib sisalduda abieluvaralepingus.
+[RT I 2009, 60, 395 - jõust. 01.07.2010] 
+
+(2) Ühe abikaasa avalduse alusel tehakse kanne, kui:
+1) kande aluseks on abieluvaraleping või jõustunud kohtuotsus;
+2) abieluvaraleping on lõppenud abielu lõppemise tõttu;
+3) [kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+4) parandatakse ebaõiget kannet.
+
+(3) Avalduses peab olema väljendatud soov kande tegemiseks, andmed puudutatud isikute kohta ning millise dokumendi alusel kannet teha soovitakse. Avalduses peab olema näidatud selle registrikaardi number, millele kande tegemist taotletakse, kui registrikaart on avatud.
+
+(3^1) Kui registripidajal on elektrooniline juurdepääs registrile, kuhu andmed käesoleva paragrahvi lõikes 3 nimetatud puudutatud isikute kohta on kantud põhiandmetena avaliku teabe seaduse tähenduses, piisab, kui kandeavaldusse märgitakse abikaasa kohta nimi ja isikukood.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(4) [Kehtetu -  RT I 2001, 93, 565 - jõust. 01.02.2002] 
+
+(5) Avaldust, mille täitmine on seotud tingimusega, ei rahuldata. Kui avalduses soovitakse mitut kannet, võib avaldaja seada tingimuseks, et ühte kannet ei tehta teist kannet tegemata või et üks kanne tehakse enne teist.
+
+§ 20. Avalduse esitamine ja tagasivõtmine
+
+(1) Avalduse võib esitada abikaasa ise või tema esindaja. Avalduse esitamiseks ja tagasivõtmiseks antud volikiri peab olema notariaalselt kinnitatud. Avalduse kinnitanud notar loetakse volitatuks avaldust esitama ja tagasi võtma.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(1^1) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 29.12.2012] 
+
+(2) Kuni kandemääruse tegemiseni võib avalduse esitaja selle osaliselt või täielikult tagasi võtta. Tagasivõtmise avaldus peab olema notariaalselt kinnitatud. Notar, kes avalduse registripidajale esitas, on õigustatud seda ka tagasi võtma.
+
+(3) Notariaalselt kinnitatud avaldus ja avalduse esitamiseks või tagasivõtmiseks antud volikiri loetakse võrdseks digitaalallkirjastatud avalduse või volikirjaga.
+[RT I 2005, 57, 450 - jõust. 01.01.2006] 
+
+§ 21. Kande tegemiseks vajalikud dokumendid
+
+(1) Kandeavaldusele tuleb lisada järgmised dokumendid:
+[RT I, 19.12.2012, 1 - jõust. 29.12.2012] 
+1) abieluvaraleping;
+[RT I, 19.12.2012, 1 - jõust. 29.12.2012] 
+2) jõustunud kohtulahendi ärakiri, kui kande tegemist taotletakse kohtulahendi alusel;
+[RT I 2005, 39, 308 - jõust. 01.01.2006] 
+3) [kehtetu -  RT I 2009, 60, 395 - jõust. 01.07.2010] 
+4) tunnistuse või otsuse ärakiri abikaasa surma või abielu lahutamise kohta, kui kanne kustutatakse abielu lõppemise tõttu;
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+5) andmed riigilõivu tasumise kohta;
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+6) muud seadusest tulenevad dokumendid;
+6^1) perekonnaseaduse § 212 lõikes 1 nimetatud abikaasade notariaalselt tõestatud teade, kui kande tegemist taotletakse perekonnaseaduse § 212 alusel.
+[RT I 2009, 60, 395 - jõust. 01.07.2010] 
+
+(1^1) Perekonnaseisuametniku või notari esitatud teatele tuleb lisada abielu sõlminud perekonnaseisuametniku või notari digitaalallkirjastatud abiellumisavalduse ärakiri.
+[RT I, 19.12.2012, 1 - jõust. 29.12.2012] 
+
+(2) [Kehtetu -  RT I 2009, 60, 395 - jõust. 01.07.2010] 
+
+(2^1) Kui registripidajal on elektrooniline juurdepääs registrile, millest kontrollida käesoleva paragrahvi lõike 1 punktides 2 ja 4 nimetatud andmete olemasolu, ei pea nende ärakirju või väljavõtteid kandeavaldusele lisama.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(3) Abikaasade varalistele õigustele välisriigi õiguse kohaldamise kandmisel abieluvararegistrisse on kande aluseks dokumendid, millest nähtub välisriigi õiguse kohaldamise lubatavus rahvusvahelise eraõiguse seaduse § 58 lõike 1 järgi. Kandes tuleb märkida, millise riigi õigust abikaasade varalistele õigustele kohaldatakse.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(4) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(5) Kande parandamine toimub käesoleva seaduse §-s 37 sätestatud korras.
+
+§ 22. Dokumentide vastuvõtmine
+
+(1) Avalduse esitaja on kohustatud esitama kande aluseks olevad dokumendid.
+
+(2) Registripidajale esitatakse dokumendi originaal või kinnitatud ärakiri.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(3) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(4) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(5) Avaldus registreeritakse kohe registripäevikus ja nummerdatakse vastavalt avalduse saabumise ajale.
+
+(6) Samal päeval posti või e-posti teel saabunud avaldused loetakse üheaegselt registripidajale esitatuks ja registreeritakse registripäevikus sellel päeval saabunud avaldustest viimastena. Vastuvõtmise kellaajaks märgitakse 17.00.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(6^1) Kui digitaalallkirjastatud avalduse saab esitada elektroonilisse abieluvararegistri infosüsteemi, registreeritakse avaldus ja selle laekumise aeg registripäevikus automaatselt ning nummerdatakse selle saabumise aja järgi.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(6^2) Kui digitaalallkirjastatud avalduse saab esitada elektroonilise abieluvararegistri infosüsteemi, ei või avaldust esitada e-posti teel. Sellisel juhul tagastab registripidaja e-postiga esitatud avalduse seda registripäevikusse kandmata, märkides ära tagastamise põhjuse.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(7) Avalduse vastuvõtmisel väljastab registripidaja avaldaja soovil tõendi, mis kinnitab avalduse vastuvõtmist.
+
+(8) Kuni kandemääruse tegemiseni võib avalduse esitanud isik esitada registripidajale täiendavaid dokumente.
+
+§ 22^1. Märge sissetulnud kandeavalduse kohta
+
+(1) Kandeavalduse registreerimisel kantakse registrikaardile viide esitatud avaldusele (edaspidi plomm). Plomm koosneb kandeavalduse registreerimise numbrist ja aastaarvust.
+
+(2) Plomm peab olema nähtav nii registrikaardiga tutvumisel kui ka registrikaardi väljatrükil.
+
+(3) Plomm kustutatakse pärast registrikande tegemist või eitava kandemääruse jõustumist.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 23. [Kehtetu -  RT I 2006, 7, 42 - jõust. 04.02.2006] 
+
+§ 24. Kandeavalduse läbivaatamine
+
+(1) Kandeavalduse läbivaatamisel kontrollib kande tegemiseks õigustatud isik 14 päeva jooksul avalduse vastuvõtmise päevast arvates, kas:
+1) nõutavad vormikohased dokumendid on esitatud;
+2) kande tegemine on seaduse alusel lubatud.
+
+(2) Kui esineb kande tegemist takistav puudus või puudub vormikohane dokument, määrab kande tegemiseks õigustatud isik tähtaja puuduste kõrvaldamiseks. Pärast kõigi puuduste kõrvaldamist ja vormikohaste dokumentide esitamist peab kande tegemiseks õigustatud isik kandeavalduse 14 päeva jooksul läbi vaatama.
+
+(3) Kandeavaldus jäetakse rahuldamata, kui:
+1) määratud tähtaja jooksul ei ole kõrvaldatud kande tegemist takistavat puudust või esitatud vormikohast dokumenti;
+2) isik ei ole õigustatud nõudma kande tegemist;
+3) abieluvaralepingu sõlminud isikud ei ole abielus;
+4) esitatud dokumentidest ei selgu avaldaja soov või soovitava kande õiguslik alus;
+5) kande tegemine on keelatud seadusega või on vastuolus heade kommetega;
+6) esineb muu takistus, mille tõttu ei ole võimalik kannet teha.
+
+(4) Kui kandeavaldus kuulub rahuldamisele, teeb kande tegemiseks õigustatud isik registrikaardile kande. Sellisel juhul asendab kanne kandemäärust.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 25. [Kehtetu -  RT I 2006, 7, 42 - jõust. 04.02.2006] 
+
+§ 26. Kande tekst
+
+[Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 27. Kande tegemine ja jõustumine
+
+(1) Registrikaardi kanded nummerdatakse nende tegemise järjekorras. Kui kaardile tehakse mitu kannet, tehakse need avalduste esitamise ajalises järjekorras.
+
+(2) Kande tekst peab olema loetav ja üheselt mõistetav. Kandes võib kasutada üksnes üldtuntud lühendeid.
+
+(3) Kandele tuleb lisada kande teinud isikut identifitseeriv teave. Kanne ja identifitseeriv teave salvestatakse elektroonilise allkirjaga.
+
+(4) Kanne jõustub selle allkirjastamisel.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 27^1. Kandemääruse sisu
+
+() Kandemäärus peab sisaldama järgmisi andmeid:
+1) kinnistusosakonna nimetus;
+2) määruse tegemise aeg ja koht;
+3) menetluse number;
+4) avalduse esitaja nimi, samuti avalduse esitanud perekonnaseisuametniku või notari nimi juhul, kui kandeavalduse esitas perekonnaseisuametnik või notar;
+5) määruse põhistus ja õiguslik alus;
+6) kandemääruse peale edasikaebamise kord ja tähtaeg;
+7) määruse teinud isiku nimi ja ametinimetus.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 28. Mitme avalduse lahendamine
+
+Kui kande tegemiseks on esitatud mitu avaldust, siis rahuldatakse need vastavalt registreerimise järjekorrale registripäevikus, kui avaldused esitanud isikud ei lepi kokku teisiti.
+
+§ 29. Kandest ja kandemäärusest teatamine
+
+(1) Pärast kande tegemist saadetakse mõlemale abikaasale ja neid registriasjas esindanud notarile registrikaardi väljatrükk käesoleva seaduse § 1 lõike 2 alusel kehtestatud määruses ettenähtud korras.
+
+(2) Kandemäärus, millega kandeavaldus jäetakse rahuldamata või millega määratakse puuduste kõrvaldamiseks pikem tähtaeg kui kuus kuud, toimetatakse kätte mõlemale abikaasale ja neid registriasjas esindanud notarile, samuti avalduse esitanud perekonnaseisuasutusele või notarile tsiviilkohtumenetluse seadustikus sätestatud korras.
+
+(3) Määruse edastamise või kättetoimetamise kohta tehakse registripäevikusse märge.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 30. [Kehtetu -  RT I 2009, 60, 395 - jõust. 01.07.2010] 
+
+§ 31. Abiregistrikaart
+
+[Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 32. Kande muutmine ja kustutamine
+
+(1) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(3) Kanne muudetakse senise kande kustutamise ja uue kande tegemise teel. Muudetud kannet asendav uus kanne saab senise kande järjekoha.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(4) Kande kustutamiseks tehakse kustutuskanne.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(5) Muudetud või kustutatud kannet peab olema võimalik taasesitada.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 33. Dokumentide ja lõivu tagastamine
+
+[Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 34. Registrikaardi sulgemine
+
+(1) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(3) Kui registrikaardil ei ole kehtivaid kandeid, tehakse sellele märge sulgemise kohta. Sulgemise märkes näidatakse sulgemise alus ja kuupäev ning märke teinud isiku nimi ja ametinimetus.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(4) Suletud registrikaarti peab olema võimalik taasesitada.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 35. Ärakirjade tegemine
+
+(1) Abieluvararegistri andmetest tehakse ärakirju ja väljatrükke käesoleva seaduse § 6 kohaselt.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2) Ärakiri ja väljatrükk peavad sisaldama registrikaardi kõiki kehtivaid kandeid. Ärakiri ja väljatrükk peavad sisaldama kustutatud kannet, kui seda on taotletud või kui seda on vaja teise kande mõistmiseks.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(3) Kui registripidajale on esitatud kandeavaldus, mille kohta ei ole kandemäärust veel tehtud, peavad ärakiri ja väljatrükk sisaldama viidet kandeavaldusele, mis on kantud registripäevikusse.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(4) Isiku nõudel annab registripidaja tõendi, et kannet ei ole muudetud või et kannet või järgmisi kandeid registris ei ole.
+
+(5) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 36. Menetluse kulud
+
+[Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+4. peatükk KANNETE PARANDAMINE JA KAEBUSTE ESITAMINE
+
+§ 37. Kande parandamine
+
+(1) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(3) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(4) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(5) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(6) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(7) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(8) Kanne parandatakse juhul, kui see on:
+1) tehtud ebaõige kandemääruse alusel;
+2) muutunud ebaõigeks abieluvararegistrisse kantud isiku isikuandmete muutumise tõttu.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(9) Ebaõige kande parandab registripidaja omal algatusel või huvitatud isiku avalduse alusel.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(10) Ebaõige kandemääruse alusel tehtud kanne parandatakse kandeavalduse alusel. Kande parandamiseks on vajalik puudutatud isiku nõusolek.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(11) Abieluvararegistrisse kantud isikuandmete muutumise korral parandab registripidaja kande ametiülesande korras selle andmekogu andmete alusel, millesse need andmed on kantud põhiandmetena avaliku teabe seaduse tähenduses. Tsiviilkohtumenetluse seadustiku § 597 lõikes 4 sätestatut ei kohaldata.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(12) Selliste isikuandmete muutumisel, mis ei ole põhiandmetena kantud Eesti andmekogusse, parandab registripidaja kande sellekohase teate ja vastava registri kinnitatud väljavõtte või muu usaldusväärse tõendi alusel.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(13) Välisriigis väljaantud dokument peab olema legaliseeritud või kinnitatud tunnistusega (apostille’ga), kui välisleping ei sätesta teisiti.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(14) Õigusliku tähenduseta kirjavea ja muu ilmse eksimuse parandab registripidaja ametiülesande korras. Tsiviilkohtumenetluse seadustiku § 597 lõikes 4 sätestatut ei kohaldata.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(15) Tehniliste võimaluste olemasolu korral parandatakse käesoleva paragrahvi lõikes 11 nimetatud kanne automaatselt.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 38. Kande parandamise viis
+
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(1) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(2) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(3) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(4) [Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(5) Kanne parandatakse senise kande kustutamise ja uue kande tegemise teel. Uues kandes märgitakse, et see asendab eelmist.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(6) Senist kannet asendav uus kanne saab senise kande järjekoha.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 39.  –  § 40. [Kehtetud -  RT I 2005, 39, 308 - jõust. 01.01.2006] 
+
+5. peatükk RAKENDUSSÄTTED
+
+§ 41. Seaduse jõustumine
+
+Käesolev seadus jõustub 1996. aasta 1. septembril.
+
+§ 41^1. Kandemääruse tegemise erisus
+
+[Kehtetu - RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 42. Registripidamine arvutis
+
+(1) Valdkonna eest vastutava ministri määramisel võib abieluvararegistrit pidada arvutis.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+[RT I, 29.06.2014, 109 - jõust. 01.07.2014, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud alates 2014. aasta 1. juulist „Justiitsministri” sõnadega „Valdkonna eest vastutava ministri”.] 
+
+(2) Kui abieluvararegistrit peetakse arvutis, tuleb kehtivad kanded säilitada väljatrükkidena.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+(3) Arvutis peetava abieluvararegistri kanne on tehtud, kui see on salvestatud abieluvararegistri kannetele määratud andmebaasis.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 42^1. Üleminek elektroonilisele abieluvararegistrile
+
+(1) Elektroonilisele abieluvararegistrile minnakse üle registrikaartide ja registritoimikute kaupa.
+
+(2) Andmekandjale salvestatud registrikaardi numbrile lisatakse seda unikaalseks muutev tunnus.
+
+(3) Elektrooniline registrikaart asendab paberregistrikaarti, kui kõik registrikaardi kanded on selleks ettenähtud andmekandjale salvestatud ning elektroonilisele registrikaardile on tehtud vastavasisuline märge.
+
+(4) Elektroonilistele registrikaartidele ja -toimikutele ülemineku korra kehtestab valdkonna eest vastutav minister määrusega.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+[RT I, 29.06.2014, 109 - jõust. 01.07.2014, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud alates 2014. aasta 1. juulist „justiitsminister” sõnadega „valdkonna eest vastutav minister”.] 
+
+§ 42^2. Registrikaardi ümberkirjutamine ametiülesande korras
+
+(1) Paberregistrikaardi, sealhulgas suletud registrikaardi kohta avatakse ametiülesande korras elektrooniline registrikaart ja paberregistrikaardile tehtud kanne, sealhulgas kustutatud kanne, kirjutatakse elektroonilisse abieluvararegistrisse ümber.
+
+(2) Andmeid abikaasa sünninime ja elukoha kohta elektroonilisse abieluvararegistrisse ei kanta.
+
+(3) Kui registrikaardile tehtud kande mõistmine on raskendatud, võib kande tegemiseks õigustatud isik selle ümberkirjutamisel ümber sõnastada selle sisu muutmata. Paberregistrikaardile kantud viite asemel kantakse elektroonilisele registrikaardile abikaasade seadusest või lepingust tulenevates varalistes õigustes tehtud muudatused.
+
+(4) Kande ümberkirjutamisel lisatakse kandele märkus selle ümberkirjutamise kohta.
+
+(5) Kui paberregistrikaart on avatud mõlema abikaasa kohta, kirjutatakse ümber ainult üks registrikaart. Ümberkirjutatud registrikaardile kantakse märkus selle kohta, et ümber on kirjutatud ainult üks registrikaart, ning märgitakse selle registrikaardi number, mida ümber ei kirjutatud.
+
+(6) Registrikaartide ümberkirjutamise korra kehtestab valdkonna eest vastutav minister määrusega.
+[RT I, 19.12.2012, 1 - jõust. 29.12.2012] 
+[RT I, 29.06.2014, 109 - jõust. 01.07.2014, Vabariigi Valitsuse seaduse § 107³ lõike 4 alusel asendatud alates 2014. aasta 1. juulist „justiitsminister” sõnadega „valdkonna eest vastutav minister”.] 
+
+§ 42^3. Kandeavalduste menetlemine
+
+() Enne 2013. aasta 1. jaanuari esitatud kandeavaldus, mille kohta ei ole 2013. aasta 1. jaanuariks tehtud abieluvararegistrisse kannet või koostatud kandemäärust, vaadatakse läbi 14 päeva jooksul käesoleva seaduse jõustumisest arvates.
+[RT I, 19.12.2012, 1 - jõust. 01.01.2013] 
+
+§ 43. [Kehtetu -  RT I 1996, 51, 967 - jõust. 29.07.1996] 
+
+§ 44.  –  § 45. [Käesolevast tekstist välja jäetud.]
+

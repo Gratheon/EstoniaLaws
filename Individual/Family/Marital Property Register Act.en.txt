@@ -1,0 +1,835 @@
+Issuer: Riigikogu
+Type: seadus
+In force from: 01.01.2014
+In force until: In force
+Publication notation: RT V, 20.01.2014, 5
+
+Marital Property Register Act
+
+Passed 09.11.1995
+RT I 1995, 87, 1540
+Entry into force 01.09.1996
+
+Amended by the following acts
+Passed - Published - Entry into force
+26.06.1996 - RT I 1996, 51, 967 - 29.07.1996
+20.01.1999 - RT I 1999, 10, 155 - 01.01.2000
+06.06.2001 - RT I 2001, 56, 336 - 07.07.2001
+14.11.2001 - RT I 2001, 93, 565 - 01.02.2002
+05.06.2002 - RT I 2002, 53, 336 - 01.07.2002
+22.02.2005 - RT I 2005, 15, 85 - 01.01.2006
+15.06.2005 - RT I 2005, 39, 308 - 01.01.2006
+12.10.2005 - RT I 2005, 57, 450 - 01.01.2006
+26.01.2006 - RT I 2006, 7, 42 - 04.02.2006
+24.01.2007 - RT I 2007, 12, 66 - 01.01.2008
+21.11.2007 - RT I 2007, 67, 413 - 28.12.2007
+18.11.2009 - RT I 2009, 60, 395 - 01.07.2010
+22.04.2010 - RT I 2010, 22, 108 - 01.01.2011, enters into force on the date which has been determined in the Decision of the Council of the European Union regarding the abrogation of the derogation established in respect of the Republic of Estonia on the basis provided for in Article 140 (2) of the Treaty on the Functioning of the European Union, Council Decision 2010/416/EU of 13 July 2010 (OJ L 196, 28.07.2010, pp. 24–26).
+17.06.2010 - RT I 2010, 38, 231 - 01.07.2010
+05.12.2012 - RT I, 19.12.2012, 1 - 01.01.2013, partially 29.12.2012
+11.12.2013 - RT I, 23.12.2013, 1 - 01.01.2014, partially 01.01.2015 ja 01.01.2020
+
+1. chapter  GENERAL PROVISIONS 
+
+§ 1. Marital property register
+
+(1) The marital property register is a state register for the registration of proprietary rights provided for in the spouses' marital property contract and, in the cases provided by law, other proprietary rights.
+
+(1^1) The marital property register is maintained electronically.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(2) The procedure for maintenance of the marital property register shall be established by a regulation of the Minister of Justice.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(2^1) The Minister of Justice may, by a regulation, establish formal requirements for documents submitted to the registrar and technical requirements for their submission which are necessary for computerised data processing.
+
+(3) The provisions of the Public Information Act concerning databases apply to the marital property register and the maintenance thereof with the specifications provided for in this Act.
+[
+							RT I
+							2007
+							12
+							66
+						 - pub. 01.01.2008] 
+
+§ 2. Registrar
+
+(1) The marital property register is maintained by the land registry departments of county courts.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(1^1) The chief processor of the marital property register is the Ministry of Justice and the authorised processor is the Centre of Registers and Information Systems.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(2) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(2^1) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(3) [Repealed - RT I 2005, 15, 85 - entry into force 01.01.2006]
+
+(4) [Repealed - RT I 2005, 39, 308 - entry into force 01.01.2006]
+
+§ 3. Competence of assistant judges
+
+(1) Entries in the marital property register and rulings on entry shall be made by assistant judges.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(2) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(3) An assistant judge shall not make an entry or a ruling on entry if the person is a relative or relative by marriage to the spouse, or another circumstance may create doubt as to the person's impartiality.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(4) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+§ 4. Changes to territorial jurisdiction of registers
+
+() [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+§ 5. [Repealed - RT I 2005, 15, 85 - entry into force 01.01.2006]
+
+§ 6. Access to information contained in marital property register
+
+[
+						RT I
+						2012-12-19
+						1
+					 - pub. 01.01.2013] 
+
+(1) Everyone can access the information entered on a registry card of the marital property register and obtain printouts thereof.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(2) Registry files can be accessed and printouts of documents contained therein can be obtained upon the existence of a legitimate interest. The legitimate interest of a spouse, notaries, bailiffs, trustees in bankruptcy, courts and authorities which have supervisory authority is presumed.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(3) A ruling shall be prepared for refusal to grant a permission to access a registry file in accordance with subsection 59 (6) of the Code of Civil Procedure. If a notary refuses to grant a permission to access a registry file, § 41 of the Notaries Act is applied.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(4) The registry journal is for internal use and no access thereto is allowed.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(5) The information contained in the marital property register can be accessed at land registry departments, notaries' offices and on the relevant website. A notary fee is paid in accordance with the Notary Fees Act upon accessing information contained in the marital property register at the notary's office.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 7. Legal effect of entries
+
+(1) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(2) [Repealed - RT I 2009, 60, 395 - entry into force 01.07.2010]
+
+(3) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(4) Entries are not related to the creation, changing and extinction of the proprietary rights provided by law in the relations between the spouses.
+
+§ 8. Working language
+
+(1) The marital property register is maintained in Estonian.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(2) Documents which are not in Estonian shall be submitted to the registrar together with a translation into Estonian done by a sworn translator or a notarised translation.
+[
+							RT I
+							2013-12-23
+							1
+							123122013001
+						 - pub. 01.01.2014] 
+
+§ 9. Seal of register
+
+() [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+2. chapter CONTENT OF MARITAL PROPERTY REGISTER
+
+[
+					RT I
+					2012-12-19
+					1
+				 - pub. 01.01.2013] 
+
+§ 10. Composition of register
+
+() The marital property register comprises:
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+1) the registry card;
+[
+								RT I
+								2012-12-19
+								1
+							 - pub. 01.01.2013] 
+2) the registry file;
+3) the registry journal.
+
+§ 11. Registry card
+
+(1) Entries are made on a registry cards.
+
+(2) Registry cards have unique numeration. Each registry card is given a consecutive number according to the temporal order of opening it.
+
+(3) Only one registry card may be opened about the proprietary rights of the spouses.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 12. Registry file
+
+() Applications for entries, marital property contracts, court decisions and other documents which are the basis for entries are maintained in the registry file.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 13. Registry journal
+
+(1) Applications for entries which express the desire for an entry to be made and in the cases provided by law notices submitted by a registry official of a vital statistics office or notary are registered in the registry journal.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 29.12.2012] 
+
+(2) The list of data to be entered in the registry journal shall be established by a regulation of the Minister of Justice.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(3) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+§ 14. Replacement card
+
+() [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+§ 15. Alphabetical card index
+
+() [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+§ 16. Preservation period
+
+() The data entered in the marital property register and the documents of the registry file are preserved indefinitely.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+3. chapter  REGISTRY ENTRIES 
+
+§ 17. Entries on registry card
+
+(1) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(2) The following information is entered on a registry card:
+1) registry card number;
+2) given names and surnames of spouses;
+3) personal identification codes of both spouses or, in the absence thereof, dates of birth;
+4) consecutive entry number;
+5) in the cases provided by law, the type of proprietary relations, alteration or termination of proprietary relations as well as objects or certain types of objects, which are declared to be joint property or separate property by a marital property contract;
+6) application of foreign law to the proprietary rights of the spouses and a reference to the marital property contract, by which the respective agreement was made;
+7) basis for entry, date of entry, the name and title of the person who has made the entry and notations;
+8) other information provided by law.
+[
+								RT I
+								2012-12-19
+								1
+							 - pub. 01.01.2013] 
+
+(3) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(4) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+§ 18. Spouses' data on registry card
+
+() [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+§ 19. Applications for entries
+
+(1) An entry is made on the basis of a notarised application of the spouses or in the cases provided by law on the basis of a notice submitted by a registry official of a vital statistics office or notary. An application made by the spouses may be included in the marital property contract.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 29.12.2012] 
+
+(1^1) An entry is deleted or amended on the basis of a notarised application of the spouses. An application made by the spouses may be included in the marital property contract.
+[
+							RT I
+							2009
+							60
+							395
+						 - pub. 01.07.2010] 
+
+(2) An entry is made on the basis of an application of one spouse if:
+1) the entry is based on a marital property contract or a court judgment that has entered into force;
+2) the marital property contract has terminated due to termination of marriage;
+3) [repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+4) an incorrect entry is being corrected.
+
+(3) An application shall express the desire for an entry to be made, include the information concerning the persons concerned and refer to the document on the basis of which the making of an entry is desired. An application shall set out the number of the registry card, on which the making of an entry is applied for, if a registry card has been opened.
+
+(3^1) If the registrar has electronic access to the register, where the information concerning the persons concerned specified in subsection (3) of this section has been entered as basic data within the meaning of the Public Information Act, it suffices if the application for entry sets out the name and personal identification code of the spouse.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(4) [Repealed - RT I 2001, 93, 565 - entry into force 01.02.2002]
+
+(5) An application the satisfaction of which is tied to a condition shall be denied. If several entries are requested in an application, the applicant may establish as a condition that one entry be not made without another entry being made or that one entry be made prior to the making of the other entry.
+
+§ 20. Submission and withdrawal of applications
+
+(1) An application may be submitted by a spouse in person or a representative thereof. An authorisation document provided for submission or withdrawal of an application shall be notarised. A notary having certified an application shall be deemed to be authorised to submit and withdraw the application.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(1^1) [Repealed - RT I, 19.12.2012, 1 - entry into force 29.12.2012]
+
+(2) Until the making of a ruling on entry, the person who submits an application may withdraw the application in part or in full. An application for withdrawal shall be notarised. A notary who has submitted an application to the registrar is also entitled to withdraw it.
+
+(3) A notarised application and authorisation document provided for submission or withdrawal of an application is deemed to be equivalent to a digitally signed application and authorisation document.
+[
+							RT I
+							2005
+							57
+							450
+						 - pub. 01.01.2006] 
+
+§ 21. Documents necessary for making entries
+
+(1) The following documents shall be appended to an application for entry:
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 29.12.2012] 
+1) the marital property contract;
+[
+								RT I
+								2012-12-19
+								1
+							 - pub. 29.12.2012] 
+2) a transcript of a court decision that has entered into force if the making of an entry is applied for on the basis of a court decision;
+[
+								RT I
+								2005
+								39
+								308
+							 - pub. 01.01.2006] 
+3) [repealed - RT I 2009, 60, 395 - entry into force 01.07.2010]
+4) a transcript of a certificate or judgement concerning the spouse's death or divorce if an entry is being deleted due to termination of marriage;
+[
+								RT I
+								2012-12-19
+								1
+							 - pub. 01.01.2013] 
+5) information concerning payment of the state fee;
+[
+								RT I
+								2012-12-19
+								1
+							 - pub. 01.01.2013] 
+6) other documents provided by law;
+6^1) a notarised notice of the spouses specified in subsection 212 (1) of the Family Law Act if the making of an entry is applied for on the basis of § 212 of the Family Law Act.
+[
+								RT I
+								2009
+								60
+								395
+							 - pub. 01.07.2010] 
+
+(1^1) A notice submitted by a registry official of a vital statistics office or notary shall be appended a transcript of the application for marriage digitally signed by the registry official of a vital statistics office or notary who has contracted the marriage.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 29.12.2012] 
+
+(2) [Repealed - RT I 2009, 60, 395 - entry into force 01.07.2010]
+
+(2^1) If the registrar has electronic access to the register, where the existence of the information specified in clauses (1) 2) and 4) of this section can be verified, the transcripts or extracts of these need not be appended to the application for entry.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(3) The application of foreign law to the proprietary rights of spouses shall be entered in the marital property register on the basis of documents certifying that the application of foreign law is permitted pursuant to subsection 58 (1) of the Private International Law Act. It shall be indicated in the entry which state's law is applicable to the proprietary rights of the spouses.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(4) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(5) Entries shall be corrected pursuant to the procedure provided for in § 37 of this Act.
+
+§ 22. Receipt of documents
+
+(1) The person submitting an application is obliged to submit documents serving as a basis for the entry.
+
+(2) Documents submitted to the registrar shall be originals or certified transcripts.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(3) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(4) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(5) An application shall be immediately registered in the registry journal and numbered according to the time of arrival of the application.
+
+(6) Applications which arrive by mail or e-mail on the same day shall be deemed to be submitted to the registrar concurrently and shall be registered in the registry journal as the last applications to arrive on that day. 17:00 shall be indicated as the time of acceptance.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(6^1) If a digitally signed application can be submitted to the electronic information system of the marital property register, the application and the time of arrival thereof shall be registered in the registry journal automatically and it shall be numbered according to the time of its arrival.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(6^2) An application shall not be submitted by e-mail if a digitally signed application can be submitted to the electronic information system of the marital property register. In such case the registrar shall return the application submitted by e-mail without entering it in the registry journal and specify the reasons for return of the application.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(7) Upon acceptance of an application, the registrar shall at the applicant's request issue a document which certifies the acceptance of the application.
+
+(8) Until the making of a ruling on entry, a person who submitted the application may submit supporting documents to the registrar.
+
+§ 22^1. Notation concerning received application for entry
+
+(1) Upon registration of applications for entries a reference to the submitted application is entered on the registry card (hereinafter seal). The seal consists of the registration number of the application for entry and the year.
+
+(2) The seal shall be visible upon accessing the registry card and on the printout of the registry card.
+
+(3) The seal is deleted after the making of an entry on the registry card or upon entry into force of a negative ruling on entry.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 23. [Repealed - RT I 2006, 7, 42 - entry into force 04.02.2006]
+
+§ 24. Review of applications for entries
+
+(1) Upon review of applications for entries, the person entitled to make entries shall verify within 14 days after the day of acceptance of the application whether:
+1) the required standard format documents have been submitted;
+2) the making of an entry is permitted pursuant to law.
+
+(2) If there are omissions which prevent the entry from being made or if a standard format document is omitted, the person entitled to make entries shall set a term for the elimination of omissions. The person entitled to make entries shall review an application for entry within 14 days after all omissions are eliminated and the standard format documents are submitted.
+
+(3) An application for entry is denied if:
+1) the omission preventing the making of an entry is not eliminated or a standard format document is not submitted within the set term;
+2) the person is not entitled to request the making of an entry;
+3) the persons who have entered into a marital property contract are not married;
+4) the applicant's wish or the legal basis for the desired entry is not apparent from the submitted documents;
+5) the making of an entry is prohibited by law or contrary to good morals;
+6) another impediment exists due to which it is not possible to make the entry.
+
+(4) If an application for entry is subject to satisfaction, the person entitled to make entries makes the entry on the registry card. In such case the entry replaces the ruling on entry.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 25. [Repealed - RT I 2006, 7, 42 - entry into force 04.02.2006]
+
+§ 26. Text of entries
+
+() [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+§ 27. Making and entry into force of entries
+
+(1) Registry card entries are numbered in the order they are made. If several entries are made on a card, the entries are made in the temporal order of submission of applications.
+
+(2) The text of an entry shall be legible and unambiguous. Only common abbreviations shall be used in entries.
+
+(3) Information identifying the person who made an entry shall be appended to the entry. The entry and the identifying information are recorded with an electronic signature.
+
+(4) An entry enters into force at the moment it is signed.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 27^1. Content of rulings on entry
+
+() A ruling on entry shall contain the following information:
+1) the name of the land registry department;
+2) the time and place of making the ruling;
+3) the proceedings number;
+4) the name of the applicant as well as the name of the registry official of a vital statistics office or notary who submitted the application if the application for entry was submitted by the registry official of a vital statistics office or notary;
+5) the reasons and legal basis for the ruling;
+6) the procedure and term for appeal against the ruling on entry;
+7) the name and official title of the person who made the ruling.
+[
+								RT I
+								2012-12-19
+								1
+							 - pub. 01.01.2013] 
+
+§ 28. Handling of multiple applications
+
+() If multiple applications have been submitted for making an entry, the applications are satisfied in the order of their registration in the registry journal, unless otherwise agreed by the persons who have submitted the applications.
+
+§ 29. Notification of entries and rulings on entry
+
+(1) After making of an entry, a printout of the registry card is sent to both spouses and the notary who has represented them in the registry matter pursuant to the procedure prescribed in the regulation established on the basis of subsection 1 (2) of this Act.
+
+(2) A ruling on entry, by which an application for entry is denied or by which a term longer than six months is set for eliminating the omissions, is delivered to both spouses and the notary who has represented them in the registry matter as well as to the vital statistics office or notary having submitted the application pursuant to the procedure provided for in the Code of Civil Procedure.
+
+(3) A notation is made in the registry journal concerning the forwarding or delivery of a ruling.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 30. [Repealed - RT I 2009, 60, 395 - entry into force 01.07.2010]
+
+§ 31. Supporting registry card
+
+() [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+§ 32. Amendment or deletion of entries
+
+(1) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(2) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(3) An entry is amended by deletion of the current entry and making of a new entry. The new entry which replaces the current entry acquires the ranking of the current entry.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(4) A deletion entry is made in order to delete an entry.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(5) Reproduction of an amended or deleted entry shall be possible.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 33. Return of documents and refunding of fee
+
+() [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+§ 34. Closure of registry cards
+
+(1) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(2) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(3) If there are no valid entries on a registry card, a notation concerning its closure is made thereon. The basis and date of the closure as well as the name and official title of the person who made the notation are indicated in the closure notation.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(4) Reproduction of a closed registry card shall be possible.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 35. Making of transcripts
+
+(1) Transcripts and printouts are made of information contained in the marital property register in accordance with § 6 of this Act.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(2) A transcript or printout shall contain all valid entries on the registry card. A transcript or printout shall contain a deleted entry if this has been applied for or if this is needed in order to understand another entry.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(3) If an application for entry has been submitted to the registrar concerning which a ruling on entry has not yet been made, an extract or printout shall contain a reference to the application for entry entered in the registry journal.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(4) At the request of a person, the registrar issues a certificate that an entry has not been amended or that the register does not contain an entry or further entries.
+
+(5) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+§ 36. Costs of proceedings
+
+() [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+4. chapter  CORRECTION OF ENTRIES AND SUBMISSION OF COMPLAINTS 
+
+§ 37. Correction of entries
+
+(1) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(2) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(3) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(4) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(5) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(6) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(7) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(8) An entry is corrected if it:
+1) is made on the basis of an incorrect ruling on entry;
+2) has become incorrect due to a change in the personal data of a person entered in the marital property register.
+[
+								RT I
+								2012-12-19
+								1
+							 - pub. 01.01.2013] 
+
+(9) An incorrect entry is corrected by the registrar on the registrar's own initiative or on the basis of an application of an interested person.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(10) An entry made on the basis of an incorrect ruling on entry is corrected on the basis of an application for entry. The consent of the person concerned is required for correction of the entry.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(11) In the case of changes in the personal data entered in the marital property register the registrar ex officio corrects the entry on the basis of the information contained in the database where the information is entered as basic data within the meaning of the Public Information Act. The provisions of subsection 597 (4) of the Code of Civil Procedure shall not apply.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(12) Upon a change in such personal data which are not entered in an Estonian database as basic data the registrar corrects the entry on the basis of the corresponding notice and a certified extract from the corresponding register or other reliable certificate.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(13) A document issued by a foreign state shall be legalised or authenticated by a certificate replacing legalisation (apostille), unless otherwise provided by an international agreement.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(14) Spelling mistakes which have no legal effect and other obvious mistakes are ex officio corrected by the registrar. The provisions of subsection 597 (4) of the Code of Civil Procedure shall not apply.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(15) If the technical potential exists, an entry specified in subsection (11) of this section is corrected automatically.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 38. Manner of correction of entries
+
+[
+						RT I
+						2012-12-19
+						1
+					 - pub. 01.01.2013] 
+
+(1) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(2) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(3) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(4) [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+(5) An entry is corrected by deletion of the current entry and making of a new entry. The new entry shall indicate that it replaces the former entry.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(6) The new entry which replaces the current entry acquires the ranking of the current entry.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 38^1.  –  § 40. [Repealed - RT I 2005, 39, 308 - entry into force 01.01.2006]
+
+
+
+5. chapter  IMPLEMENTING PROVISIONS 
+
+§ 41. Entry into force of Act
+
+() This Act enters into force on 1 September 1996.
+
+§ 41^1. Specifications for making rulings on entry
+
+() [Repealed - RT I, 19.12.2012, 1 - entry into force 01.01.2013]
+
+§ 42. Maintenance of register on computer
+
+(1) The marital property register may be maintained on computer if so determined by the Minister of Justice.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(2) If the marital property register is maintained on computer, valid entries shall be stored as printouts.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+(3) An entry in the marital property register maintained on computer is made if it is saved in the database assigned for marital property register entries.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 42^1. Transition to electronic marital property register
+
+(1) The transition to electronic marital property register is conducted by registry cards and registry files.
+
+(2) A unique identifier is added to the number of the registry card recorded on a data medium.
+
+(3) An electronic registry card replaces the registry card on paper if all the entries on the registry card are stored on the prescribed data medium and a corresponding notation has been made on the electronic registry card.
+
+(4) The procedure for transition to electronic registry cards and electronic registry files shall be established by a regulation of the Minister of Justice.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 42^2. Ex officio  rewriting of registry cards
+
+(1) An electronic registry card is ex officio opened in respect of a registry card on paper, including a closed registry card, and entries made on the registry card on paper, including deleted entries, are rewritten into the electronic marital property register.
+
+(2) Information concerning the spouse's birth name and residence is not entered in the electronic marital property register.
+
+(3) If understanding an entry made on a registry card is difficult, the person entitled to make entries may reword it upon rewriting the entry without changing the content thereof. Changes made in the spouses' proprietary rights arising from law or a contract are entered on the electronic registry card instead of the reference entered on the registry card on paper.
+
+(4) Upon rewriting of an entry, the entry is added a notation on rewriting thereof.
+
+(5) If a registry card on paper has been opened for both spouses, only one registry card is rewritten. A notation is made on the rewritten registry card that only one registry card has been rewritten, setting out the number of the registry card which has not been rewritten.
+
+(6) The procedure for rewriting of registry cards shall be established by a regulation of the Minister of Justice.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 29.12.2012] 
+
+§ 42^3. Processing of applications for entry
+
+() An application for entry submitted before 1 January 2013 concerning which no entry has been made in the marital property register or no ruling on entry has been made by 1 January 2013 is reviewed within 14 days after entry into force of this Act.
+[
+							RT I
+							2012-12-19
+							1
+						 - pub. 01.01.2013] 
+
+§ 43. [Repealed - RT I 1996, 51, 967 - entry into force 29.07.1996 ]
+
+§ 44.  –  § 45. [Omitted from this text.]
+
