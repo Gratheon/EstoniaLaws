@@ -1,0 +1,1598 @@
+Issuer: Riigikogu
+Type: seadus
+In force from: 01.04.2013
+In force until: In force
+Publication notation: RT V, 30.10.2013, 61
+
+Employment Contracts Act
+
+Passed 17.12.2008
+RT I 2009, 5, 35
+Entry into force 01.07.2009
+
+Amended by the following acts
+Passed - Published - Entry into force
+28.01.2009 - RT I 2009, 11, 67 - 01.07.2009
+20.02.2009 - RT I 2009, 15, 93 - 01.07.2009
+06.05.2009 - RT I 2009, 26, 159 - 01.07.2009
+21.05.2009 - RT I 2009, 29, 176 - 01.04.2010
+18.06.2009 - RT I 2009, 36, 234 - 01.07.2009, partially pursuant to § 190
+22.04.2010 - RT I 2010, 22, 108 - 01.01.2011, enters into force on the date determined by the Decision of the Council of the European Union on abrogation of a derogation established in respect of the Republic of Estonia on the basis of Article 140(2) of the Treaty on the Functioning of the European Union, Council Decision No. 2010/416/EU of 13 July 2010 (OJ L 196, 28.07.2010, pp. 24–26).
+25.01.2012 - RT I, 10.02.2012, 1 - 20.02.2012
+08.05.2012 - RT I, 25.05.2012, 24 - 04.06.2012
+13.06.2012 - RT I, 10.07.2012, 2 - 01.04.2013
+12.12.2012 - RT I, 22.12.2012, 15 - 01.01.2013
+
+1. chapter GENERAL PROVISIONS
+
+§ 1. Definition of employment contract
+
+(1) On the basis of an employment contract a natural person (employee) does work for another person (employer) in subordination to the management and control of the employer. The employer pays to the employee remuneration for such work.
+
+(2) If a person does work for another person which, under the circumstances, can be expected to be done only for remuneration, it is presumed to be an employment contract.
+
+(3) The provisions of the Law of Obligations Act concerning authorisation agreement shall be applied to employment contract, unless otherwise provided by this Act.
+
+(4) The provisions concerning employment contract shall not be applied to a contract where the person obligated to perform the work is to a significant extent independent in choosing the manner, time and place of performance of the work.
+
+(5) The provisions concerning employment contract shall not be applied to the contract of a member of the directing body of a legal person or a director of a branch of a foreign company.
+
+§ 2. Mandatory nature of provisions
+
+() An agreement derogating to the detriment of the employee from the provisions of this Act and the Law of Obligations Act concerning the rights and obligations and liability of the contracting parties is void, unless the possibility of an agreement derogating to the detriment of the employee has been prescribed by this Act.
+
+§ 3. Principle of equal treatment
+
+() An employer shall ensure the protection of employees against discrimination, follow the principle of equal treatment and promote equality in accordance with the Equal Treatment Act and Gender Equality Act.
+
+2. chapter ENTRY INTO EMPLOYMENT CONTRACT
+
+§ 4. Specifications for entry into employment contract
+
+(1) The provisions of the Law of Obligations Act concerning entry into a contract shall be applied to entry into an employment contract.
+
+(2) An employment contract shall be entered into in writing. An employment contract shall also be deemed entered into if an employee commences work which, under the circumstances, can be expected to be done only for remuneration.
+[
+							RT I
+							2009
+							36
+							234
+						 - pub. 01.07.2009] 
+
+(3) An agreement on a condition harmful to the employee or related to the validity of the employment contract, which is contingent upon an uncertain event (resolutive condition), is void.
+[
+							RT I
+							2009
+							36
+							234
+						 - pub. 01.07.2009] 
+
+(4) Failure to adhere to the formal requirement provided for in subsection (2) of this section does not bring about the voidness of the employment contract.
+
+(5) The formal requirement provided for in subsection (2) of this section shall not be applied if the duration of the validity of the employment contract does not exceed two weeks.
+
+§ 5. Notification of employee of working conditions
+
+(1) A written document of an employment contract shall contain at least the following data:
+1) the name, personal identification code or registry code, place of residence or seat of the employer and the employee;
+2) the date of entry into the employment contract and commencement of work by the employee;
+3) a description of duties;
+4) the official title if this brings about a legal consequence;
+5) the agreed remuneration payable for the work (wages), including remuneration payable based on the economic performance and transactions, and the manner of calculation, the procedure for payment and the time of falling due of wages (pay day), also taxes and payments payable and withheld by the employer;
+6) other benefits if agreed upon;
+7) the time when the employee performs the agreed duties (working time);
+8) the place of performance of work;
+9) the duration of holiday;
+10) a reference to the terms for advance notice of cancellation of the employment contract or the terms for advance notice of cancellation of the employment contract;
+11) a reference to the rules of work organisation established by the employer;
+[
+								RT I
+								2012-02-10
+								1
+							 - pub. 20.02.2012] 
+12) a reference to a collective agreement if a collective agreement is applicable with regard to the employee.
+
+(2) The data of an employment contract shall be communicated in good faith, clearly and unambiguously. The employer may demand that the employee confirm the communication of the data specified in this section.
+
+(3) If the data has not been communicated to the employee before commencement of work, the employee may demand it at any time. The employer shall be obligated to communicate data within two weeks as of the receipt of such a request.
+
+(4) Any changes in the data shall be communicated to the employee in writing within one month as of the making of the changes, considering the provisions of subsections (2) and (3) of this section.
+
+(5) The employer shall preserve the written employment contract during the term of validity of the employment contract and for ten years after the expiry of the employment contract.
+
+§ 6. Notification of employee of working conditions in special cases
+
+(1) If an employer and employee agree on a period shorter than that provided for in subsection 86(1) of this Act in order to assess whether the employee’s health, knowledge, skills, abilities and personal characteristics correspond to the level required for performance of the work (probationary period), the employer shall, in addition to what has been specified in section 5 of this Act, notify the employee of the duration of the probationary period.
+
+(2) If an employer and employee agree that the employment contract has been entered into for a specified term, the employer shall, in addition to what has been specified in section 5 of this Act, notify the employee of the duration of the employment contract and the reason for entry into an employment contract for a specified term.
+
+(3) If an employer and employee agree on the application of the restraint of trade clause or the employer has determined confidential information, the employer shall, in addition to what has been specified in section 5 of this Act, notify the employee of the content of the agreement on the restraint of trade clause or of the content of the confidential information.
+[
+							RT I
+							2009
+							36
+							234
+						 - pub. 01.07.2009] 
+
+(4) If an employer and employee agree that the employee does work, which is usually done in the employer’s enterprise, outside the place of performance of the work, including at the employee’s place of residence (teleworking), the employer shall, in addition to what has been specified in section 5 of this Act, notify the employee that the duties are performed by way of teleworking.
+
+(5) If an employer and employee agree that the employee does work, on a temporary basis, in compliance with a third party’s (user undertaking) instructions and supervision (temporary agency work), the employer shall, in addition to what has been specified in section 5 of this Act, notify the employee that the duties are performed by way of temporary agency work in the user undertaking.
+[
+							RT I
+							2012-02-10
+							1
+						 - pub. 20.02.2012] 
+
+(6) If an employer and employee agree that the working time is divided within the recording period unequally (summarised working time), the employer shall, in addition to what has been specified in section 5 of this Act, notify the employee of the conditions of communicating the working time schedule.
+
+(7) If an employer and employee agree that the employer compensates the employee for expenses incurred upon doing work or due to the directions or orders of the employer, the employer shall, in addition to what has been specified in section 5 of this Act, notify the employee of the contents of such an agreement.
+
+(8) If an employee and employer agree that the employee works for more than one month in a country whose law does not apply to his or her employment contract, the employer shall, in addition to what has been specified in section 5 of this Act, notify the employee, before the employee leaves for the country, of the time of working in the country, the currency of payment of the wages, the benefits relating to the stay in the country, and the conditions of returning from the country.
+
+(9) If an employer has failed to notify an employee in writing of the data specified in subsections (1) to (5) of this section, it is presumed that no agreements have been reached or obligations established.
+[
+							RT I
+							2009
+							36
+							234
+						 - pub. 01.07.2009] 
+
+§ 7. Entry into employment contract with minor
+
+(1) An employer shall not enter into an employment contract with a minor under 15 years of age or a minor subject to the obligation to attend school, or allow such a minor to work, except in the cases provided for in subsection (4) of this section.
+
+(2) An employer shall not enter into an employment contract with a minor or allow a minor to work if the work:
+1) is beyond the minor’s physical or psychological capacity;
+2) is likely to harm the moral development of the minor;
+3) involves risks which the minor cannot recognise or avoid owing to lack of experience or training;
+4) is likely to hinder the minor's social development or the acquisition of his or her education;
+5) is likely to harm the minor’s health due to the nature of the work or the working environment.
+
+(3) The list of the work and hazards specified in clause (2)5) of this section shall be established by the Government of the Republic by a regulation.
+
+(4) An employer may enter into an employment contract with a minor of 13–14 years of age or a minor of 15–16 years of age subject to the obligation to attend school and allow him or her to work if the duties are simple and do not require any major physical or mental effort (light work). Minors of 7–12 years of age are allowed to do light work in the field of culture, art, sports or advertising.
+
+(5) The Government of the Republic shall establish by a regulation the types of light work which may be done by a minor.
+
+(6) An employment contract entered into by violating the restrictions specified in this section is void.
+
+§ 8. Consent for employment of minor
+
+(1) An expression of will made by a minor for entry into an employment contract without the prior consent of a legal representative is void, unless the legal representative subsequently approves the expression of will.
+
+(2) The legal representative of a minor may not consent to the employment during the school holiday of a minor subject to the obligation to attend school for more than a half of each term of the school holiday.
+
+(3) In order to enter into an employment contract with a minor of 7–14 years of age, the employer shall apply for consent from the labour inspector of the place of business. In the application the employer shall indicate information about the working conditions of the minor, including the minor’s place of work and duties, age and whether the minor is subject to the obligation to attend school.
+
+(4) If the labour inspector verifies that the work is not prohibited for the minor and the minor's working conditions are in accordance with the requirements provided by law and the minor wishes to do the work, the labour inspector shall grant the employer the consent specified in subsection (3) of this section.
+
+(5) If, in ascertaining the will of a minor of 7–12 years of age, the labour inspector has reasonable doubt that the minor is not expressing his or her true will in the presence of the legal representative, the labour inspector shall ascertain the will of the minor in the presence of the minor and a local child protection official.
+
+(6) An employment contract which has been entered into with a minor without the consent specified in this section is void.
+
+(7) An employer is prohibited from allowing a minor to work without the consent or approval of a legal representative.
+
+§ 9. Entry into employment contract for specified term
+
+(1) It is presumed that an employment contract is entered into for an unspecified term. An employment contract may be entered into for a specified term of up to five years if it is justified by good reasons arising from the temporary fixed-term characteristics of the work, especially a temporary increase in work volume or performance of seasonal work. If duties are performed by way of temporary agency work, an employment contract may be entered into for a specified term also if it is justified by the temporary characteristics of the work in a user undertaking.
+[
+							RT I
+							2012-02-10
+							1
+						 - pub. 20.02.2012] 
+
+(2) For the period of substitution of an employee who is temporarily absent, an employment contract may be entered into for a specified term of the period of the substitution.
+
+§ 10. Restriction on consecutive entry into and extension of employment contract for specified term
+
+(1) If an employee and employer have, on the basis of subsection 9(1) of this Act, on more than two consecutive occasions entered into an employment contract for a specified term for the performance of similar work or extended the contract entered into for a specified term more than once in five years, the employment relationship shall be deemed to have been entered into for an unspecified term from the start. Entry into employment contracts for a specified term shall be deemed consecutive if the time between the expiry of one employment contract and entry into the next employment contract does not exceed two months.
+
+(2) If duties are performed by way of temporary agency work, the restriction on consecutive entry into or extension of an employment contract for a specified term provided for in subsection (1) of this section shall be applied to every user undertaking separately.
+[
+							RT I
+							2012-02-10
+							1
+						 - pub. 20.02.2012] 
+
+§ 11. Precontractual negotiations
+
+(1) In precontractual negotiations or upon preparation of an employment contract in another manner, including in a job advertisement or job interview, an employer may not ask the person applying for employment for any data with regard to which the employer does not have any legitimate interest.
+
+(2) The absence of the employer’s legitimate interest is presumed first of all in the case of questions which disproportionately concern the private life of the person applying for employment or which are not related to his or her suitability for the job offered.
+
+(3) The provisions of this section do not limit the application of the provisions of section 14 of the Law of Obligations Act.
+
+§ 12. Amendment of employment contract
+
+() An employment contract may be amended only by agreement between the parties.
+
+§ 13. Specifications for annulment of employment contract
+
+(1) An employer may not annul an employment contract due to error or fraud, relying on the absence of information or false information about the employee with regard to the learning of which the employer does not have a legitimate interest as well as due to error or fraud if the circumstance with regard to which the employer was in error has lost its meaning for the employment contract at the time of the annulment.
+
+(2) Due to error or fraud the employer may cancel the employment contract within two weeks as of learning of the error or fraud.
+
+§ 14. Consequences of annulment of employment contract
+
+(1) In case of the voidness or annulment of an employment contract, the employer or the employee may not claim the return of that which was delivered or performed under the contract.
+
+(2) The employee shall return tools and personal protective equipment received for occupational use under a void employment contract.
+
+(3) If an employee deceived the employer with a fact which is of significant importance in determining the wages, the portion of the wages paid to the employee which the employer would not have paid had it known the actual circumstances may be claimed by the employer from the employee.
+
+3. chapter OBLIGATIONS OF EMPLOYEE AND EMPLOYER
+
+1. division Obligations of Employee
+
+§ 15. Obligations of employee
+
+(1) An employee shall perform his or her obligations before the employer loyally.
+
+(2) Unless otherwise provided by law, a collective agreement or an employment contract, an employee shall fulfil, above all, the following obligations:
+1) to do the agreed work and fulfil the obligations arising from the characteristics of the work;
+2) to do the work in the agreed volume, in the agreed place and at the agreed time;
+3) to comply with the lawful instructions of the employer in a timely and precise manner;
+4) to participate in training for improvement of vocational knowledge and skills;
+5) to refrain from actions which hinder other employees from fulfilling their obligations or endanger the life, health or property of the employee or other persons;
+6) to cooperate with other employees for the purposes of performance of duties;
+7) to immediately notify the employer of an impediment to work or of the threat thereof and, if possible, to eliminate such an impediment or threat without a special instruction;
+8) at the request of the employer, to notify the employer of all significant circumstances relating to the employment relationship with regard to which the employer has a legitimate interest;
+9) to refrain from actions which harm the reputation of the employer or cause distrust in the employer among clients or partners;
+10) to notify the employer at the earliest opportunity of his or her temporary incapacity for work and, where possible, the presumed duration thereof.
+
+(3) An employee shall fulfil his or her obligations personally, unless agreed otherwise.
+
+§ 16. Level of diligence of employee
+
+(1) An employee shall perform duties loyally and in accordance with his or her knowledge and skills, bearing in mind the benefit to the employer and with the necessary diligence arising from the characteristics of the work.
+
+(2) The level of diligence observed upon performance of the employment contract, which, if not adhered to, makes the employee liable for a breach of the employment contract, shall be determined on the basis of the employee’s employment relationship, considering the ordinary risks related to the employer’s activities and the employee’s work, the employee’s training, professional knowledge required for performance of the work, as well as the employee's abilities and characteristics which the employer knew or should have known.
+
+§ 17. Content of instruction of employer
+
+(1) An instruction of an employer shall be related to a duty prescribed in the employment contract.
+
+(2) Upon giving an instruction, an employer shall reasonably take the interests and rights of the employee into account.
+
+(3) An employee does not have to follow an instruction not related to the employment contract, collective agreement or law. An instruction not related to the employment contract, collective agreement or law, and which may not be deviated from by agreement or which is in conflict with the principle of good faith or reasonableness is void.
+
+(4) An instruction not related to the employment contract, collective agreement or law is valid if arising from an emergency. An emergency is presumed in case of possible damage or a threat of such damage to the employer’s property or other amenity caused, above all, by force majeure.
+
+(5) If duties are performed by way of temporary agency work, the employee shall also follow the instructions of the user undertaking. Instructions of the user undertaking are subject to the provisions of this section. In case of a conflict between the instructions of the employer and of the user undertaking, the employee shall follow the instructions of the employer.
+
+§ 18. Working conditions of pregnant employee and employee who has the right to pregnancy and maternity leave
+
+(1) A pregnant employee and an employee who has the right to pregnancy and maternity leave have the right to demand that the employer temporarily provide them with work corresponding to their state of health if the employee’s state of health does not allow for the performance of the duties prescribed in the employment contract on the agreed conditions.
+
+(2) If the employer cannot provide the employee with work corresponding to his or her state of health, the employee may temporarily refuse to perform the duties.
+
+(3) In the cases specified in subsections (1) and (2) of this section, the employee shall submit to the employer a certificate from a doctor or midwife indicating the restrictions on work due to his or her state of health and, where possible, proposals regarding duties and working conditions corresponding to his or her state of health.
+[
+								RT I
+								2009
+								29
+								176
+							 - pub. 01.04.2010] 
+
+(4) In the cases specified in subsections (1) and (2) of this section, compensation shall be paid to the employee under the conditions and pursuant to the procedure prescribed in the Health Insurance Act.
+
+(5) Upon termination of pregnancy and maternity leave, a woman has the right to use the improved working conditions which she would have been entitled to during her absence.
+
+§ 19. Right of employee to refuse to perform work
+
+() An employee has the right to refuse to perform work, in particular if the employee:
+1) is on holiday;
+2) is temporarily incapacitated for work for the purposes of the Health Insurance Act;
+3) is representing employees in cases prescribed by law or a collective agreement;
+4) is participating in a strike;
+5) is in compulsory military service or alternative service or is participating in reserve training;
+6) has other reasons prescribed in the employment contract, collective agreement or law.
+
+§ 20. Place of performance of work
+
+() An employee shall perform his or her duties at the employer’s place of business which has the strongest connection with the employment relationship, unless the place of performance of work has been agreed on. It is presumed that the place of performance of work is agreed on with the precision of the local government.
+
+§ 21. Business trip
+
+(1) An employer may send an employee outside the place of performance of work prescribed by the employment contract in order to perform duties.
+
+(2) An employee may not be sent on a business trip for longer than 30 consecutive calendar days, unless the employer and the employee have agreed on a longer term.
+
+(3) A pregnant woman and an employee raising a child under three years of age or a disabled child may be sent on a business trip only with his or her consent.
+
+(4) An employee who is a minor may be sent on a business trip only with the prior consent of the minor and his or her legal representative.
+
+§ 22. Duty to maintain confidentiality
+
+(1) According to what is provided for in section 625 of the Law of Obligations Act and taking into account the notification obligation provided for in subsection 6(3) of this Act, the employer may determine which information an employee is obligated to keep as a production or business secret.
+[
+								RT I
+								2009
+								36
+								234
+							 - pub. 01.07.2009] 
+
+(2) An employer and employee may agree on a contractual penalty for a breach of the obligation to maintain confidentiality under the conditions and pursuant to the procedure provided for in the Law of Obligations Act.
+
+(3) The provisions of this section do not preclude claim for compensation for damage caused by a breach of the obligation to maintain confidentiality to the extent not covered by a contractual penalty.
+
+§ 23. Agreement on restraint of trade clause
+
+(1) Under an agreement on a restraint of trade clause an employee assumes the obligation not to work for the employer's competitor or not to engage in the same economic or professional activity as the employer.
+
+(2) An agreement on a restraint of trade clause may be entered into if it is necessary for protecting the employer’s special economic interest, in maintenance of confidentiality of which the employer has a legitimate interest, especially if the employment relationship allows an employee to become acquainted with the employer's clients or access the employer's production and business secret, and the use of this knowledge may harm the employer considerably.
+
+(3) A restraint of trade clause shall be delimited reasonably and recognisably for the employee in terms of space, time and objects.
+
+(4) An agreement entered into in breach of the requirements provided for in this section is void.
+
+§ 24. Validity of agreement on restraint of trade after expiry of employment contract
+
+(1) An agreement on a restraint of trade clause applicable after the expiry of an employment contract is valid only if:
+1) it complies with the conditions provided for in subsections 23(2) and (3) of this Act;
+2) it has been made in writing;
+3) compensation is paid for it in accordance with subsection (3) of this section;
+4) it has been made for up to one year starting from the expiry of the employment contract.
+
+(2) An employer cannot rely on the voidness of an agreement reached in breach of the requirements established in subsection (1) of this section if the employee performs the agreement.
+
+(3) An employer shall pay the employee reasonable monthly compensation for adherence to the agreement on the restraint of trade clause after the expiry of the employment contract.
+
+§ 25. Cancellation of agreement on restraint of trade clause
+
+(1) An employer may cancel an agreement on a restraint of trade clause at any time, notifying the employee thereof no less than 30 calendar days in advance.
+
+(2) An employee may cancel the agreement on a restraint of trade clause, notifying the employer thereof no less than 15 calendar days in advance if the employer’s interest in restriction of competition is no longer reasonable due to changes in circumstances.
+
+(3) In addition to the provisions of subsection (2) of this section, an employee may cancel the agreement on a restraint of trade clause within 30 calendar days as of cancelling the employment contract due to a fundamental breach by the employer, notifying the employer thereof no less than 15 calendar days in advance.
+
+(4) The provisions of subsections (1) and (2) of this section shall also be applied to cancellation of an agreement on a restraint of trade clause applicable after the expiry of an employment relationship.
+
+§ 26. Contractual penalty upon breach of restraint of trade clause obligation
+
+(1) An employer and employee may agree on a contractual penalty for a breach of the restraint of trade clause.
+
+(2) The provisions of this section do not preclude claim for compensation for damage caused by a breach of the restraint of trade clause obligation to the extent not covered by a contractual penalty.
+
+§ 27. Notification obligation
+
+() At the request of an employer, an employee shall be obligated to provide information about his or her employment, economic or professional activities during and after the term of validity of the employment contract to the extent which is of relevance for the purposes of verification of adherence to an agreement specified in sections 23 to 25 of this Act.
+
+2. division Obligations of Employer
+
+§ 28. Obligations of employer
+
+(1) An employer shall perform its obligations with regard to an employee loyally.
+
+(2) An employer is, above all, obligated:
+1) to provide an employee with the work agreed on and give instructions clearly and in a timely manner;
+2) to pay wages for work under the conditions and at the time agreed on;
+3) to grant holiday as prescribed and pay holiday pay;
+4) to ensure the agreed working and rest time and keep account of working time;
+5) for the purposes of development of the professional knowledge and skills of an employee, to provide the employee with training based on the interests of the employer's enterprise, and bear the training expenses and pay average wages during the training;
+6) to ensure working conditions corresponding to occupational health and safety requirements;
+7) upon hiring an employee as well as during employment, to introduce to the employee the fire safety rules, occupational health and safety requirements and rules of work organisation established by the employer;
+8) upon hiring an employee as well as during employment, to introduce the conditions of collective agreements applicable to the employee;
+9) to notify employees working under an employment contract entered into for a specified term of vacant positions corresponding to their knowledge and skills with regard to which an employment contract can be entered into for an unspecified term;
+9^1) to notify an employee who is performing duties by way of temporary agency work of vacant positions in the user undertaking corresponding to his or her knowledge and skills with regard to which an employment contract can be entered into for an unspecified term, unless the user undertaking has notified the employee of the vacant positions;
+[
+									RT I
+									2012-02-10
+									1
+								 - pub. 20.02.2012] 
+10) to notify a full-time employee of the possibility of part-time work and a part-time employee of the possibility of full-time work, considering the knowledge and skills of the employee;
+11) to respect employee’s privacy and verify the performance of his or her duties in a manner which does not violate the employee’s fundamental rights;
+12) at the request of an employee, to provide the employee with information about the wages calculated and paid or payable to the employee, and provide other notices characterising the employee or the employment relationship;
+13) not to disclose, without employee’s consent or legal basis, information about wages calculated, paid or payable to the employee.
+
+§ 29. Amount of wages
+
+(1) If a person does work which, considering the circumstances, can be expected to be done for remuneration, it is presumed that wages have been agreed on.
+
+(2) If the amount of wages payable to an employee under a contract has not been agreed on or if the agreement cannot be proven, the amount of the wages is the remuneration specified in a collective agreement or, upon absence of a collective agreement, the remuneration usually paid for similar work under similar circumstances.
+
+(3) The employee’s tax liability, that is the taxes and premiums prescribed by law which are to be withheld from the wages shall be debited from the agreed wages. Wages shall be paid in money.
+
+(4) If, in addition to wages, it has been agreed that the employer shall grant an employee other benefits, the employee shall have the right to demand them.
+
+(5) The Government of the Republic shall establish by a regulation the minimum wage corresponding to a specific unit of time.
+
+(6) Wages falling below the minimum wage established by the Government of the Republic may not be paid to an employee.
+
+(7) [Repealed – RT I 2009, 36, 234 – entry into force 01.07.2009]
+
+(8) The Government of the Republic shall establish by a regulation the conditions and procedure for payment of average wages.
+
+§ 30. Remuneration paid on economic performance
+
+() If an employee has the contractual right to receive a part of the employer's profit or turnover or other economic results, it shall be presumed that the approved annual report of the employer in the respective year serves as the basis for calculation of the employee's part.
+[
+								RT I
+								2009
+								11
+								67
+							 - pub. 01.07.2009] 
+
+§ 31. Remuneration paid on transactions
+
+() If an employee has the contractual right to remuneration on a contract to be concluded between the employer and a third party, sections 679 to 682 of the Law of Obligations Act shall be applied to the payment of the remuneration.
+
+§ 32. Agreement on use of remuneration
+
+() An agreement under which an employee is obligated to use the wages and other benefits for a certain purpose is void.
+
+§ 33. Time, place and manner of payment of wages
+
+(1) An employer shall pay wages to an employee once a month, unless a shorter term has been agreed on for payment of remuneration.
+
+(2) If the pay day falls on a public holiday or a day off, it shall be deemed that the pay day is the working day preceding the public holiday or day off.
+
+(3) The part payable of an employer's economic results shall be paid to an employee after determining the part, but not later than six months after approval of the annual report of the employer.
+
+(4) An employer shall transfer an employee’s wages and other remuneration to the bank account indicated by the employee, unless agreed otherwise.
+
+§ 34. Agreement on compensation for training expenses
+
+(1) An employer and employee may agree that the employer shall incur additional expenses for training the employee in comparison with reasonable expenses for training the employee, and the employee shall work for the employer during an agreed period (binding period) for the purposes of compensating for these expenses.
+
+(2) An agreement on compensation for training is valid only if:
+1) it has been made in writing;
+2) it specifies the substance and expenses of the training;
+3) the binding period does not exceed three years;
+4) the binding period is not unreasonably long considering the training expenses.
+
+(3) An employee shall compensate for additional expenses incurred by the employer in proportion to the time remaining until the end of the binding period if the employee cancels the employment contract before the expiry of the binding period, unless the reason for cancellation of the employment contract is a fundamental breach of the employment contract by the employer.
+
+(4) An employee shall compensate for additional expenses incurred by the employer in proportion to the time remaining until the end of the binding period if the employer cancels the employment contract before the expiry of the binding period due to a fundamental breach of the employment contract by the employee.
+
+(5) An agreement on compensation for training expenses concluded with a minor or for compensating expenses related to the performance of the employer’s obligation to train prescribed by law is void.
+
+§ 35. Payment of wages upon failure to provide work
+
+() An employer shall pay average wages to an employee who is capable of working and ready to do work even if the employee does not work because the employer has not provided him or her with work, has not performed an act required for doing work or has otherwise delayed acceptance of work, unless the employee is at fault in failing to be provided with work.
+
+§ 36. Payment of wages upon refusal to work or upon fulfilment of other tasks
+
+() Wages shall also be paid for the period when an employee follows an instruction provided for in subsection 17(4) of this Act to fulfil other tasks, or exercises the right to refuse to perform work specified in clause 19 3) of this Act.
+
+§ 37. Reduction of wages upon failure to provide work
+
+(1) If an employer, due to unforeseen economic circumstances beyond its control, fails to provide an employee with work to the agreed extent, the employer may, for up to three months over a period of 12 months, reduce the wages to a reasonable extent, but not below the minimum wage established by the Government of the Republic, if payment of the agreed wages would be unreasonably burdensome for the employer.
+
+(2) Before reducing wages the employer shall offer the employee other work, if possible.
+
+(3) An employee has the right to refuse to perform work in proportion to reduction of the wages.
+
+(4) Before reducing wages an employer shall inform the trustee / shop steward or, in his or her absence, the employees and consult them pursuant to the procedure provided for in the Employees’ Trustee Act, taking into account the terms provided for in this subsection. The employer shall provide notice of the reduction of wages no less than 14 calendar days in advance. The trustee / shop steward or the employee shall give his or her opinion within seven calendar days as of the receipt of the employer's notice.
+
+(5) An employee has the right to cancel the employment contract on the grounds provided for in subsection (1) of this section, notifying thereof five working days in advance. Upon cancellation of the employment contract, the employee shall be paid compensation to the extent provided for in subsections 100(1) and (2) of this Act.
+
+§ 38. Payment of wages upon impediment to work
+
+() An employer shall pay an employee average wages for a reasonable period when the employee cannot perform work due to a reason arising from the employee, but not caused intentionally or due to severe negligence or if the employee cannot be expected to perform work for another reason not attributable to the employee.
+
+§ 39. Specifications for expiry of claims for refund of wages
+
+() An employer’s claim for refund of wages and other financial claims arising from an employment relationship shall expire within 12 months as of the time when the employee received the wages or an advance payment of wages.
+
+§ 40. Specifications for compensation for expenses and damage of employee
+
+(1) An employee may demand that expenses incurred in the performance of duties be compensated for pursuant to subsections 628(2) to (4) of the Law of Obligations Act. An agreement on compensation for expenses by way of wages is void.
+[
+								RT I
+								2009
+								36
+								234
+							 - pub. 01.07.2009] 
+
+(2) An employee has the right to demand compensation for expenses relating to a business trip. In the case of a business trip abroad, an employee also has the right to demand daily allowance related to the business trip abroad on the conditions and to the extent of the minimum rate established on the basis of subsection (3) of this section, unless the parties have agreed on compensation at a higher rate.
+[
+								RT I
+								2009
+								36
+								234
+							 - pub. 01.07.2009] 
+
+(3) The Government of the Republic shall establish by a regulation the minimum rate and conditions of daily allowance related to a business trip abroad, limiting the payment of the daily allowance based on the remoteness of the destination, the start and end time of the trip, and catering provided during the trip.
+[
+								RT I
+								2009
+								36
+								234
+							 - pub. 01.07.2009] 
+
+(4) An employee has the right to demand compensation for possible expenses relating to a business trip within a reasonable time before the beginning of the business trip. The employee has the right to refuse to go on a business trip if the employer has not made an advance payment within a reasonable time.
+
+(5) Damage caused to an employee in the performance of duties is compensated on the basis of subsection 628(5) of the Law of Obligations Act. It is presumed that the wages paid to the employee do not cover the damage specified in the previous sentence.
+
+§ 41. Information concerning employee
+
+(1) An employee has the right to access the information gathered about him or her and demand that incorrect information be removed or corrected.
+
+(2) An employer shall ensure the processing of personal data of an employee in accordance with the Personal Data Protection Act.
+
+3. division Working and Rest Time
+
+§ 42. Granting time off
+
+() An employer shall grant an employee time off under the conditions and pursuant to the procedure prescribed in this Division. An employee has the right to demand time off under the conditions prescribed in section 38 of this Act. Upon granting time off, the interests of the employer and the employee shall be reasonably taken into account.
+
+§ 43. Working time
+
+(1) It is presumed that an employee works 40 hours over a period of seven days (full-time work), unless the employer and the employee have agreed on a shorter working time (part-time work).
+
+(2) It is presumed that an employee works 8 hours a day.
+
+(3) In the case of calculation of the summarised working time, the agreed working time of the employee per a period of seven days during the calculation period is taken into account.
+
+(4) Unless the employer and the employee have agreed on a shorter working time, full-time work (shortened full-time work) means:
+1) in the case of an employee who is 7–12 years of age – 3 hours a day and 15 hours over a period of seven days;
+2) in the case of an employee who is 13–14 years of age or subject to the obligation to attend school – 4 hours a day and 20 hours over a period of seven days;
+3) in the case of an employee who is 15 years of age and not subject to the obligation to attend school – 6 hours a day and 30 hours over a period of seven days;
+4) in the case of an employee who is 16 years of age and not subject to the obligation to attend school, and an employee who is 17 years of age – 7 hours a day and 35 hours over a period of seven days.
+
+(5) An agreement by which the calculation of the summarised working time is applied with regard to an employee who is a minor by exceeding the limit provided for in subsection (4) of this section is void.
+
+(6) The working time of educational staff shall be established by the Government of the Republic by a regulation.
+
+§ 44. Overtime work
+
+(1) An employer and employee may agree that the employee undertakes to do work over the agreed working time (overtime work). In the case of calculation of the summarised working time, overtime work means work exceeding the agreed working time at the end of the calculation period.
+
+(2) An overtime work agreement with a minor is void.
+
+(3) An overtime work agreement with an employee who comes into contact with hazards in the working environment and whose working time has therefore been shortened pursuant to law is void.
+
+(4) In line with the principle of good faith, an employer may demand that an employee work overtime due to unforeseen circumstances pertaining to the enterprise or activity of the employer, in particular for prevention of damage.
+
+(5) Working overtime provided for in subsection (4) of this section cannot be demanded of a minor, a pregnant woman or an employee who has the right to pregnancy and maternity leave.
+
+(6) An employer shall compensate for overtime work by time off equal to the overtime, unless it has been agreed that overtime is compensated for in money.
+
+(7) Upon compensation for overtime work in money, an employer shall pay an employee 1.5 times the wages.
+
+§ 45. Compensation for night work and work done on public holiday
+
+(1) If the working time falls on night-time (from 22:00 to 6:00), the employer shall pay 1.25 times the wages for the work, unless it has been agreed that the wages include remuneration for working at night-time.
+
+(2) If the working time falls on a public holiday, the employer shall pay 2 times the wages for the work.
+
+(3) An employer and employee may agree on compensation for work done at night-time or on a public holiday by granting additional time off, differently from the provisions of subsections (1) and (2) of this section.
+
+§ 46. Limit on time for performing work
+
+(1) The summarised working time shall not exceed on average 48 hours per a period of seven days over a calculation period of up to four months, unless a different calculation period has been provided by law.
+
+(2) The calculation period specified in subsection (1) of this section may be extended by a collective agreement to up to 12 months in the case of health care professionals, welfare workers, agricultural workers and tourism workers.
+
+(3) An employer and employee may agree on a longer working time than that provided for in subsection (1) of this section if the summarised working time does not exceed on average 52 hours per a period of seven days over a calculation period of four months and the agreement is not unreasonably detrimental to the employee. The employee may cancel the agreement at any time, notifying thereof two weeks in advance.
+
+(4) An employee has the right to refuse to work overtime on the basis of an agreement specified in subsection (3) of this section, and the labour inspector of the seat (place of residence) of the employer has the right to prohibit or limit overtime work if the employer fails to fulfil the conditions specified in subsection (3) of this section or occupational safety and health requirements.
+
+(5) An employer shall keep separate accounts of employees working on the basis of an agreement specified in subsection (3) of this section and submit these to the labour inspector of the seat (place of residence) and the employees’ representative at their request.
+
+§ 47. Organisation of working time
+
+(1) An employee shall perform duties at the employer’s enterprise or facilities at the normal time (organisation of working time), unless agreed otherwise. The organisation of working time includes, in particular, the start and end of the working time and breaks during the working day.
+
+(2) An agreement by which a break of no less than 30 minutes during the working day has not been prescribed for work longer than 6 hours is void. Breaks during the working day are not considered working time, unless due to the characteristics of the work it is impossible to give a break and the employer gives an employee the opportunity to rest and dine during working time.
+[
+								RT I
+								2009
+								36
+								234
+							 - pub. 01.07.2009] 
+
+(3) An agreement by which a break of no less than 30 minutes during the working day has not been prescribed for an employee who is a minor for work longer than 4.5 hours is void. Breaks during the working day are not considered working time.
+
+(4) An employer may unilaterally change the organisation of working time, provided the changes arise from the needs of the employer’s enterprise and are reasonable, considering mutual interests.
+
+§ 48. On-call time
+
+(1) If an employee and employer have agreed that the employee shall be available to the employer for performance of duties outside of working time (on-call time), remuneration which is not less than one-tenth of the agreed wages shall be paid to the employee.
+
+(2) An agreement on the application of on-call time which does not guarantee the employee the possibility of using daily and weekly rest time is void.
+
+(3) The part of the on-call time during which the employee is in subordination to the management and control of the employer is considered working time.
+
+§ 49. Restriction on requiring minor to work
+
+(1) An agreement by which an employee who is a minor undertakes to perform work from 20:00 to 6:00 is void.
+
+(2) Subsection (1) of this section shall not be applied if an employee who is a minor does light work in the field of culture, art, sports or advertising under the supervision of an adult from 20:00 to 24:00.
+
+(3) An agreement by which an employee subject to the obligation to attend school undertakes to perform work immediately before the start of a school day is void.
+
+§ 50. Restriction on night work
+
+(1) An agreement by which an employee who works at least three hours of his or her daily working time or at least a third of his or her annual working time at night-time (night worker) is obligated to work on average more than eight hours over a period of 24 hours over a calculation period of seven days is void.
+
+(2) An agreement by which a night worker whose health is affected by a working environment hazard or the characteristics of his or her work is obligated to work more than eight hours over a period of 24 hours is void.
+
+(3) In the case specified in subsection (1) of this section, the 24-hour period of weekly rest time is excluded from the seven-day calculation period of the average working time of night worker.
+
+(4) Exceptions to the restriction specified in this section may be made by an employment contract or collective agreement in the cases specified in Article 17(3) of Council Directive 2003/88/EC concerning certain aspects of the organisation of working time (OJ L 299, 18.11.2003, pp. 9–19), and provided working does not harm the employee’s health and safety and the working time does not exceed the limit specified in subsection 46(1) of this Act.
+[
+								RT I
+								2009
+								36
+								234
+							 - pub. 01.07.2009] 
+
+§ 51. Daily rest time
+
+(1) An agreement by which an employee is left over a period of 24 hours with less than 11 hours of consecutive rest time is void, unless otherwise provided by law.
+
+(2) The following agreements are void:
+1) an agreement by which an employee who is a minor of 7–12 years of age is left over a period of 24 hours with less than 21 hours of consecutive rest time;
+2) an agreement by which an employee who is a minor of 13–14 years of age or an employee who is subject to the obligation to attend school is left over a period of 24 hours with less than 20 hours of consecutive rest time;
+3) an agreement by which an employee who is a minor of 15 years of age and not subject to the obligation to attend school is left over a period of 24 hours with less than 18 hours of consecutive rest time;
+4) an agreement by which an employee who is a minor of 16 years of age and not subject to the obligation to attend school, and an employee who is 17 years of age is left over a period of 24 hours with less than 17 hours of consecutive rest time.
+
+(3) Exceptions to the restriction specified in subsection (1) of this section may be made by a collective agreement in the cases specified in Article 17(3) of Council Directive 2003/88/EC concerning certain aspects of the organisation of working time (OJ L 299, 18.11.2003, pp. 9–19), and provided working does not harm the employee’s health and safety.
+
+(4) The restriction specified in subsection (1) of this section shall not be applied to health care professionals and welfare workers, provided working does not harm their health and safety.
+
+(5) An employer shall give an employee who works more than 13 hours over a period of 24 hours additional time off, immediately after the end of the working day, equal to the number of hours by which the 13 working hours were exceeded. An agreement by which work exceeding 13 hours is compensated for in money is void.
+
+(6) The rest time specified in subsection (1) of this section may be portioned by employment contract or collective agreement in the cases specified in Articles 17(3) and (4) of Council Directive 2003/88/EC concerning certain aspects of the organisation of working time (OJ L 299, 18.11.2003, pp. 9–19), and provided the duration of one portion of the rest time is at least six consecutive hours and working does not harm the employee’s health and safety.
+[
+								RT I
+								2009
+								36
+								234
+							 - pub. 01.07.2009] 
+
+§ 52. Weekly rest time
+
+(1) An agreement by which an employee is left over a period of seven days with less than 48 hours of consecutive rest time is void, unless otherwise provided by law.
+
+(2) An agreement by which, in the case of calculation of the summarised working time, an employee is left over a period of seven days with less than 36 hours of consecutive rest time is void, unless otherwise provided by law.
+
+(3) It is presumed that the weekly rest time is granted on Saturday and Sunday.
+
+§ 53. Shortening of working time
+
+() An employer shall shorten the working day preceding New Year’s Day, the anniversary of the Republic of Estonia, Victory Day and Christmas Eve by three hours.
+
+4. division Holiday
+
+§ 54. Right to holiday
+
+(1) An employee has the right to a holiday pursuant to the procedure prescribed in this Division.
+
+(2) The holiday specified in sections 60, 63 and 64 of this Act is granted on the employee’s working day.
+
+(3) The annual holiday prescribed in sections 55 to 58 of this Act does not include a national holiday and public holidays.
+
+§ 55. Annual holiday
+
+() It is presumed that an employee’s annual holiday is 28 calendar days, unless the employee and the employer have agreed on a longer annual holiday or unless otherwise provided by law.
+
+§ 56. Annual holiday of minor
+
+() It is presumed that the annual holiday of an employee who is a minor is 35 calendar days (minor’s annual holiday), unless the employee and the employer have agreed on a longer annual holiday or unless otherwise provided by law.
+
+§ 57. Annual holiday of employee receiving pension for incapacity for work
+
+() It is presumed that the annual holiday of an employee receiving pension for incapacity for work or national pension based on incapacity for work is 35 calendar days (annual holiday of a person receiving pension for incapacity for work), unless the employee and the employer have agreed on a longer annual holiday or unless otherwise provided by law.
+
+§ 58. Annual holiday of educational staff and research staff
+
+(1) The annual holiday of educational staff and research staff is up to 56 calendar days (annual holiday of educational staff), unless the employee and the employer have agreed on a longer annual holiday or unless otherwise provided by law.
+
+(2) The Government of the Republic shall establish by a regulation a list of positions of educational staff and research staff where the annual holiday of 56 calendar days is granted, and the duration of holiday by positions.
+
+§ 59. Pregnancy and maternity leave
+
+(1) A woman has the right to pregnancy and maternity leave of 140 calendar days.
+
+(2) The leave specified in subsection (1) of this section becomes collectible at least 70 calendar days before the estimated date of birth determined by a doctor or midwife.
+[
+								RT I
+								2009
+								29
+								176
+							 - pub. 01.04.2010] 
+
+(3) If a woman starts using pregnancy and maternity leave less than 30 days before the estimated date of birth determined by a doctor or midwife, the pregnancy and maternity leave is shortened by the respective period.
+[
+								RT I
+								2009
+								29
+								176
+							 - pub. 01.04.2010] 
+
+(4) There is a right to obtain compensation for pregnancy and maternity leave in accordance with the Health Insurance Act.
+
+§ 60. Paternity leave
+
+() A father has the right to receive total of ten working days of paternity leave during the two months before the estimated date of birth determined by a doctor or midwife and during the two months after the birth of the child. Paternity leave shall be remunerated on the basis of his average wages but no more than three times the average gross monthly salary in Estonia on the basis of data published by the Statistics Estonia concerning the next to last quarter from the quarter when the holiday was used.
+[
+								RT I
+								2009
+								36
+								234
+							 - pub. 01.01.2013] 
+
+§ 61. Adoptive parent leave
+
+() An adoptive parent of a child under 10 years of age has the right to adoptive parent leave of 70 calendar days as of the date of entry into force of the court judgement approving the adoption. There is a right to obtain compensation for such a period in accordance with the Health Insurance Act.
+
+§ 62. Child care leave
+
+(1) A mother or father has the right to child care leave until his or her child reaches the age of three years. Child care leave may be used by one person at a time.
+
+(2) Child care leave may be used in one part or in several parts every year. It is presumed that an employee notifies the employer of taking child care leave or interrupting child care leave 14 calendar days in advance, unless the parties have agreed otherwise.
+
+(3) If a parent has been deprived of parental rights or if his or her child lives in a social welfare institution, the parent does not have the right to child care leave.
+
+(4) An employee has the right to compensation for the period of child care leave in accordance with the Parental Benefits Act, and to a child care allowance in accordance with the State Family Benefits Act.
+
+§ 63. Child leave
+
+(1) Each calendar year a mother or father has the right to receive child leave which shall be remunerated on the basis of the minimum wage established by the Government of the Republic:
+1) for three working days if she or he has one or two children under 14 years of age;
+2) for six working days if she or he has at least three children under 14 years of age or at least one child under three years of age.
+[
+									RT I
+									2009
+									5
+									35
+								 - pub. 01.01.2013] 
+
+(2) In addition to the child leave provided for in subsection (1), a mother or father of a disabled child has the right to child leave of one working day per month until the child reaches the age of 18 years, which is remunerated for on the basis of the average wages.
+
+(3) In the year the child turns three, 14 and 18 year of age, child leave is granted regardless of whether the birth date of the child falls before or after the leave.
+
+(4) If a parent has been deprived of parental rights or if his or her child lives in a social welfare institution, the parent does not have the right to child leave.
+
+(5) A claim for child leave expires after the end of the calendar year in which the claim became collectible.
+
+§ 64. Child leave without pay
+
+(1) A mother and father who is raising a child of up to 14 years of age or a disabled child of up to 18 years of age has the right to child leave without pay of up to ten working days every calendar year.
+[
+								RT I
+								2012-02-10
+								1
+							 - pub. 20.02.2012] 
+
+(2) A claim for child leave without pay expires after the end of the calendar year in which the claim became collectible.
+
+§ 65. Right of guardian and caregiver to child care leave, child leave and child leave without pay
+
+(1) A guardian and a person with whom a foster care agreement has been entered into has the right to the child care leave, child leave and child leave without pay prescribed in this Division.
+
+(2) The actual caregiver of a child has the right to the child care leave prescribed in section 62 of this Act.
+
+§ 66. Compensation for holiday pay from state budget
+
+(1) Holiday pay for the part exceeding the 28 calendar days of annual holiday prescribed in sections 56 and 57 of this Act shall be compensated from the state budget through the budget of the area of government of the Ministry of Social Affairs.
+
+(2) Holiday pay for the holiday prescribed in sections 60 and 63 of this Act shall be compensated from the state budget through the budget of the area of government of the Ministry of Social Affairs.
+
+(3) The procedure for compensating for holiday pay from the state budget shall be established by the Government of the Republic.
+
+§ 67. Study leave
+
+(1) An employee has the right to study leave under the conditions and pursuant to the procedure prescribed in the Adult Education Act.
+
+(2) An employee has the right to holiday without pay in order to take entrance examinations.
+
+§ 68. Granting of annual holiday
+
+(1) Annual holiday is granted for time worked.
+
+(2) In addition to time worked, time of temporary incapacity for work, time of holiday (except for time of child care leave and holiday without pay granted by agreement of the parties), also time when the employee has the right, pursuant to law, to refuse to do work in the case specified in subsection 19(3) of this Act, and other time agreed on between the parties shall be included in the time serving as the basis for the right to grant annual holiday.
+[RT I, 10.02.2012 – entry into force 20.02.2012]
+
+(3) For each calendar year of work an employee has the right to annual holiday in full. If a calendar year includes periods which are not included in the time specified in subsection (2) of this section, annual holiday is granted in proportion to the time serving as the basis for the right to grant holiday.
+
+(4) In the calendar year of commencement of employment, annual holiday is calculated for a period shorter than a calendar year in proportion to the time worked. An employee may demand holiday once he or she has worked for the employer for at least six months.
+
+(5) Annual holiday shall be used within the calendar year. Annual holiday is granted in parts only by agreement of the parties. At least 14 calendar days of holiday shall be used by an employee successively. The employer has the right to refuse to divide annual holiday into parts shorter than seven days. An unused part of holiday shall be transferred to the next calendar year.
+
+(6) The claim for annual holiday expires within one year as of the end of the calendar year for which the holiday is calculated. Expiry is suspended for the period when the employee is on pregnancy and maternity leave, adoptive parent leave and child care leave, as well as when the employee is undertaking military service or alternative service.
+[
+								RT I
+								2009
+								36
+								234
+							 - pub. 01.07.2009] 
+
+§ 69. Holiday schedule
+
+(1) The time of annual holiday is set by the employer, taking into account the requests of employees which can be reasonably combined with the interests of the employer’s enterprise.
+
+(2) An employer draws up a holiday schedule for each calendar year and communicates it to the employee within the first quarter of the calendar year. The annual holiday and unused holiday shall be indicated in the holiday schedule. If other holidays prescribed by law have been indicated in the holiday schedule, they shall be granted according to the schedule.
+
+(3) An employee shall notify the employer of the use of holiday not indicated in the holiday schedule 14 calendar days in advance in a format which can be reproduced in writing.
+
+(4) A holiday schedule may be amended by agreement between an employer and employee.
+
+(5) An employer has the right to interrupt or postpone a holiday due to an unforeseen substantial work organisation-related emergency, in particular for prevention of damage. The employer shall compensate the employee for expenses arising from the interruption or postponement of the holiday. If the holiday was interrupted or postponed, the employer shall be obligated to grant the employee the unused portion of the holiday immediately after the circumstance interrupting or postponing the holiday ceases to exist or, by agreement of the parties, at another time.
+
+(6) An employee has the right to interrupt, postpone or terminate prematurely a holiday due to significant reasons arising from the person of the employee, in particular due to temporary incapacity for work, pregnancy and maternity leave or participation in a strike. The employee has the right to demand the unused part of the holiday immediately after the impediment to using the holiday ceases to exist or, by agreement of the parties, at another time. The employee shall be obligated to notify the employer of an impediment to using the holiday at first opportunity.
+
+(7) The following persons have the right to demand annual holiday at a suitable time:
+1) a woman immediately before and after pregnancy and maternity leave or immediately after child care leave;
+2) a man immediately after child care leave or during the pregnancy and maternity leave of a woman;
+3) a parent raising a child of up to seven years of age;
+4) a parent raising a child of seven to ten years of age – during the child’s school holidays;
+5) a minor subject to the obligation to attend school – during school holidays.
+
+§ 70. Holiday pay
+
+(1) An employee has the right to receive holiday pay calculated pursuant to the procedure provided for in subsection 29(8) of this Act.
+
+(2) Holiday pay shall be paid no later than on the penultimate working day before the start of the holiday, unless the employer and the employee have agreed otherwise. An agreement, on the basis of which holiday pay is paid later than on the pay day following the use of the holiday, is void.
+
+(3) An agreement on compensation for holiday with money or other benefits during the term of validity of employment contract is void.
+
+§ 71. Compensation for unused holiday
+
+() Upon expiry of employment contract, the employer shall be obligated to compensate the employee in money for unused annual holiday which has not expired.
+
+4. chapter LIMITATIONS OF LIABILITY OF EMPLOYEE
+
+§ 72. Liability of employee
+
+() If an employee has breached an obligation arising from the employment contract, the employer can use the legal remedies prescribed in the Law of Obligations Act only if the employee is guilty of the breach. In evaluation of the level of diligence of the employee, the provisions of section 16 of this Act shall be proceeded from.
+
+§ 73. Specifications for reduction of wages
+
+(1) An employer may reduce wages under the conditions provided for in section 112 of the Law of Obligations Act only if the employee disregarded a clear and timely instruction of the employer regarding the work results and if the instruction was reasonable, considering the goal of the performance of the duties prescribed in the employment contract, the probability of achievement of the expected result and the dependence of the performance of the obligation on the obligations of the employer and other employees.
+
+(2) Reduction of wages is void if the employer does not exercise the right of reduction of the wages immediately after acceptance of unsatisfactory work.
+
+(3) The employer shall, upon reducing wages, take into account the provisions concerning making a claim for payment provided for in section 132 of the Code of Enforcement Procedure.
+
+§ 74. Specifications for compensation for damage
+
+(1) If an employee has intentionally breached the employment contract, he or she shall be liable for all damage caused to the employer as a result of the breach.
+
+(2) If an employee has breached the employment contract due to negligence, he or she shall be liable for the damage caused to the employer to the extent which is determined taking into account the employee's duties, level of guilt, instructions given to the employee, working conditions, risk arising from the nature of the work, the length of employment with the employer, behaviour so far, the employee's wages, and also reasonably expected possibilities of the employer for reduction or insurance of damage. Compensation is reduced by the damage caused as a result of a typical risk of damage relating to the activities of the employer.
+
+(3) If an employee does not commence work without good reason or leaves employment without advance notice, the employer has the right to demand compensation for damage upon cancellation of the employment contract on the said ground. It is presumed that the size of damage corresponds to the average monthly wages of the employee. If the claim specified in this subsection is not settled with a set-off, the employer shall submit it within 20 working days as of the failure by the employee to appear at work or the leaving of employment.
+
+(4) An employer’s claim for compensation for damage against an employee for damage caused upon performance of duties expires within 12 months as of the time when the employer learnt or should have learnt of the damage caused and the person obligated to compensate for it, but not later than three years after the damage was caused.
+
+(5) Compensation to the employer for the damage specified in this section may also be claimed by an employer’s creditor, unless the creditor's claims can be satisfied from the employer’s property. In the case of declaration of bankruptcy of the employer, a claim in the name of the employer may be filed only by the trustee in bankruptcy.
+
+(6) The creditor or the trustee in bankruptcy have the right to file the claim specified in subsection (5) of this section also if the employer has waived the claim against the employee or has concluded a compromise contract with the employee or has otherwise limited the claim or the filing thereof by agreement with the employee or has shortened the term of expiry.
+
+(7) Upon compensation for damage, an employer cannot rely on section 138 of the Law of Obligations Act.
+
+§ 75. Agreement on proprietary liability
+
+(1) By an agreement on proprietary liability an employee assumes, regardless of guilt, liability for preservation of the property given to him or her for performance of duties.
+
+(2) An agreement on proprietary liability is valid only if:
+1) it has been made in writing;
+2) it has been delimited reasonably and recognisably for the employee in terms of space, time and objects;
+3) the property entrusted to the employee can be accessed only by the employee or a definite circle of employees;
+4) the upper financial limit of liability has been agreed on;
+5) the employer pays the employee reasonable compensation, considering the upper limit of liability.
+
+§ 76. Liability of employee for damage caused to third parties
+
+(1) If an employee is liable for damage caused to a third party in the course of performance of duties, the employer shall release the employee from the obligation to compensate for damage and to bear the necessary legal expenses, and shall perform these obligations itself.
+
+(2) An employer may demand compensation for the damage specified in subsection (1) from an employee on the basis of section 74 of this Act.
+
+(3) If an employer has, by contract, precluded the obligation to compensate for damage caused in the course of its economic activities against a third party or limited its liability or if its liability is precluded or limited pursuant to law, the preclusion or limitation shall apply to the same extent also to those employees of the employer who have damaged the third party in the course of the employer’s economic activities.
+
+(4) The provisions of subsections (1) to (3) of this section do not preclude or limit an employee’s liability for damage caused to a third party intentionally.
+
+§ 77. Contractual penalty upon refusal to commence employment or leaving of employment without authorisation
+
+(1) An employer and employee may agree in a format which can be reproduced in writing on a contractual penalty for a wrongful breach of the employment contract by the employee in case of refusal to commence employment or leaving of employment, if this is done for the purposes of terminating the employment relationship.
+
+(2) The provisions of this section do not preclude claiming of compensation for additional damage caused by a breach of an obligation on the basis of subsection 74(3) of this Act to the extent not covered by the contractual penalty.
+
+§ 78. Specifications for set-off
+
+(1) Extrajudicially, an employer may set off its claims against an employee's wage claim by the employee's consent given in a format which can be reproduced in writing, unless otherwise provided by law.
+
+(2) Consent given before emergence of the right to a set-off is void, unless the employee has consented to the set-off of the amount exceeding the agreed limit of the costs incurred on behalf of the employer.
+
+(3) Without the consent specified in subsection (1) of this section an employer may withhold from an employee’s wages any advance payment, made to the employee which the employee shall return to the employer and, upon expiry of employment contract, wages for unearned annual holiday.
+[
+							RT I
+							2009
+							36
+							234
+						 - pub. 01.07.2009] 
+
+(4) The employer shall, upon set-off, take into account the provisions concerning making a claim for payment provided for in section 132 of the Code of Enforcement Procedure.
+
+5. chapter EXPIRY AND TRANSFER OF EMPLOYMENT CONTRACT
+
+1. division Bases and Consequences of Expiry of Employment Contract
+
+§ 79. Termination of employment contract by agreement
+
+() Parties may terminate both an employment contract entered into for a specified term and an employment contract entered into for an unspecified term at any time by agreement.
+
+§ 80. Expiry of employment contract upon expiry of term
+
+(1) An employment contract entered into for a specified term expires upon the expiry of the term.
+
+(2) If entry into an employment contract for a specified term was in conflict with the law or a collective agreement, the contract shall be deemed to be entered into for an unspecified term from the start.
+
+(3) If an employee continues to perform work after the expiry of the term of contract, the contract shall be deemed a contract entered into for an unspecified term, unless the employer expressed a different will within five working days as of learning or when he or she should have learnt that the employee was continuing to perform the employment contract.
+
+§ 81. Expiry of employment contract upon death of employee
+
+() An employment contract expires upon the death of the employee.
+
+§ 82. Prohibition on withdrawal from employment contract
+
+() Withdrawal from an employment contract is prohibited.
+
+§ 83. Expiry of employment contract by way of cancellation
+
+() An employer and employee have the right to cancel an employment contract only on the bases provided for in this Act.
+
+§ 84. Enforcement of claims upon expiry of employment contract
+
+(1) By expiry of employment contract, all claims arising from the employment relationship fall due.
+
+(2) The falling due of the remuneration payable on transactions to be performed in full or in part after the expiry of the employment contract may be postponed by a written agreement, but not for more than six months.
+
+(3) In the case of transactions performed in part, falling due may be postponed for no more than one year.
+
+(4) In the case of insurance contracts and transactions the performance of which requires more than half a year, falling due may be postponed for no more than two years.
+
+2. division Cancellation
+
+1. subdivision Manners of Cancellation
+
+§ 85. Ordinary cancellation of employment contract
+
+(1) An employee may ordinarily cancel an employment contract entered into for an unspecified term at any time.
+
+(2) An employee may not ordinarily cancel an employment contract entered into for a specified term, except for an employment contract entered into for the period of substitution of employee.
+
+(3) It is presumed that cancellation is ordinary, unless the employee proves that cancellation is extraordinary.
+
+(4) If an employee does not have a basis for extraordinary cancellation of an employment contract entered into for an unspecified term, the cancellation shall be deemed ordinary with the term for advance notice provided by law.
+
+(5) An employer may not cancel an employment contract ordinarily.
+
+§ 86. Cancellation of employment contract during probationary period
+
+(1) An employer and employee may cancel an employment contract entered into for a specified term and an employment contract entered into for an unspecified term during a probationary period of four months as of the date of commencement of employment by the employee.
+
+(2) Non-application or shortening of probationary period may be agreed on in the employment contract.
+
+(3) An employer and employee may cancel an employment contract entered into for a specified term of up to eight months during a probationary period that may not be longer than half of the contract term.
+
+(4) An employee may not cancel the employment contract on a ground that is in conflict with the goal of the probationary period.
+
+§ 87. Extraordinary cancellation of employment contract
+
+() An employment contract may be cancelled extraordinarily only with good reason as prescribed in this Act, by adhering to the terms for advance notice prescribed in this Act.
+
+§ 88. Extraordinary cancellation of employment contract by employer for reason arising from employee
+
+(1) An employer may extraordinarily cancel an employment contract with good reason arising from the employee as a result of which, upon respecting mutual interests, the continuance of the employment relationship cannot be expected, especially if the employee has:
+1) for a long time been unable to perform his or her duties due to his or her state of health which does not allow for the continuance of the employment relationship (decrease in capacity for work due to state of health). A decrease in capacity for work due to state of health is presumed if the employee's state of health does not allow for the performance of duties over four months;
+2) for a long time been unable to perform his or her duties due to his or her insufficient work skills, non-suitability for the position or inadaptability, which does not allow for the continuance of the employment relationship (decrease in capacity for work);
+3) in spite of a warning, disregarded the employer’s reasonable instructions or breached his or her duties;
+4) in spite of the employer’s warning been at work in a state of intoxication;
+5) committed a theft, fraud or another act bringing about the loss of the employer’s trust in the employee;
+6) brought about a third party’s distrust in the employer;
+7) wrongfully and to a significant extent damaged the employer’s property or caused a threat of such damage;
+8) violated the obligation of maintaining confidentiality or restriction of trade.
+
+(2) Before cancellation of an employment contract, in particular on the basis specified in subsections (1) and (2) of this section, the employer shall offer other work to the employee, where possible. The employer shall offer other work to the employee, including organise, if necessary, the employee's in-service training, adapt the workplace or change the employee’s working conditions if the changes do not cause disproportionately high costs for the employer and the offering of other work may, considering the circumstances, be reasonably expected.
+[
+									RT I
+									2009
+									36
+									234
+								 - pub. 01.07.2009] 
+
+(3) An employer may cancel an employment contract due to a breach of an employee’s obligation or decrease in his or her capacity for work, if the cancellation is preceded by a warning given by the employer. Prior warning is not a prerequisite for cancellation if the employee cannot expect it from the employer due to particular severity of the breach of the obligation or for another reason pursuant to the principle of good faith.
+
+(4) The employer may cancel an employment contract only within a reasonable time after he or she learnt or should have learnt of the circumstance serving as the basis for the cancellation.
+
+§ 89. Extraordinary cancellation of employment contract by employer for economic reasons
+
+(1) An employer may extraordinarily cancel an employment contract if the continuance of the employment relationship on the agreed conditions becomes impossible due to a decrease in the work volume or reorganisation of work or other cessation of work (lay-off).
+
+(2) Lay-off is also extraordinary cancellation of an employment contract:
+1) upon cessation of the activities of employer;
+2) upon declaration of bankruptcy of employer or termination of bankruptcy proceedings, without declaring bankruptcy, by abatement.
+
+(3) Before cancellation of an employment contract due to lay-off, an employer shall, where possible, offer other work to the employee, except in the cases specified in subsection (2) of this section. The employer shall, where necessary, organise the employee's in-service training or change the employee’s working conditions, unless the changes cause disproportionately high costs for the employer.
+
+(4) Upon cancellation of an employment contract, the employer shall take into account the principle of equal treatment.
+
+(5) Upon cancellation of an employment contract due to lay-off, except in the cases specified in subsection (2) of this section, the employees’ representative and an employee who is raising a child under three years of age have the preferential right of keeping their job.
+
+§ 90. Collective cancellation of employment contracts
+
+(1) Collective cancellation of employment contracts means cancellation, within 30 calendar days due to lay-off, of the employment contract of no less than:
+1) 5 employees in an enterprise where the average number of employees is up to 19;
+2) 10 employees in an enterprise where the average number of employees is 20–99;
+3) 10 per cent of the employees in an enterprise where the average number of employees is 100 to 299;
+4) 30 employees in an enterprise where the average number of employees is at least 300.
+
+(2) Upon determining the number of employees, subsection 18(2) of the Employees’ Trustee Act shall be applied.
+
+§ 91. Extraordinary cancellation of employment contract by employee
+
+(1) An employee may cancel an employment contract extraordinarily with good reason, in particular, if taking into account all circumstances and mutual interests, continuance of the contract cannot be reasonably demanded.
+
+(2) An employee may cancel an employment contract extraordinarily due to a fundamental breach of the employer's obligation, in particular if:
+1) the employer has degraded the employee or threatened to do so or allowed the employee's colleagues or third parties to do so;
+2) the employer has considerably delayed with payment of wages;
+3) continuance of work is related to a real threat to the employee's life, health, morals or good name.
+
+(3) An employee may cancel an employment contract extraordinarily due to a reason arising from the employee, in particular if the employee's state of health or family duties do not allow him or her to perform the agreed work and the employer does not provide him or her with suitable work.
+
+(4) An employee may cancel an employment contract only within a reasonable time after he or she learnt or should have learnt of the circumstance serving as the basis for the cancellation.
+
+§ 92. Restrictions on cancellation
+
+(1) An employer may not cancel an employment contract on the ground that:
+1) the employee is pregnant or has the right to pregnancy and maternity leave;
+2) the employee performs important family obligations;
+3) the employee is not able, in a short term, to perform duties due to his or her state of health;
+4) the employee represents other employees on the basis provided by law;
+5) the full-time employee does not wish to continue working part-time or the part-time employee does not wish to continue working full-time;
+6) the employee is in military service, alternative service or reserve service.
+[
+										RT I
+										2012-07-10
+										2
+									 - pub. 01.04.2013] 
+
+(2) If an employer cancels an employment contract with an employee who is pregnant or raising a child under three years of age, it shall be deemed that the employment contract has been cancelled on the ground specified in clause (1)1) or 2) of this section, unless the employer proves that it cancelled the employment contract on a basis permitted in this Act.
+
+(3) If an employer cancels an employment contract with the employees’ representative during his or her term of office or within a year as of the expiry of his or her term of office, it shall be deemed that the employment contract has been cancelled on the ground specified in clause (1)4) of this section, unless the employer proves that it cancelled the employment contract on a basis permitted in this Act.
+
+§ 93. Specifications for cancellation of employment contract with a pregnant woman or person raising a child being below the age of three years
+
+(1) An employer may not cancel an employment contract with a pregnant woman or a woman who has the right to pregnancy and maternity leave, or a person who is on child care leave or adoptive parent leave due to lay-off, except upon cessation of the activities of the employer or declaration of the employer’s bankruptcy if the activities of the employer cease or upon termination of bankruptcy proceedings, without declaring bankruptcy, by abatement.
+[
+									RT I
+									2009
+									36
+									234
+								 - pub. 01.07.2009] 
+
+(2) An employer may not cancel an employment contract with a pregnant woman or a woman who has the right to pregnancy and maternity leave due to a decrease in the employee’s capacity for work.
+
+(3) The provisions of subsections (1) and (2) of this section shall be applied only if the employee has notified the employer of her pregnancy or of the right to pregnancy and maternity leave before receipt of a declaration of cancellation or within 14 calendar days thereafter. At the request of the employer the employee shall submit a certificate confirming pregnancy issued by a doctor or midwife.
+[
+									RT I
+									2009
+									29
+									176
+								 - pub. 01.04.2010] 
+
+§ 94. Specifications for cancellation of employment contract with employees’ representative
+
+(1) Before cancellation of the employment contract with the employees’ representative the employer shall seek the opinion of the employees who elected the person to represent them or the trade union about the cancellation of the employment contract.
+
+(2) The employees who elected the person to represent them or the trade union shall give their opinion within ten working days as of being asked for it. The employer shall take the opinion of the employees into account to a reasonable extent. The employer shall justify disregard for the opinion of the employees.
+
+2. subdivision Procedure for Cancellation
+
+§ 95. Declaration of cancellation
+
+(1) An employment contract may be cancelled by a declaration of cancellation made in a format which can be reproduced in writing. Declaration of cancellation made in breach of the formal requirement or a contingent declaration of cancellation is void.
+
+(2) An employer shall justify cancellation. An employee shall justify extraordinary cancellation. Cancellation shall be justified in a format which can be reproduced in writing.
+
+(3) Breach of the obligation specified in subsection (2) of this section does not affect the validity of the cancellation, but the party in breach of the obligation shall compensate the other party for the damage caused thereby.
+
+§ 96. Advance notice of cancellation due to failure to achieve goal of probationary period
+
+() An employment contract may be cancelled during a probationary period by giving no less than 15 calendar days’ advance notice thereof.
+
+§ 97. Terms for advance notice of cancellation by employer
+
+(1) An employer may extraordinarily cancel an employment contract by adhering to the terms for advance notice provided for in subsection (2) of this section.
+
+(2) An employer shall give an employee advance notice of extraordinary cancellation if the employee’s employment relationship with the employer has lasted:
+1) less than one year of employment – no less than 15 calendar days;
+2) one to five years of employment – no less than 30 calendar days;
+3) five to ten years of employment – no less than 60 calendar days;
+4) ten and more years of employment – no less than 90 calendar days.
+
+(3) On the basis specified in subsection 88(1) of this Act, an employer may cancel an employment contract without adhering to the term for advance notice if, considering all circumstances and mutual interests, it cannot be reasonably demanded that the performance of the contract be continued until the expiry of the agreed term or term for advance notice.
+
+(4) Terms for advance notice different from those provided for in subsection (2) of this section may be prescribed by a collective agreement.
+
+§ 98. Terms for advance notice of cancellation by employee
+
+(1) An employee shall notify the employer of ordinary cancellation no less than 30 calendar days in advance.
+
+(3) An employee is not obligated to give to the employer advance notice of extraordinary cancellation if, considering all circumstances and mutual interests, it cannot be reasonably demanded that the performance of the contract be continued until the expiry of the agreed term or term for advance notice.
+
+§ 99. Obligation to grant time off
+
+() If an employer cancels an employment contract extraordinarily, the employer shall grant the employee within the period of advance notice time off to a reasonable extent to find new employment.
+
+§ 100. Compensation for cancellation
+
+(1) Upon cancellation of an employment contract due to lay-off, an employer shall pay an employee compensation to the extent of one month’s average wages of the employee.
+
+(2) Upon cancellation of an employment contract due to lay-off, an employee has the right to receive a benefit upon lay-offs under the conditions and pursuant to the procedure prescribed in the Unemployment Insurance Act.
+
+(3) Upon cancellation of an employment contract entered into for a specified term for economic reasons, except for reasons specified in clause 89(2)2) of this Act, an employer shall pay an employee compensation to the extent that corresponds to the wages that the employee would have been entitled to until the expiry of the contract term. No compensation shall be paid if the employment contract is cancelled due to force majeure.
+
+(4) If an employee cancels the employment contract extraordinarily on the ground that the employer is in fundamental breach of the contract, the employer shall pay the employee compensation to the extent of three months' average wages of the employee. A court or a labour dispute committee may change the amount of the compensation, considering the circumstances of the cancellation of the employment contract and the interests of both parties.
+
+(5) If an employer or employee gives advance notice of cancellation later than provided by law or a collective agreement, the employee or the employer has the right to receive compensation to the extent to which he or she would have been entitled to upon adhering to the term for advance notice.
+
+§ 101. Information and consultation of employees upon collective cancellation of employment contracts
+
+(1) Before an employer decides on collective cancellation he or she shall consult in good time the trustee / shop steward or, in his or her absence, employees with the goal of reaching an agreement on prevention of the planned cancellations or reduction of the number thereof and mitigation of the consequences of the cancellations, including contribution to the seeking of employment by or re-training of the employees to be laid off.
+
+(2) For the trustee / shop steward to be able to make proposals in consultations, the employer shall in good time provide the trustee / shop steward or, in his or her absence, employees with all necessary information about the planned collective cancellation. The employer shall submit, in a format which can be reproduced in writing, at least the following information:
+1) the reasons for the collective cancellation;
+2) the number and official titles of the employees of the employer;
+3) the number and official titles of those employees and the selection criteria determining the persons whose employment contracts are to be cancelled;
+4) the period of time during which the employment contracts are to be cancelled;
+5) the method of calculation of the compensation to be paid to the employees in addition to the benefits prescribed by law or the collective agreement.
+
+(3) The employer shall send a transcript of the information specified in subsection (2) of this section to the Estonian Unemployment Insurance Fund concurrently with the submission of the information to the trustee / shop steward or, in his or her absence, the employees.
+[
+									RT I
+									2009
+									11
+									67
+								 - pub. 01.07.2009] 
+
+(4) Upon consultation, the trustee / shop steward or, in his or her absence, the employees have the right to meet with the representatives of the employer and make proposals pursuant to the procedure and within the term prescribed in subsection 113(3) of this Act.
+
+§ 102. Notification of Estonian Unemployment Insurance Fund of collective cancellation
+
+[
+								RT I
+								2009
+								11
+								67
+							 - pub. 01.07.2009] 
+
+(1) After consultations an employer shall submit the information specified in subsection 101(2) of this Act and the information about the consultations to the Estonian Unemployment Insurance Fund in a format which can be reproduced in writing.
+
+(2) The employer shall send a transcript of the information specified in subsection (1) of this section to the trustee / shop steward or, in his or her absence, the employees concurrently with the submission of the information to the Estonian Unemployment Insurance Fund.
+
+(3) The trustee / shop steward may submit to the Estonian Unemployment Insurance Fund his or her opinion on the collective cancellation within seven calendar days as of sending the transcript of the information specified in subsection (2) of this section.
+[
+									RT I
+									2009
+									11
+									67
+								 - pub. 01.07.2009] 
+
+§ 103. Term for collective cancellation
+
+(1) An employer may cancel employment contracts after consultation and notification of the Estonian Unemployment Insurance Fund pursuant to the provisions of subsection 102(1) of this Act.
+
+(2) Collective cancellation of employment contracts enters into force upon the expiry of the term for advance notice of cancellation, but not sooner than 30 calendar days after the time when the Estonian Unemployment Insurance Fund received the information specified in subsection 102(1) of this Act. During the term specified in this section the Estonian Unemployment Insurance Fund shall seek solutions to the employment problems relating to the collective cancellation.
+
+(3) The Estonian Unemployment Insurance Fund has the right to shorten the term specified in subsection (2) of this section if the employment problems can be resolved within a shorter term.
+
+(4) The Estonian Unemployment Insurance Fund may extend the term specified in subsection (2) of this section to up to 60 calendar days if it finds that it cannot resolve the employment problems relating to the collective cancellation within 30 calendar days.
+
+(5) The Estonian Unemployment Insurance Fund shall communicate a decision to change the term specified in subsection (2) of this section to the employer in a format which can be reproduced in writing within 14 calendar days as of the receipt of the information specified in subsection 102(1) of this Act.
+
+(6) The term of entry into force of the cancellation provided for in this section shall not be applied if employment contracts are cancelled collectively due to termination of the activities of the company on the basis of a court judgement which has entered into force.
+[
+									RT I
+									2009
+									11
+									67
+								 - pub. 01.07.2009] 
+
+3. subdivision Voidness and Contestation of Cancellation
+
+§ 104. Voidness of cancellation
+
+(1) Cancellation of an employment contract without a legal basis or in conflict with the law is void.
+
+(2) Cancellation of the employment contract of a pregnant employee or an employee who has the right to pregnancy and maternity leave is void even if the woman has failed to adhere to the term specified in subsection 93(3) of this Act due to reasons beyond her control.
+[
+									RT I
+									2009
+									36
+									234
+								 - pub. 01.07.2009] 
+
+§ 105. Relying on voidness of cancellation
+
+(1) An action with the court or an application with a labour dispute committee for establishment of voidness of cancellation shall be filed within 30 calendar days as of the receipt of the declaration of cancellation.
+
+(2) If an action or application is not filed within the term or if the term for filing the action or application is not restored, the cancellation is valid from the start and the contract has expired on the date specified in the declaration of cancellation.
+[
+									RT I
+									2009
+									36
+									234
+								 - pub. 01.07.2009] 
+
+§ 106. Contestation of cancellation by employer due to conflict with principle of good faith
+
+() Within 30 calendar days as of the receipt of a declaration of cancellation an employee may file an action with the court or an application with a labour dispute committee to challenge the cancellation in force due to a conflict with the principle of good faith, unless the employer cancelled the contract due to a breach of the employment contract by the employee.
+
+§ 107. Termination of employment contract in court or labour dispute committee
+
+(1) If a court or labour dispute committee establishes that cancellation of an employment contract is void due to the absence of a legal basis or the non-conformity with the law or nullified due to a conflict with the principle of good faith, it shall be deemed that the contract has not expired by cancellation.
+
+(2) In the case provided for in subsection (1) of this section, the court or labour dispute committee shall, at the request of the employer or the employee, terminate the employment contract as of the time when it would have expired in the case of validity of the cancellation.
+
+(3) The court or labour dispute committee shall not satisfy the employer’s request provided for in subsection (2) of this section if, at the time of the cancellation, the employee is pregnant or has the right to pregnancy or maternity leave or has been elected as the employees' representative, unless it is reasonably not possible considering mutual interests.
+
+§ 108. Compensation for damage in case of continuance of employment relationship
+
+() Upon unlawful cancellation of an employment contract, if the employment relationship continues, an employee has the right to demand compensation for damage, in particular wages not received. The part obtained by way of different use of the employee’s labour force may be deducted from the compensation.
+
+§ 109. Compensation in case of termination of employment relationship in court or labour dispute committee
+
+(1) If the court or labour dispute committee terminates an employment contract in the case specified in subsection 107(2) of this Act, an employer shall pay an employee compensation in the amount of three months’ average wages of the employee. The court or labour dispute committee may change the amount of the compensation, considering the circumstances of the cancellation of the employment contract and the interests of both parties.
+
+(2) If the court or labour dispute committee terminates an employment contract in the case specified in subsection 107(2) of this Act with an employee who is pregnant, who has the right to pregnancy and maternity leave or who has been elected as the employees' representative, the employer shall pay the employee compensation in the amount of six months’ average wages of the employee. The court or labour dispute committee may change the amount of the compensation, considering the circumstances of the cancellation of the employment contract and the interests of both parties.
+
+(3) If compensation specified in subsections (1) and (2) of this section has been awarded to an employee, the employee shall not have the right to demand the wages which the employee would have been entitled to upon continuance of the employment relationship until the entry into force of the decision of the labour dispute resolution body.
+
+(4) In case of unlawful cancellation of an employment contract by an employee, the employer has the right to claim reasonable compensation from the employee.
+
+§ 110. Specifications for expiry of claims of employee
+
+() If an employee filed an action or an application for establishment of voidness of cancellation of an employment contract in due course, the employee's claims which fall due during the dispute and depend on the result of the dispute shall not expire before three months have passed from entry into force of the decision made in the dispute.
+
+3. division Transfer of Employment Contract
+
+§ 111. Validity of employment contract in case of death of employer
+
+(1) In case of the death of an employer who is a natural person, an employment contract shall transfer to the employer’s successors.
+
+(2) In the case specified in subsection (1) of this section an employee may cancel an employment contract entered into for a specified term and an employment contract entered into for an unspecified term within two weeks as of the time when the employee learnt or should have learnt of the transfer of the employment contract, notifying thereof 30 calendar days in advance. Successor of an employer may cancel an employment contract entered into for a specified term and an employment contract entered into for an unspecified term within two weeks as of the time when the successor learnt or should have learnt of the transfer of the employment contract, adhering to the term for advance notice specified in subsection 97(2) of this Act. This does not restrict cancellation of the employment contract on other grounds.
+
+(3) An employment contract expires upon the death of an employer who is a natural person if the employment contract has been entered into significantly considering the person of the employer.
+
+§ 112. Validity of employment contract in case of transfer of enterprise
+
+(1) Employment contracts shall transfer to the transferee of an enterprise unamended pursuant to the Law of Obligations Act if the enterprise continues the same or similar economic activities.
+
+(2) The restrictions provided for in section 181 of the Law of Obligations Act shall not be applied to transfer of employment contracts.
+
+(3) A transferor and transferee of an enterprise are prohibited from cancelling an employment contract due to the transfer of the enterprise.
+
+(4) Subsections (1) and (3) of this section shall not be applied to the declaration of bankruptcy of an employer.
+
+§ 113. Information and consultation upon transfer of enterprise
+
+(1) The transferor and transferee of an enterprise shall submit, in good time but not later than one month before the transfer of the enterprise, to the trustee / shop steward or, in his or her absence, the employees a notice in a format which can be reproduced in writing, containing at least the following information:
+1) the planned date of transfer of the enterprise;
+2) the reasons for the transfer of the enterprise;
+3) the legal, economic and social consequences of the transfer of the enterprise for the employees;
+4) the measures planned with regard to the employees.
+
+(2) If the transferor or the transferee of an enterprise intends, due to the transfer of the enterprise, to make changes affecting the situation of the employees, he or she shall consult the trustee / shop steward or, in his or her absence, the employees with the goal of reaching an agreement on the measures planned.
+
+(3) Upon consultation, the trustee / shop steward has or, in his or her absence, the employees have the right to meet with the representatives of the transferor and transferee of the enterprise, including members of the directing body, and make proposals, in a format which can be reproduced in writing, relating to the measures planned with regard to the employees no later than within 15 days as of the submission of the notice specified in subsection (1) of this section, unless a longer term is agreed on. The transferor and the transferee of the enterprise are obligated to justify disregard for the proposals.
+
+6. chapter RESOLUTION OF DISPUTES AND STATE SUPERVISION
+
+§ 114. Resolution of disputes
+
+() Disputes arising from an employment contract shall be resolved under the conditions and pursuant to the procedure provided for in this Act and the Individual Labour Disputes Resolution Act.
+
+§ 115. State supervision
+
+() State supervision of the fulfilment of the requirements provided for in subsections 5(1) and (3), section 7, subsections 8(1) to (3) and (6) and (7), clauses 28(2)9) and 10), subsections 29(3) and (6), subsection 33(1), section 43, subsections 44(2) and (3) and (5) to (7), section 45, subsections 46(1) to (3) and (5), subsections 47(2) and (3), subsections 48(1) and (2), sections 49 to 53, subsections 101(1) to (3), subsections 102(1) and (2), and subsections 113(1) and (2) of this Act shall be exercised by the Labour Inspectorate under the conditions and pursuant to the procedure provided for in the Occupational Health and Safety Act.
+[
+							RT I
+							2012-02-10
+							1
+						 - pub. 20.02.2012] 
+
+§ 116. Challenge proceedings concerning precept
+
+() Challenge proceedings concerning a precept are subject to the provisions of the Occupational Health and Safety Act.
+
+7. chapter LIABILITY
+
+§ 117. Failure to submit information by employer
+
+(1) Failure by an employer to submit information pursuant to subsection 5(1) of this Act
+is punishable by a fine of up to 100 fine units.
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 118. Entry into employment contract with minor for performance of work not advisable for minor or allowing minor to commence such work
+
+(1) Entry into an employment contract with a minor or allowing a minor to commence work by an employer in violation of the requirements provided for in section 7 of this Act
+is punishable by a fine of up to 100 fine units.
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 119. Entry into employment contract with minor without consent of legal representative and labour inspector
+
+(1) Entry into an employment contract with a minor by an employer without the consent of a legal representative and a labour inspector
+is punishable by a fine of up to 100 fine units.
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 120. Failure to perform notification obligation by employer
+
+(1) Failure by an employer to perform the notification obligation pursuant to clauses 28(2)9) and 10) of this Act
+is punishable by a fine of up to 100 fine units.
+[
+							RT I
+							2012-02-10
+							1
+						 - pub. 20.02.2012] 
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 121. Application of summarised working time with regard to minor by exceeding working time limit
+
+(1) Application by an employer of the summarised working time with regard to a minor by exceeding the working time limit
+is punishable by a fine of up to 100 fine units.
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 122. Failure to adhere to limit of working time
+
+(1) Failure by an employer to adhere to the limit of the working time pursuant to subsections 46(1) to (3) of this Act
+is punishable by a fine of up to 100 fine units.
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 123. Failure to keep account of employees working overtime individually
+
+(1) Failure by an employer to keep account of employees working overtime individually pursuant to subsection 46(5) of this Act
+is punishable by a fine of up to 100 fine units.
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 124. Failure to adhere to restriction on requiring minor to work
+
+(1) Failure by an employer to adhere to the restriction on requiring a minor to work pursuant to section 49 of this Act
+is punishable by a fine of up to 100 fine units.
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 125. Violation of restriction on night work
+
+(1) Violation by an employer of the restriction on night work
+is punishable by a fine of up to 100 fine units.
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 126. Failure to grant daily rest time
+
+(1) Failure by an employer to grant daily rest time
+is punishable by a fine of up to 100 fine units.
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 127. Failure to grant weekly rest time
+
+(1) Failure by an employer to grant weekly rest time
+is punishable by a fine of up to 100 fine units.
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 128. Failure to perform obligation to inform and consult upon collective cancellation of employment contracts
+
+(1) Failure by an employer to perform the obligation to inform and consult upon collective cancellation of employment contracts
+is punishable by a fine of up to 100 fine units.
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 129. Failure to perform obligation to inform and consult upon transfer of enterprise
+
+(1) Failure by an employer to perform the obligation to inform and consult upon transfer of enterprise
+is punishable by a fine of up to 100 fine units.
+
+(2) The same act, if committed by a legal person,
+is punishable by a fine of up to 1,300 euros.
+[
+							RT I
+							2010
+							22
+							108
+						 - pub. 01.01.2011] 
+
+§ 130. Proceedings
+
+(1) The misdemeanours provided for in sections 117–129 of this Act are subject to the provisions of the General Part of the Penal Code and the Code of Misdemeanour Procedure.
+
+(2) The body conducting extra-judicial proceedings pertaining to the misdemeanours provided for in sections 117–129 of this Act is the Labour Inspectorate.
+
+8. chapter IMPLEMENTING PROVISIONS
+
+§ 131. Act applicable to employment contract
+
+(1) As of 1 July 2009 the provisions of the Employment Contracts Act shall be applied to an employment contract entered into before 1 July 2009.
+
+(2) The provisions of subsection (1) of this section shall not preclude or restrict the rights and obligations of the contracting parties which have arisen before 1 July 2009. The former Act shall be applied to the facts or acts relating to an employment contract which have emerged or which have been performed before 1 July 2009.
+
+(3) If, after the entry into force of the Employment Contracts Act, a condition of an employment contract is in conflict with a provision of the Act which cannot be deviated from by agreement of the contracting parties, the provisions of the Act shall be applied instead of the condition of the contract.
+
+§ 132. Specifications for cancellation of employment contract entered into for specified term
+
+() The provisions of the Employment Contracts Act regarding cancellation of an employment contract entered into for an unspecified term shall be applied to premature cancellation, after 1 July 2009, of employment contract entered into for a specified term before 1 July 2009.
+[
+							RT I
+							2009
+							36
+							234
+						 - pub. 01.07.2009] 
+
+§ 133. Handing over employment record book
+
+() Employment record book held by employer at the time of entry into force of this Act shall be handed over to employee and public servant upon the expiry of the employment contract and service relationship.
+
+§ 134. Entry of data of employment record book in pension insurance register
+
+(1) An employee and a public servant whose employment record book contains entries which have a legal meaning upon the calculation of the pension qualifying period may submit the employment record book to the local department of the Social Insurance Board for registration of the data of the employment record book.
+
+(2) An employer may submit an employment record book that an employee or a public servant has not taken out after the passing of one year as of the expiry of the employment or service relationship to the department of the Social Insurance Board of the location or place of residence for registration of the data of the employment record book.
+
+(3) The Government of the Republic shall establish a procedure for collection of the data of pension qualifying period and for entry in the pension insurance register before granting pension.
+
+§ 135. [Repealed – RT I 2009, 36, 234 – entry into force 01.01.2013]
+
+§ 136. Preservation of personnel files
+
+() An employer is not obligated to preserve personnel files compiled by the time of entry into force of this Act.
+
+§ 137. Expiry of claim for holiday worked for before entry into force of Act
+
+() Claim for annual holiday and additional holiday worked for before the entry into force of this Act shall expire within four years as of the entry into force of the Act.
+[
+							RT I
+							2009
+							26
+							159
+						 - pub. 01.07.2009] 
+
+§ 137^1. Compensation for unused holiday worked for before entry into force of Act
+
+() An employer shall compensate for unused annual and additional holiday worked for before the entry into force of this Act upon expiry of the employment contract, but not more than for the unused holiday of four years.
+[
+							RT I
+							2009
+							36
+							234
+						 - pub. 01.07.2009] 
+
+§ 138. Transfer from accounting working years to accounting calendar years upon granting holiday
+
+(1) Unused holiday earned or unearned holiday used before 1 January 2010 shall be set off against a holiday claim of the calendar year 2010 during the year 2010.
+[
+							RT I
+							2009
+							36
+							234
+						 - pub. 01.07.2009] 
+
+(2) Calendar months shall be considered the basis for the right of claim for holiday if the employee's employment relationship per calendar month has lasted for at least 15 calendar days.
+
+(3) The results of set-off shall be rounded up to a whole number.
+
+§ 139. Specifications for compensation for cancellation
+
+(1) If before 1 January 2015 an employer cancels an employment contract, due to lay-off, with an employee whose employment relationship has by the time of entry into force of this Act lasted for at least 20 years, the Estonian Unemployment Insurance Fund shall pay the employee, in addition to the compensation specified in subsection 100(1) of this Act, a benefit upon lay-offs to the extent of three months’ average wages of the employee under the conditions and pursuant to the procedure provided for in the Unemployment Insurance Act.
+
+(2) The insured person specified in subsection (1) of this section whose last employment relationship was cancelled due to lay-off shall have the right to an unemployment insurance benefit after 90 calendar days have passed as of the termination of the employment relationship under the conditions and pursuant to the procedure provided for in the Unemployment Insurance Act.
+
+(3) Upon granting an unemployment insurance benefit in the cases specified in subsection (1) of this section, the benefit shall be calculated as of the expiry of the term specified in subsection (2), unless the application for receipt of the unemployment insurance benefit is submitted after the expiry of the aforementioned term. If the application for receipt of the unemployment insurance benefit is submitted after the expiry of the term, the benefit shall be calculated pursuant to subsection 11(5) of the Unemployment Insurance Act.
+
+§ 140.  –  § 189. [Omitted from this text]
+
+
+
+§ 190. Entry into force of Act
+
+(1) This Act shall enter into force on 1 July 2009.
+
+(2) Section 134 of this Act shall enter into force on 1 January 2011.
+
+(3) The second sentence of section 60, subsection 63(1), and clause 8) of section 177 of this Act shall enter into force on 1 January 2013.
+
+(4) [Repealed – RT I, 25.05.2012, 24 – entry into force 04.06.2012]
+
+(5) Section 135 of this Act shall be repealed as of 1 January 2013.
+[
+							RT I
+							2009
+							36
+							234
+						 - pub. 01.07.2009] 

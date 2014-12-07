@@ -1,0 +1,2613 @@
+Issuer: Riigikogu
+Type: seadus
+In force from: 01.08.2014
+In force until: In force
+Publication notation: RT V, 10.07.2014, 7
+
+Law of Property Act1
+
+Passed 09.06.1993
+RT I 1993, 39, 590
+Entry into force 01.12.1993
+
+Amended by the following acts
+Passed - Published - Entry into force
+15.02.1995 - RT I 1995, 26, 355 - 18.03.1995
+14.06.1995 - RT I 1995, 57, 976 - 12.07.1995
+05.06.1996 - RT I 1996, 45, 848 - 01.01.1997
+26.06.1996 - RT I 1996, 51, 967 - 29.07.1996
+11.06.1997 - RT I 1997, 52, 833 - 01.01.1998
+12.01.1998 - RT I 1998, 12, 152 - 16.02.1998
+11.03.1998 - RT I 1998, 30, 409 - 01.07.1998
+17.06.1998 - RT I 1998, 59, 941 - 10.07.1998
+17.02.1999 - RT I 1999, 26, 377 - 23.03.1999
+17.02.1999 - RT I 1999, 27, 380 - 01.04.1999
+consolidated text on paper RT - RT I 1999, 44, 509 - 
+13.03.2001 - RT I 2001, 34, 185 - 10.04.2001
+14.11.2001 - RT I 2001, 93, 565 - 01.02.2002
+15.05.2002 - RT I 2002, 47, 297 - 01.01.2003
+05.06.2002 - RT I 2002, 53, 336 - 01.07.2002
+13.11.2002 - RT I 2002, 99, 579 - 01.01.2003
+15.01.2003 - RT I 2003, 13, 64 - 01.07.2003
+22.01.2003 - RT I 2003, 17, 95 - 01.01.2004
+19.11.2003 - RT I 2003, 78, 523 - 27.12.2003
+10.03.2004 - RT I 2004, 20, 141 - 12.04.2004
+22.04.2004 - RT I 2004, 37, 255 - 01.05.2004
+15.06.2005 - RT I 2005, 39, 308 - 01.01.2006
+19.10.2005 - RT I 2005, 59, 464 - 15.11.2005
+21.02.2007 - RT I 2007, 24, 128 - 26.03.2007
+10.12.2008 - RT I 2008, 59, 330 - 01.01.2009
+21.05.2009 - RT I 2009, 30, 178 - 01.10.2009
+15.06.2009 - RT I 2009, 37, 251 - 10.07.2009
+09.12.2009 - RT I 2009, 68, 463 - 01.01.2010
+27.01.2010 - RT I 2010, 8, 37 - 27.02.2010
+22.04.2010 - RT I 2010, 22, 108 - 01.01.2011, enters into force on the date which has been determined in the Decision of the Council of the European Union regarding the abrogation of the derogation established in respect of the Republic of Estonia on the basis provided for in Article 140 (2) of the Treaty on the Functioning of the European Union, Council Decision 2010/416/EU of 13 July 2010 (OJ L 196, 28.07.2010, p. 24-26).
+12.05.2010 - RT I 2010, 26, 128 - 14.06.2010
+17.06.2010 - RT I 2010, 38, 231 - 01.07.2010
+17.11.2010 - RT I, 06.12.2010, 1 - 05.04.2011
+23.02.2011 - RT I, 21.03.2011, 4 - 01.06.2011
+09.06.2011 - RT I, 29.06.2011, 1 - 30.06.2011
+17.04.2012 - RT I, 23.04.2012, 1 - 17.04.2012 - Judgment of Constitutional Review Chamber of Supreme Court of 17.04.2012 declares to be in conflict with the Constitution and repeals as of entry into force of this judgement subsections 15.4 (2)–(4) of the Law of Property Act Implementation Act and the part of the first sentence of subsection 158² (1) of the Law of Property Act "in the amount established in § 15.4 of the Law of Property Act Implementation Act"
+19.02.2014 - RT I, 13.03.2014, 3 - 01.01.2018, partially 23.03.2014 and 01.01.2016
+20.06.2014 - RT I, 08.07.2014, 3 - 01.08.2014
+19.06.2014 - RT I, 29.06.2014, 109 - 01.07.2014, the titles of ministers substituted on the basis of subsection 107³ (4) of the Government of the Republic Act in the wording in force as of 1 July 2014.
+
+1. part  GENERAL 
+
+1. chapter  GENERAL PROVISIONS 
+
+§ 1. Purpose of Act
+
+() The Law of Property Act provides for real rights, their content, creation and extinguishment and is the basis for other laws regulating real rights.
+
+§ 2.  –  § 4. [Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002]
+
+
+
+§ 5. Real rights
+
+(1) Real rights are ownership (right of ownership) and restricted real rights: servitudes, real encumbrances, right of superficies, right of pre-emption and right of security.
+
+(2) The law may provide for other real rights in addition to those specified in subsection (1) of this section.
+
+§ 6. Owner
+
+(1) [Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002]
+
+(2) All owners have equal rights unless otherwise provided by law. The property of a legal person or a legal person shall not belong to other persons.
+
+(3) [Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002]
+
+2. chapter  THINGS 
+
+1. division  DEFINITION AND CLASSIFICATION 
+
+§ 7.  –  § 31. [Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002]
+
+
+
+2. part  POSSESSION AND LAND REGISTER 
+
+3. chapter  POSSESSION 
+
+1. division  GENERAL PROVISIONS 
+
+§ 32. Definition of possession
+
+() Possession is actual control over a thing.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 33. Possessor
+
+(1) A possessor is a person who has actual control over a thing.
+
+(2) A person who possesses a thing on the basis of a commercial lease, residential lease, deposit, pledge or other relationship which grants the person the right to possess the thing of another person temporarily is a direct possessor, while the other person is an indirect possessor.
+
+(3) A person who exercises actual control over a thing according to the orders of another person in the housekeeping or enterprise of the other person is not a possessor.
+
+§ 34. Legal and illegal possession
+
+(1) Possession is legal or illegal depending on whether or not it is founded on a legal basis.
+
+(2) Possession shall be deemed legal until the contrary is proved.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 35. Possession in good faith and bad faith
+
+(1) Possession is in good faith if a possessor does not or need not know that the possession by the possessor lacks a legal basis or that another person has a greater right to possess the thing.
+
+(2) Possession is in bad faith if a possessor knows or must know that the possession by the possessor lacks a legal basis or that another person has a greater right to possess the thing.
+
+(3) Possession shall be deemed in good faith until the contrary is proved.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+2. division  ACQUISITION AND TERMINATION OF POSSESSION 
+
+§ 36. Acquisition of possession
+
+(1) Possession is acquired by gaining actual control over a thing or over the means which enable actual control over the thing.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) Agreement between the current possessor and the acquirer is sufficient for the acquisition of possession if the acquirer is able to exercise actual control over the thing.
+
+(3) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 37. Acquisition of indirect possession
+
+() Indirect possession is acquired by assignment to the acquirer of the right to demand delivery of a thing if the transferor of the thing themself or a third person remains in possession of the thing.
+
+§ 38. Transfer of possession to successor
+
+() Possession transfers to a successor.
+
+§ 39. Termination of possession
+
+(1) Possession terminates if a possessor relinquishes actual control over a thing or loses it in any other manner.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) A temporary impediment or interruption in the exercise of actual control does not terminate possession.
+
+(3) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+3. division  PROTECTION OF POSSESSION 
+
+§ 40. Arbitrary action and arbitrary possession
+
+(1) Possession is protected by law against arbitrary action.
+
+(2) Arbitrary action is the unlawful violation of possession of a thing or the unlawful deprivation of possession without the consent of the possessor. Possession obtained in this manner is arbitrary.
+
+(3) Violation of possession is an impediment to the exercise of actual control by a possessor over a thing or an attempt or threat to deprive the possessor of the thing if there is reason to fear execution thereof.
+
+(4) A successor to possession and any other legal successor is also liable for the consequences of arbitrary possession if upon acquiring possession the latter knew of the arbitrariness of the possession of the predecessor.
+
+§ 41. Self-help
+
+(1) A possessor may protect the possessor's possession by force against arbitrary action without exceeding the limits of self-defence.
+
+(2) If a possessor is deprived of a movable arbitrarily in secret or by force, the possessor has the right to immediately deprive the user of arbitrary action who is apprehended in the act or pursued of the movable.
+
+(3) If a possessor is deprived of possession of an immovable arbitrarily in secret or by force, the possessor has the right to banish the user of arbitrary action from the immovable and to regain control over the immovable.
+
+(4) A person specified in subsection 33 (3) may also use the right of a possessor to self-help provided for in this section.
+
+§ 42. Right to search
+
+(1) If a movable ceases to be under the control of a possessor and is on an immovable in the possession of another person, the possessor of the immovable is required to permit a search for and removal of the thing unless someone has taken possession of the thing in the interim.
+
+(2) The possessor of an immovable has the right to demand compensation for any damage arising from a search for and removal of a thing. If there is reason to presume that damage will arise, then until receipt of security the possessor of the immovable has the right to refuse to grant permission to search for and remove the thing. Refusal is not permitted if delay is hazardous.
+
+§ 43. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 44. Claim arising from violation of possession
+
+(1) In the event of violation of possession, a possessor has the right to demand elimination of the violation and prevention of a subsequent violation.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) A claim shall not be satisfied if possession of the claimant is arbitrary with respect to the violator or a predecessor of the violator and is acquired within one year before the violation.
+
+§ 45. Claim arising from deprivation of possession
+
+(1) Upon deprivation of possession, the possessor has the right to demand restoration of possession from the person who is the arbitrary possessor with respect to the claimant.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) A claim shall not be satisfied if possession of the claimant is arbitrary with respect to the depriver or a predecessor of the depriver and is acquired within one year before the deprivation of possession.
+
+§ 46. Objections of possessor
+
+() A possessor may refuse to satisfy the claims specified in §§ 44 and 45 of this Act if the possessor proves that the violation or deprivation of possession was not arbitrary and that the possessor had the right to violate the possession or to possess the thing.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 47. Rights of indirect possessor
+
+(1) A claim specified in sections 44 and 45 may also be submitted by an indirect possessor.
+
+(2) If possession is taken away, an indirect possessor may demand restoration of possession to the direct possessor. If the direct possessor cannot receive or does not want restoration of possession, the indirect possessor may demand transfer of possession to themself.
+
+(3) An indirect possessor has the right to search (§ 42) under the conditions specified in subsection (2) of this section.
+
+§ 48. Termination of claim for protection of possession
+
+() [RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(1) A claim specified in §§ 44 and 45 of this Act terminates after one year from the violation or deprivation of possession if the claim is not enforced by filing a corresponding action with a court.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) A claim specified in §§ 44 and 45 of this Act also terminates if, after the taking of arbitrary action, it is established by a court decision which has entered into force that the person who took arbitrary action holds a right in respect of a thing which is such that the person may claim possession of the thing on the basis of the right.
+[RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+§ 49. Protection of partial possession
+
+() A person who possesses a physical share of a thing may protect possession of the share pursuant to the procedure provided for in §§ 40-48.
+
+§ 50. Protection of common possession
+
+(1) If several persons possess a thing jointly (common possession), each co-possessor or the co-possessors jointly may protect possession pursuant to the procedure provided for in §§ 40-48.
+
+(2) The provisions for protection of possession do not apply in a dispute between co-possessors over the extent of the right of use of possession.
+
+4. chapter  LAND REGISTER 
+
+1. division  GENERAL PROVISIONS 
+
+§ 51. Definition of land register
+
+(1) A land register shall be maintained concerning immovables and related real rights.
+
+(2) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 52. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 53. Information entered in land register
+
+(1) Only information prescribed by law is entered in the land register.
+
+(2) [Repealed]
+
+§ 54. Merger and division of immovables
+
+(1) Immovables may be merged into one immovable, or an immovable may be divided into several immovables only at the request of the owner.
+
+(2) In the event of a merger of immovables or the division of an immovable, rights entered in the land register remain valid. If it is impossible for rights to remain valid in their previous form, the rights entered in the land register shall remain valid according to the notarially authenticated agreement of the persons concerned.
+
+(3) In the event of a merger of immovables, the real rights which encumbered the immovables extend to the entire created immovable.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 55. Access to land register
+
+(1) The land register is public. Everyone has the right to examine land register information and to receive extracts therefrom pursuant to the procedure provided by law.
+
+(2) No one may be excused by ignorance of information in the land register.
+
+§ 56. Presumption of correctness of land register
+
+(1) Information entered in the land register is presumed correct.
+
+(2) If a right entered in the land register is deleted, it shall be presumed to have extinguished.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) [Repealed - RT I 2004, 37, 255 - entry into force 01.05.2004]
+
+(4) [Repealed - RT I 2004, 37, 255 - entry into force 01.05.2004]
+
+§ 56^1. Acquisition in good faith
+
+(1) If, on the basis of information entered in the land register, a person acquires immovable property ownership or a restricted real right by a transaction, information entered in the land register is deemed to be correct with regard to the person unless an objection is entered in the land register concerning the correctness of information entered in the land register or the acquirer knew or should have known that the information entered in the land register was incorrect.
+
+(2) If the right of a person to dispose of a right entered in the land register is restricted for the benefit of a certain person, the restriction is valid with respect to the acquirer only if it is entered in the land register or if the acquirer is or should be aware of the restriction on transfer.
+
+(3) If the making of an entry in the land register is required for the acquisition of immovable property ownership or a restricted real right, the time of submission of the registration application is determinative with respect to the good faith of the acquirer.
+
+(4) The provisions of this section also apply if, on the basis of information entered in the land register, a legal act is performed for the benefit of a person or a transaction is concluded with such person by which a right of disposal not specified in this section over the right entered in the land register is transferred.
+[RT I 2004, 37, 255 - entry into force 01.05.2004]
+
+§ 57. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 57^1. Specification of content of real right
+
+() Upon the entry of a real right in the land register, documents which are the basis for the making of the land register entry may be referred to in order to specify the content of the right, unless otherwise provided by law.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 58. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 59. Ranking of real rights
+
+(1) Real rights shall receive a ranking by entry in the land register.
+
+(2) Entries in the land register shall be made in the order of arrival of applications.
+
+§ 59^1. Relationship between the ranking of rights
+
+(1) If several entries are made in the same register division, each entry receives a ranking which corresponds to the ranking of the registration in the land registry journal. If applications are submitted concurrently, they are granted the same ranking and it shall be indicated in corresponding entries.
+
+(2) If entries are made in different divisions on the same day on the basis of registration applications submitted on different dates, the entries shall indicate that an entry applied for later has a lower ranking than an entry applied for earlier.
+
+(3) The provisions of subsections (1) and (2) of this section do not apply if the persons concerned have agreed on a different relationship between the ranking of rights and an entry has been made in the land register concerning such agreement.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(4) A notation made on the basis of a ruling on the securing of an action and a judicial mortgage are entered in the land register pursuant to the general procedure.
+
+§ 60. Change of ranking
+
+(1) The ranking of a real right entered in the land register may be changed unless otherwise provided by law.
+
+(2) In order to change a ranking, an agreement between the persons the ranking of whose rights is changed and the making of a corresponding entry in the land register are required. In order to lower the ranking of a mortgage, the consent of the owner of the immovable is also required. Consent cannot be withdrawn.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) If the right lowered upon a change extinguishes, the elevated right does not, as a result, lose the position received by the change of ranking.
+
+(4) A change of ranking shall not damage a right which is ranked between the lowered and elevated rights.
+
+§ 61. Privileged ranking
+
+(1) In encumbering an immovable with a right, an owner may reserve a privilege to enter another right the extent of which is determined ahead of the encumbering right.
+
+(2) A privilege shall be entered as a notation in the land register next to the right which must be lowered in the exercise of the privilege.
+
+(3) Upon transfer of an immovable or upon succession, the privilege specified in subsection (1) of this section transfers to the actual acquirer.
+
+2. division  CLASSIFICATION OF ENTRIES 
+
+§ 62. Entries
+
+() Real rights and notations shall be entered in the land register.
+
+§ 62^1. [Repealed - RT I 2010, 38, 231 - entry into force 01.07.2010]
+
+§ 63. Notation in land register
+
+(1) A notation may be entered in the land register:
+1) to secure a claim for the acquisition or deletion of a real right, for the change of content or ranking of a right, including a future or conditional claim (preliminary notation);
+2) to secure a demand for the amendment or deletion of an incorrect entry (§ 65) in the land register (objection);
+3) for the complete or partial prohibition of the disposal of ownership or restricted real right (notation concerning prohibition);
+4) for the demonstration of other circumstances, the entry of which in the land register is permitted by law (notation).
+
+(2) A notation concerning a prohibition prohibits the making of entries in the land register completely or partially according to the contents of the notation.
+
+(3) The disposal of a real right after the entry of a preliminary notation in the land register is void to the extent that this prejudices or restricts a claim secured by the preliminary notation. This does not prevent entries from being made in the land register.
+
+(4) Subsection (3) of this section is also applied with regard to disposal in the course of compulsory execution, by a trustee in bankruptcy or on the basis of a court decision.
+[RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+(5) If a disposal is void on the bases provided for in subsections (3) or (4) of this section, the person for whose benefit a preliminary notation has been entered in the land register may request from the person for whose benefit a real right or notations have been registered the person's consent to the making or deletion of the entry necessary for the fulfilment of the claim secured by the preliminary notation.
+
+(6) The ranking of a right concerning which a notation is made shall be specified according to the notation.
+
+(7) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(8) A person whose ownership or limited real right a preliminary notation or objection concerns has the right to require deletion of the notation from the person for whose benefit the notation was made if the exercise of the right secured by the notation is precluded, in particular, in case the claim for the securing of which the notation was made has terminated.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 63^1. Entry of notation in land register
+
+(1) A preliminary notation shall be entered in the land register on the basis of an application or with the consent of the person whose ownership or limited real right the preliminary notation concerns.
+
+(2) A preliminary notation may also be entered in the land register on the basis of a ruling on the securing of an action or on another basis provided by law. A person demanding entry of a preliminary notation in the land register is not required to prove that fulfilment of the claim secured by the preliminary notation may become impracticable or impossible for the preliminary notation to be entered in the land register on the basis of a ruling on the securing of an action.
+[RT I 2010, 38, 231 - entry into force 01.07.2010]
+
+(3) Upon the entry of a preliminary notation in the land register, a ruling on the securing of an action or another document which is the basis for the making of the land register entry may be referred to in order to specify the claim secured by the preliminary notation.
+
+(4) An objection shall be entered in the land register on the basis of an application or with the consent of the person whose ownership or limited real right the objection concerns.
+
+(5) An objection may also be entered in the land register on the basis of a ruling on the securing of an action or on another basis provided by law. A person demanding entry of an objection in the land register is not required to prove that fulfilment of the claim secured by the objection may become impracticable or impossible for the objection to be entered in the land register on the basis of a ruling on the securing of an action.
+[RT I 2010, 38, 231 - entry into force 01.07.2010]
+
+(6) A notation concerning a prohibition shall be entered in the land register on the basis of a ruling on the securing of an action or on another basis provided by law.
+
+(7) A notation shall be entered in the land register in the cases prescribed by law.
+
+(8) In a notation concerning a lease contract or commercial lease contract, the date of expiry of the lease contract or commercial lease contract entered into for a specified term or the term for ordinary cancellation of the contract, if the term is longer than the term for cancellation provided by law, shall be indicated.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 63^2. Demand for deletion of preliminary notation
+
+() [RT I 2005, 39, 308 - entry into force 01.01.2006]
+
+(1) If the whereabouts of the creditor of a claim secured by a preliminary notation are unknown, the owner may demand the deletion of the preliminary notation provided that ten years have passed since the last land register entry concerning the preliminary notation was made and the debtor of the claim secured by the preliminary notation has not accepted the claim secured by the preliminary notation during that time.
+[RT I 2005, 39, 308 - entry into force 01.01.2006]
+
+(2) Upon the submission of a demand specified in subsection (1) of this section, the court shall determine the term for submission of objections and shall publish a corresponding announcement in the official publication Ametlikud Teadaanded. If objections are not filed during the specified term or are rejected, the court shall issue a ruling on the deletion of the preliminary notation. The provisions of the Code of Civil Procedure concerning the calling proceeding otherwise apply.
+[RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+3. division  GENERAL PROVISIONS CONCERNING REAL RIGHTS IN RESPECT OF IMMOVABLES 
+
+[
+							RT I
+							2003
+							13
+							64
+							252549
+						 - pub. 01.07.2003] 
+
+§ 64. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 64^1. Transfer and encumbrance of immovable property ownership
+
+() For the transfer of immovable property ownership or encumbrance of an immovable with a real right and for the transfer or encumbrance of a real right encumbering an immovable or the amendment of the content of such real right, a notarially authenticated agreement between the entitled person and the other party (a real right contract) is required and a corresponding entry shall be made in the land register, unless otherwise provided by law.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 64^2. Termination of right
+
+() For the termination of a real right encumbering an immovable, a notarially certified application of the entitled person for the termination of the right and deletion of the right from the land register are required, unless otherwise provided by law. The application shall be submitted to a land registry department or to the person for whose benefit the right is terminated.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 65. Correction of incorrect entry
+
+(1) A person whose right is violated by an incorrect entry may demand the consent of the person whose rights are affected by the correction to the correction of the entry.
+
+(2) [Repealed - RT I 2010, 38, 231 - entry into force 01.07.2010]
+
+(3) The demand specified in subsection (1) of this section shall not be submitted with respect to real rights entered in the land register acquired by a third person in good faith.
+[RT I 2010, 38, 231 - entry into force 01.07.2010]
+
+§ 66. Deletion of entry upon extinguishment of real right
+
+(1) If an entry loses all legal effect due to extinguishment of a real right, the owner of the encumbered immovable has the right to demand deletion of the entry.
+
+(2) A real right in an immovable entered in the land register does not extinguish solely for the reason that the owner of the immovable acquires this right or the owner of this right acquires the immovable.
+
+§ 67. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+3. part  OWNERSHIP 
+
+5. chapter  GENERAL PROVISIONS 
+
+1. division  DEFINITION AND CLASSIFICATION OF OWNERSHIP 
+
+§ 68. Definition of ownership
+
+(1) Ownership is full legal control by a person over a thing. An owner has the right to possess, use and dispose of a thing, and to demand the prevention of violation of these rights and elimination of the consequences of violation from all other persons.
+
+(2) The rights of an owner may only be restricted by law or the rights of other persons.
+
+(3) Ownership is created only in the cases provided by law.
+
+§ 69. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 70. Shared ownership
+
+(1) Shared ownership is ownership belonging to two or more persons concurrently.
+
+(2) Shared ownership is common ownership or joint ownership.
+
+(3) Common ownership is ownership in legal shares of a shared thing belonging to two or more persons concurrently.
+
+(4) Joint ownership is ownership in undefined shares of a shared thing belonging to two or more persons concurrently.
+
+(5) Shared ownership is common ownership unless otherwise provided by law.
+
+(6) Provisions concerning common ownership apply to joint ownership unless otherwise provided by the law providing for joint ownership.
+
+(7) If a right belongs to several persons (community), the provisions concerning joint ownership are applied thereto unless otherwise provided by law.
+
+2. division  COMMON OWNERSHIP 
+
+§ 71. Extent of common ownership
+
+(1) The shares of co-owners in a shared thing are equal unless otherwise provided by law or a transaction.
+
+(2) The share of gains derived from a shared thing corresponding to a co-owner's share belongs to the co-owner unless otherwise prescribed by an agreement of the co-owners.
+[RT I, 13.03.2014, 3 - entry into force 23.03.2014]
+
+(3) With respect to other co-owners, a co-owner has the rights of an owner with regard to the co-owner's share in the shared thing, considering the rights of the other co-owners.
+
+(4) With respect to third persons, a co-owner has all the rights of an owner with regard to the shared thing.
+
+§ 72. Possession and use of common ownership
+
+(1) Co-owners shall possess and use a shared thing according to an agreement. Issues which remain within the limits of ordinary possession and use of a shared thing may be decided by a decision made by the majority of votes of the co-owners. The number of votes upon making the decision depends on the share of ownership.
+[RT I, 13.03.2014, 3 - entry into force 23.03.2014]
+
+(2) Gains corresponding to the share of a co-owner that the co-owner has the right to receive shall not be reduced by the majority specified in subsection (1) of this section without the consent of the co-owner.
+[RT I, 13.03.2014, 3 - entry into force 23.03.2014]
+
+(3) A co-owner has the right to use a shared thing in so far as this does not hinder common use by the other co-owners.
+
+(4) A co-owner has the right to perform acts necessary for preservation of a thing without the consent of the other co-owners, but the co-owner may demand reimbursement of the expenses necessary for preservation of the thing from the other co-owners in proportion to their shares.
+
+(5) A co-owner has the right to demand from the other co-owners that possession and use of a thing in common ownership be effected according to the interests of all co-owners. Co-owners shall act in good faith in their relations with one another and they shall refrain, in particular, from damaging the rights of other co-owners.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 73. Disposal of legal share of common ownership
+
+(1) A co-owner may transfer, bequeath, pledge or in any other manner dispose of the legal share in a shared thing belonging to the co-owner.
+
+(2) Upon the sale of a legal share in an immovable to a person who is neither a co-owner nor privileged pursuant to law, the other co-owners have the right of pre-emption to the legal share being sold.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) [Repealed - RT I 2005, 39, 308 - entry into force 01.01.2006]
+
+(4) The provisions of subsection (2) of this section do not apply if a co-owner transfers a legal share in immovables to a descendant or parent.
+
+§ 74. Disposal of common ownership as whole
+
+(1) A thing in common ownership may be transferred or encumbered, and a thing or its economic purpose may be significantly changed only by agreement of all co-owners.
+
+(2) [Repealed]
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 75. Bearing of encumbrances and expenses
+
+(1) A co-owner shall bear the encumbrances incumbent on a shared thing corresponding to the size of the share belonging to the co-owner, and any damage and expenses relating to the maintenance, possession and use of the thing.
+
+(2) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 76. Demand for termination of common ownership
+
+(1) A co-owner has the right to demand the termination of common ownership at any time.
+
+(2) The right to demand the termination of common ownership may be precluded by an agreement between the co-owners.
+
+(3) If the right to demand the termination of common ownership is precluded by an agreement, termination may be demanded only for good reason. Where a term was set for the cancellation of common ownership, common ownership may be cancelled for good reason without adhering to the set term.
+
+(4) Any agreement not specified in this section which precludes or restricts the right to demand the termination of common ownership is void.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 77. Division of thing upon termination of common ownership
+
+(1) Upon termination of common ownership, a thing shall be divided according to the agreement of the co-owners.
+
+(2) Failing agreement of the co-owners with respect to the manner of division of a thing in common ownership, a court shall decide at the request of the plaintiff whether to divide the thing among the co-owners in physical shares, to give the thing to one or several co-owners and impose on them the obligation to pay the other co-owners for their shares in money, or to sell the thing by public auction or auction among the co-owners and divide the money received among the co-owners according to the size of their shares.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) Upon division of common ownership as physical shares, if the value of the physical shares does not correspond to the value of the legal shares belonging to the co-owners, the court may order a monetary set-off for equalisation of the shares or encumber individual shares with a servitude for the benefit of the other shares.
+
+(4) The division of shares in real terms determined by the court may also be effected by lot, where necessary.
+
+§ 78. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 79. Validity of agreement and majority decision of co-owners with respect to legal successors
+
+(1) Any agreement between co-owners concerning the possession and use of common ownership and termination of common ownership shall be valid with respect to the legal successors of the co-owners.
+
+(2) If an immovable is in common ownership, any agreement specified in subsection (1) of this section shall be valid with respect to the legal successors of co-owners only if it has been entered in the land register as a notation.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+3. division  PROTECTION OF OWNERSHIP 
+
+§ 80. Reclamation of thing from illegal possession
+
+(1) An owner has a right of claim against anyone who possesses a thing of the owner without legal basis.
+
+(2) The claim of the owner shall be for recognition of the right of ownership and reclamation of the thing from illegal possession into the owner's possession.
+
+§ 81. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 82. Proof of possession
+
+(1) In the case of a dispute, the owner shall prove that the possessor possesses a thing belonging to the owner.
+
+(2) If a possessor relinquishes possession with the purpose of being released from a claim, the court may deem the possessor a possessor regardless of the relinquishment.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 83. Objections of possessor
+
+(1) A possessor has the right to refuse to deliver a thing if the possessor has the right to possess the thing in respect of the owner.
+
+(2) A direct possessor has the right to refuse to deliver a thing if an indirect possessor from whom the direct possessor obtained the right to possess the thing has the right to possess the thing in respect of the owner. If the indirect possessor is not entitled to transfer possession to the possessor, the owner may demand that the direct possessor deliver the thing to the indirect possessor or, in case the latter refuses to assume possession, that the direct possessor deliver the thing to the owner.
+
+(3) The possessor of a thing acquired by assignment of a demand for delivery pursuant to § 93 of this Act may submit objections, which the possessor could present in respect of the assigned demand, to the new owner.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 84. Liability of possessor for thing and accessories
+
+(1) A possessor in bad faith is required to compensate the owner for damage caused as a result of the destruction of or decrease in value of the thing and its accessories pursuant to the provisions of the Law of Obligations Act (RT I 2001, 81, 487; 2002, 60, 374) concerning unlawful causing of damage.
+
+(2) A person who obtained possession of a thing as a result of arbitrary action is liable for the destruction of or decrease in value of the thing and its accessories, unless the destruction or decrease in value would also have occurred had the thing been in the possession of the plaintiff.
+
+(3) If a possessor is in good faith, the possessor is not liable for the destruction of or decrease in value of the thing and its accessories if the destruction or decrease in value occurs before the possessor becomes aware of the filing of an action. The possessor is liable for the destruction of or decrease in value of the thing and its accessories which occur by the fault of the possessor after the possessor becomes aware of the filing of an action.
+
+(4) If a possessor transfers a thing during the court proceeding after the possessor became or should have become aware of the filing of the action, the possessor is liable as a possessor in bad faith, except if the transfer was absolutely necessary to prevent violation of the thing.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 85. Delivery of and compensation for gains
+
+(1) A possessor is liable for the delivery of or compensation for gains derived from a thing pursuant to §§ 1037–1040 of the Law of Obligations Act.
+
+(2) A person who obtained possession of a thing as a result of arbitrary action is, in addition to the provisions of subsection (1) of this section, also required to compensate for gains which the owner would have received had the owner been in possession of the thing.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 86.  –  § 87. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+§ 88. Reimbursement of expenses to possessor
+
+(1) A possessor has the right to demand reimbursement of necessary expenses made on a thing by the possessor, unless the possessor obtained possession as a result of arbitrary action. A possessor may demand compensation for other costs pursuant to § 1042 of the Law of Obligations Act.
+
+(2) A possessor has the right to remove from a thing the improvements made by means of the expenses made on the thing provided that the possessor restores the previous condition of the thing to be delivered. Such right is precluded if it is impossible to remove the improvements without damaging them or if the possessor is compensated for the value the improvements made by means of the expenses would have after their separation from the thing.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 89. Protection of ownership in case of violation unrelated to loss of possession
+
+() An owner has the right to demand elimination of any violation of the right of ownership even if the violation is not related to a loss of possession. If there is reason to presume recurrence of such violation, the owner may demand avoidance of the violation. A demand is precluded if the owner is required to endure the violation.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 90. Presumption of ownership of possessor
+
+(1) A possessor of a movable and any earlier possessor shall be deemed the owner of the thing during the possessor's possession until the contrary is proved.
+
+(2) In the case of indirect possession, the presumption specified in subsection (1) of this section is valid only with respect to an indirect possessor.
+
+§ 91. [Repealed]
+
+6. chapter  MOVABLE PROPERTY OWNERSHIP 
+
+1. division  CREATION OF MOVABLE PROPERTY OWNERSHIP 
+
+1. subdivision  Delivery 
+
+§ 92. Creation of movable property ownership by delivery
+
+() [RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(1) Movable property ownership is created by delivery of a movable if the transferor delivers possession of the thing to the acquirer and they have agreed that ownership transfers to the acquirer.
+
+(2) If a movable is already in the possession of the acquirer, an agreement between the transferor and acquirer concerning the transfer of ownership is sufficient for the creation of ownership.
+
+(3) [Repealed]
+
+(4) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 92^1. Unregistered sea-going vessel
+
+() For the creation of ownership in a sea-going vessel which has not been entered in a register of ships kept by a court of Estonia, delivery of the sea-going vessel is not required if the transferor and acquirer agree on the immediate transfer of the ownership.
+
+§ 93. Acquisition by assignment of right to demand delivery of thing
+
+() If a thing is in the possession of a third person, a transferor may with the agreement of the acquirer substitute delivery of possession of the thing by assignment of the right to demand delivery to the acquirer.
+
+§ 94. Acquisition by leaving thing in possession of transferor
+
+() Where the owner of a thing is the direct possessor of the thing, transfer of the possession of the thing upon transfer of ownership may be replaced by a contract to be entered into between the transferor and the acquirer on the basis of which the acquirer obtains indirect possession of the thing.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 95. Acquisition in good faith
+
+(1) A person who has acquired a thing by delivery in good faith is the owner of the thing as of the time of receipt of the thing into the person's possession even if the transferor was not entitled to transfer ownership.
+
+(1^1) If a thing transferred pursuant to § 93 of this Act does not belong to the transferor, the acquirer shall become the owner of the thing by assignment of demand only if the acquirer obtains possession of the thing from a third person and is in good faith at the time of obtaining possession.
+
+(1^2) If a thing transferred pursuant to § 94 of this Act does not belong to the transferor, the acquirer shall become the owner by delivery of the thing to the acquirer provided that the acquirer is in good faith at the time of delivery.
+
+(2) An acquirer is in bad faith if the acquirer knew or should have known that the transferor was not entitled to transfer ownership.
+
+(3) Acquisition pursuant to subsections (1) – (12) of this section is not effected if a thing was stolen, lost or dispossessed in any other manner from the owner against the will of the owner. If the owner was an indirect possessor, the same applies in case the thing is stolen, lost or dispossessed in any other manner from the direct possessor against the will of the direct possessor. This subsection does not apply to money or bearer securities or to a thing acquired by public auction.
+
+(4) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(5) If a sea-going vessel transferred pursuant to § 92^1  of this Act did not belong to the transferor, the acquirer shall become the owner as of the moment of delivery of the sea-going vessel except if the owner was in bad faith at the time. If a part of the vessel is the object of the transaction, the time of acquisition of common ownership is decisive.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 95^1. Extinguishment of encumbrances
+
+(1) Upon transfer of ownership, the rights of a third person to the transferred thing which encumbered the movable extinguish.
+
+(2) Upon transfer of ownership pursuant to subsection 92 (2) of this Act, the rights of a third person extinguish only if the acquirer obtained possession from the transferor. Upon transfer pursuant to §§ 92^1  or 94 of this Act or if a thing transferred pursuant to § 93 of this Act was not in the indirect possession of the transferor, the right of a third person extinguishes only if the acquirer obtains direct possession of the thing.
+
+(3) The right of a third person does not extinguish if the acquirer does not act in good faith with respect to the right at the time of transfer of ownership. The acquirer acts in good faith if the acquirer is not aware and should not be aware of the right of a third person.
+
+(4) If, pursuant to § 93 of this Act, a right belongs to a possessor who is a third person, the right does not extinguish with respect to an acquirer who is in good faith.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+2. subdivision  Occupation 
+
+§ 96. Content of occupation
+
+(1) Movable property ownership is created by occupation if a person takes possession of an ownerless movable with the intention of becoming its owner.
+
+(2) A thing is not acquired if occupation is prohibited by law or the taking of possession violates the right of another person to occupy the thing.
+
+(3) A thing is ownerless if it has not yet been in the ownership of anyone or if the owner has terminated possession with the intention of relinquishing ownership.
+
+(4) A wild animal is ownerless if it is free in nature.
+
+§ 97. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+3. subdivision  Finding 
+
+§ 98. Notification obligation
+
+(1) A person who has found a lost thing and taken possession thereof shall promptly notify the loser or owner. If the loser or owner is unknown to the finder, the finder is required to notify the police of the finding if the value of the thing exceeds 50 euros.
+[RT I 2010, 22, 108 - entry into force 01.01.2011]
+
+(2) Upon finding a thing in a residential building, public establishment or means of transport, the person finding the thing is required to deliver the thing to the house owner, tenant, an employee of the corresponding establishment, the driver of the means of transport or the police. The house owner, tenant, establishment, transport organisation or police to whom the found thing is delivered shall be deemed the finder.
+
+§ 99. Safe-keeping and sale of finding
+
+(1) A finder is required to keep a found thing in a manner which ensures its preservation.
+
+(2) After public notification, a finder has the right to sell the thing by public auction if safe-keeping of the thing is excessively expensive, if the thing is highly perishable or if a public establishment or the police have kept the thing for six months.
+
+(3) Money received at an auction from which the safe-keeping and sales expenses are deducted replaces the thing.
+
+§ 100. Acquisition of finding
+
+(1) If a finder has performed the finder's obligations and the owner has not become known within one year after notification of the finding, the finder acquires the thing or the money replacing it.
+
+(2) If the value of a thing does not exceed 50 euros, the term provided for in subsection (1) of this section commences from the day of finding.
+[RT I 2010, 22, 108 - entry into force 01.01.2011]
+
+(3) The local government of the place of finding acquires the thing or the money replacing it if the police have kept the finding for one year after taking possession of the thing.
+
+(4) A finder does not acquire a thing if the finder violates the notification obligation or conceals the finding.
+
+(5) The rights of a third person which encumbered a thing extinguish upon the acquisition of the finding.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 101. Finder's fee and reimbursement of expenses
+
+(1) If a finder has not yet acquired a thing, the owner recovers the thing or the money replacing it if the owner reimburses the necessary expenses and pays a finder's fee to the finder. The finder's fee shall be specified by agreement of the finder and the owner. In the case of a dispute, the finder's fee shall be specified by a court but the fee shall not exceed one third of the value of the finding from which the necessary expenses incurred by the finder in connection with the finding have been deducted.
+
+(1^1) A finder's fee cannot be claimed if the finder violates the notification obligation or conceals a finding.
+
+(2) The necessary expenses specified in subsection (1) of this section are expenses which the finder makes for preservation of the found thing, for seeking the entitled person and for selling the found thing.
+
+(3) The persons specified in subsection 98 (2) shall not receive a finder's fee.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 101^1. Finder's liability
+
+() A finder is liable for a violation of a finder's obligations only if the finder acts intentionally or with gross negligence.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 102. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+4. subdivision  Treasure 
+
+§ 103. Definition of treasure
+
+(1) Treasure is money or valuables such as gems, pearls or precious metals buried in the ground or hidden in any other manner whose owner cannot be ascertained.
+
+(2) Treasure belongs to the person on whose immovable or movable it was found.
+
+§ 104. Finder's fee
+
+(1) A finder of treasure has the right to receive a finder's fee equal to one-half of the value of the treasure.
+
+(2) The value of a treasure shall be specified by agreement of the finder and the owner, or, in the case of a dispute, by a court.
+
+(3) A finder who searches for treasure without the consent of the owner of the immovable or movable shall not receive a finder's fee.
+
+§ 105. [Repealed - RT I, 21.03.2011, 4 - entry into force 01.06.2011]
+
+5. subdivision  Specification, confusion and accession 
+
+§ 106. Specification
+
+(1) If someone processes a movable of another in good faith, the new thing belongs to the processor if the work is more valuable than the original thing, but otherwise to the owner of the original thing.
+
+(2) If the processor acted in bad faith, the owner of the original thing has the right to demand a new thing for themself regardless of whether the work is more valuable than the original thing.
+
+§ 107. Accession and confusion
+
+(1) If movables of several owners are joined in such a way that they become essential parts of an integrated thing, the integrated thing created by joining shall be in common ownership of the current owners of the things. The sizes of shares in the common ownership shall be specified according to the value of the joined things which they had at the time of accession.
+
+(2) If one of the joined things is to be considered the principal thing, the owner of that thing shall become the sole owner of the integrated thing created as a result of the accession.
+
+(3) If an immovable is joined to a plot of land in such a way that it becomes an essential part of the plot of land, ownership of the plot of land shall extend to the thing joined to the plot of land.
+
+(4) The provisions of subsections (1) and (2) of this section also apply if the movables of several owners are inseparably confused or confused in such a way that separating them would involve unreasonable costs.
+
+(5) If ownership of a thing extinguishes in accordance with subsections (1) – (4) of this section, other rights which encumbered the thing also extinguish. If the owner of an encumbered thing becomes a co-owner of an integrated thing created as a result of accession, the rights which encumbered the thing shall remain valid with respect to the co-owner's share in the common ownership. If the owner of an encumbered thing becomes the sole owner of an integrated thing created as a result of accession, the rights which encumbered the thing shall remain valid with respect to the integrated thing.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 108.  –  § 109. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+6. subdivision  Prescription 
+
+§ 110. Content of prescription
+
+(1) Movable property ownership is created by prescription if a person possesses movables without interruption for five years as an owner.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 111. Preclusion of prescription
+
+(1) Prescription is precluded if a possessor is in bad faith.
+
+(2) A possessor is in bad faith if upon obtainment of possession, the possessor knew or should have known that the possessor did not acquire the thing by the obtainment of possession or if the possessor became aware of this before the end of the prescription period.
+
+§ 112. Calculation of prescription period
+
+(1) A person in whose possession a thing is at the beginning and end of a specific period of time is also presumed to be the possessor in the interim.
+
+(2) Upon acquisition of possession as a legal successor, a possessor may add the prescription periods of the possessor and the predecessor of the possessor.
+
+§ 113. Suspension of prescription
+
+() Prescription does not commence or is suspended as of the moment when the limitation period for a claim for the protection of ownership of the owner of a movable is suspended.
+[RT I 2002, 53, 336 - entry into force 01.07.2002]
+
+§ 114. Interruption of prescription
+
+(1) Prescription is interrupted:
+1) if the possessor loses the possession specified in § 110;
+2) upon filing of a claim for protection of ownership against a direct or indirect possessor;
+3) upon filing of a claim for protection of ownership against a person specified in subsection 33 (3) whom the owner erroneously considers the possessor;
+4) if the owner commences to exercise the right of ownership with the knowledge of the possessor and the latter does not contest this.
+
+(2) Interruption of prescription on the bases provided for in clauses (1) 2) – 4) of this section is only valid with respect to the person who caused the interruption.
+
+(3) Prescription is not interrupted if the possessor loses possession against the possessor's will and recovers possession within one year or recovers possession on the basis of an action filed within this period.
+
+(4) After an interruption of prescription, the running of the prescription period re-commences. The time passed up to the interruption of prescription is not included in the new prescription period.
+
+§ 114^1. Rights of third persons
+
+() The rights of third persons to a thing shall extinguish upon the creation of ownership by prescription provided that the rights were created before the running of the prescription period commenced. A right shall not extinguish if the possessor knows or ought to know about the right of a third person upon acquisition of possession or if the possessor becomes aware of the right of a third person during the prescription period.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+7. subdivision  Natural fruit 
+
+§ 115. Acquisition of natural fruit
+
+(1) An owner of a thing or a possessor of a thing of another who has the right to acquire the natural fruit becomes the owner of the fruit upon severance of the fruit from the thing.
+
+(2) If a person who does not possess a thing of another has the right to acquire the natural fruit of the thing, the person becomes the owner of the fruit by taking possession of the fruit.
+
+2. division  RIGHTS OF THIRD PERSONS 
+
+§ 116.  –  § 117. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+3. chapter  IMMOVABLE PROPERTY OWNERSHIP 
+
+1. division  CREATION AND EXTINGUISHMENT OF IMMOVABLE PROPERTY OWNERSHIP 
+
+§ 118. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 119. Transaction for acquisition of immovables
+
+(1) A transaction by which acquisition or disposal of an immovable is undertaken shall be notarially authenticated.
+
+(2) A transaction constituting an obligation entered into without observing the formality provided in subsection (1) of this section becomes valid if a real right contract is entered into for the performance of the transaction and a corresponding entry has been made in the land register.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 120. Real right contract for transfer of immovable property ownership
+
+(1) A real right contract required for the transfer of immovable property ownership shall be notarially authenticated. A judicial compromise may also contain a real right contract.
+
+(2) Any real right contract required for the transfer of immovable property ownership which is entered into conditionally or by setting a term is void.
+
+(3) A notary shall authenticate a real right contract specified in subsection (1) of this section only if the document specified in subsection 119 (1) of this Act is submitted to the notary or if the document is notarially authenticated at the same time as the real right contract.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 121.  –  § 122. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003] 
+
+
+
+§ 123. Acquisition of immovables by prescription of land register entry
+
+(1) If a person is entered in the land register as the owner of an immovable without legal basis, the person becomes the owner of the immovable if the person possesses the immovable as an owner for ten years without interruption.
+
+(2) The provisions concerning prescription of movables apply to the calculation of the term specified in subsection (1) of this section. The running of the term shall be suspended for the period during which an objection is entered in the land register concerning the correctness of the land register entry.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 124. Acquisition of immovables by prescription
+
+(1) If a person has without interruption and for thirty years possessed an immovable which is not entered in the land register, whose owner is not evident from the land register or whose owner was deceased before the acquisition of possession by the possessor and no land register entry has been made in the land register during thirty years for the making of which the consent of the owner is required, the possessor may demand entry in the land register as the owner of the immovable.
+[RT I 2005, 39, 308 - entry into force 01.01.2006]
+
+(2) A claim for the making of an entry on the bases specified in subsection (1) of this section shall be filed with the court, which shall specify the time for filing of objections in calling proceedings and shall publish a corresponding announcement. If no objections are filed within the set term or objections are rejected, the court shall issue a ruling which shall be the basis for the making of the entry in the land register.
+
+(3) The provisions concerning prescription of movables apply to the calculation of the period specified in subsection (1) of this section and to possession without interruption.
+
+(4) If, prior to making the ruling specified in the second sentence of subsection (2) of this section public, a third person is entered in the land register as the owner or an objection is entered in the land register concerning the correctness of the land register entry as a result of the ownership of a third person, the ruling specified in the second sentence of subsection (2) of this section shall have no legal consequences with respect to the third person.
+[RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+§ 125. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 126. Relinquishment of immovable property ownership
+
+(1) The owner of an immovable may relinquish immovable property ownership.
+
+(2) A transaction by which immovable property ownership is relinquished shall be notarially authenticated.
+[RT I, 13.03.2014, 3 - entry into force 23.03.2014]
+
+(3) If an immovable has been relinquished, the ownership of the immovable is transferred to the state from the making of a corresponding entry in the land register. The consent of the state as the person concerned is not required for the making of such entry.
+[RT I, 13.03.2014, 3 - entry into force 23.03.2014]
+
+(4) If the state has acquired an immovable on the basis provided in this section and the immovable is encumbered with a real encumbrance, the liability of the state for the performance of the obligations arising from the real encumbrance is limited to the value of the immovable.
+[RT I, 13.03.2014, 3 - entry into force 23.03.2014]
+
+2. division  EXTENT OF IMMOVABLE PROPERTY OWNERSHIP 
+
+§ 127. Spatial extent of immovable property ownership
+
+(1) Immovable property ownership extends to the ground, airspace above and into the earth beneath the surface to such height or depth to which the interest of the owner extends in the use of the immovable.
+
+(2) The owner of an immovable shall not prohibit an activity which occurs at such height or depth to which the interest of the owner does not extend according to the purpose of the use of the immovable.
+
+§ 128. Boundary
+
+(1) The boundary between adjoining plots of land shall be specified by plans and boundary markers pursuant to the procedure provided by law.
+
+(2) The owner of an immovable shall ensure the preservation of the boundary markers. The owner shall not change or re-arrange the boundary markers.
+
+(3) The owner of an immovable may demand at any time that the owner of a neighbouring immovable install boundary markers on the boundary between the immovables. The costs relating thereto shall be borne by the owners of the neighbouring immovables in equal shares.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 129. Determination of boundary
+
+(1) The owner of an immovable shall assist in determination of a boundary on the justified demand of a neighbour.
+
+(2) If a boundary cannot be determined in any other manner, the extent of possession shall be taken as the basis. If the extent of possession cannot be determined, an equal share of the land in dispute shall be added to each immovable.
+
+(3) If determination of a boundary in the manner provided for in subsection (2) of this section gives a result which is contrary to verified information concerning the size and other circumstances of the immovable, the boundary shall be specified considering the size and other circumstances of the immovable.
+
+(4) Expenses for determination of the boundary shall be borne by the neighbours equally unless otherwise provided by law, a court decision or transaction.
+[RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+§ 130. Extent of immovable property ownership to mineral resources
+
+(1) Immovable property ownership does not extend to mineral resources the list of which shall be provided by law.
+
+(2) The procedure for use of mineral resources and the preferential right of the owner of an immovable to use the mineral resources specified in subsection (1) of this section shall be provided by law.
+
+§ 131. Extent of immovable property ownership to water body
+
+(1) A water body within the boundaries of one immovable belongs to the owner of the immovable.
+
+(2) The part of a water body within the boundaries of several immovables which belongs to each shore-owner shall be between the perpendicular imaginary lines drawn from an imaginary line in the middle of the water body to the shore boundary markers of the corresponding owner, or between the imaginary lines drawn from the centre of the water body to the shore boundary markers of the corresponding owner, unless otherwise provided by law or the agreement.
+
+§ 132. Extent of immovable property ownership to land created from water body
+
+(1) A dried-up riverbed or an island created in a river is in the ownership of the owners of the nearest shores.
+
+(2) The part of a riverbed or island which is between the perpendicular imaginary lines drawn from an imaginary line in the middle of the river to the shore boundary markers of the corresponding owner is in the ownership of the shore-owner.
+
+(3) A piece of land which is torn from one immovable and carried to another by a current or other force of nature becomes part of the other immovable if the piece of land firmly joins with it. The former owner may demand compensation for the torn away piece of land according to the benefit to the new owner.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(4) Earth which is washed onto the shore or with which the shore is filled remains a part of the shore.
+
+§ 133. Shore-line of public water body
+
+(1) Immovable property ownership extends to the shore-line of the public water body. The shore-line is the ordinary boundary of water of the water body.
+
+(2) [Repealed - RT I 2009, 37, 251 - entry into force 10.07.2009]
+
+(3) If a construction permanently attached to the bottom of the public water body is permanently attached to the shore, the construction is an essential part of the immovable on shore.
+[RT I 2009, 37, 251 - entry into force 10.07.2009]
+
+§ 134. Ground-water
+
+() Immovable property ownership does not extend to ground-water.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 135.  –  § 139. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+3. division  RESTRICTIONS ON IMMOVABLE PROPERTY OWNERSHIP 
+
+1. subdivision  General provisions 
+
+§ 140. Classification of restrictions
+
+() Immovable property ownership restrictions shall be established by law, a court decision or transaction.
+[RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+§ 141. Validity of restrictions
+
+(1) A restriction pursuant to law is valid without entry in the land register.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(1^1) A restriction pursuant to law may be amended by an agreement between the owner of an immovable and the entitled person. The agreement shall be entered in the land register as a real right, in particular as a servitude.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) A restriction in public law may be amended or terminated only in the cases provided by law. Amendment or termination of restrictions is valid without entry in the land register.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) A restriction established by a court decision or transaction, or amendment or termination of such restriction is valid with respect to third persons if it is entered in the land register.
+[RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+§ 142. Entry on plot of land of another
+
+() [Repealed - RT I, 08.07.2014, 3 - entry into force 01.08.2014]
+
+2. subdivision  Neighbourhood rights 
+
+§ 143. Damaging nuisances
+
+(1) The owner of an immovable does not have the right to prohibit the spread of gas, smoke, steam, odour, soot, heat, noise, vibrations and other such nuisances coming from another immovable to the owner's immovable unless this significantly damages the use of the owner's immovable or is contrary to environmental protection requirements. The intentional direction of nuisances to a neighbouring immovable is prohibited.
+
+(2) If a nuisance specified in subsection (1) of this section significantly damages the use of an immovable but the person causing the nuisance cannot be expected to eliminate the nuisance for economic reasons, the owner of the nuisanced immovable has the right to demand compensation from the owner of the immovable causing the nuisance.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 144. Prohibited construction and installation
+
+(1) An owner of an immovable has the right to demand that a construction or installation be not erected or preserved on a neighbouring immovable if there is reason to presume that it will cause or causes a prohibited nuisance to the owner's immovable.
+
+(2) If a construction or installation specified in subsection (1) of this section is erected in accordance with law, the right to demand removal of the construction or installation exists only after the actual occurrence of a prohibited nuisance.
+
+§ 145. Constructions in danger of collapse
+
+(1) A construction shall be maintained in such condition that damage to a neighbouring immovable would be excluded upon collapse of the construction or severance of parts of the construction.
+
+(2) An owner whose immovable is endangered by circumstances specified in subsection (1) of this section may demand removal of the danger from the person liable for the harmful effect. If the person liable for the harmful effect is not known, the owner may demand removal of the danger from the possessor.
+
+§ 146. Prohibited excavation
+
+(1) A plot of land shall not be excavated in such a manner that a neighbouring immovable would lose the necessary support of earth or such that the constructions situated thereon would be damaged in any other manner.
+
+(2) Excavation shall be permitted if the excavator installs other support or takes measures for prevention of danger or damage.
+
+§ 147. Use of neighbouring immovables
+
+() If construction or repair of a construction can be done only by constructing scaffolding on or over a neighbouring immovable, or by moving or placing building materials on the immovable, or by walking or driving over the immovable, the owner of the neighbouring immovable shall allow this, if it is absolutely necessary, on the condition that the owner is guaranteed compensation for damage.
+
+§ 148. Constructions over boundary of neighbouring immovables
+
+(1) A construction which projects over the boundary of an immovable is part of the immovable from whose boundaries it emerges if a real right permitting the cross-boundary construction of the immovable is entered in the land register or if the owner of the neighbouring immovable is required to allow the cross-boundary construction pursuant to subsection (2) of this section.
+
+(2) If a construction specified in subsection (1) of this section is erected without a real right but in good faith, the owner of the neighbouring immovable shall allow this. In this case, the owner has the right to demand acquisition of or periodic compensation from the builder for the piece of land under the part of the construction which projects over the boundary of the owner's immovable.
+
+(3) The owner of a neighbouring immovable may demand from the builder removal of the part of the construction which projects over the boundary of the owner's immovable if the builder is in bad faith or if the owner of the immovable contested this before commencement of construction or, at the latest, at a time when removal of the part did not involve excessive expenses.
+
+(4) A claim for receipt of compensation shall be preferred to all other claims which are incumbent on the immovable from whose boundaries the construction emerges. An agreement concerning the amount of compensation or waiver of compensation is valid if it is entered in the land register as a notation.
+
+(5) The provisions concerning real encumbrances apply to compensation in addition to the provisions of subsection (4) of this section.
+
+(6) If a right of superficies or a servitude is damaged due to a construction which projects over the boundary of an immovable, the provisions of subsections (1) – (5) apply with respect to the entitled person accordingly.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 149. Roots, branches and fruit projecting over boundary
+
+(1) The owner of an immovable has the right to cut off and take for themself the roots, branches and fruit of trees and bushes projecting from a neighbouring immovable onto the owner's immovable of the owner if they damage the use of the immovable and the neighbour has not removed them during the required time regardless of a warning.
+
+(2) If the owner of an immovable permits the branches projecting over the owner's immovable to remain, the owner has the right to the fruit of those branches to the extent that the branch is within the boundaries of the owner's immovable.
+
+(3) The owner of an immovable has the right to the fruit which has fallen on to the owner's immovable from a tree or bush growing on a neighbouring immovable.
+
+(4) The fruit of a tree growing on the boundary of an immovable and the tree itself belongs to the neighbours in equal shares upon felling or falling of the tree.
+
+§ 150. Trees and bushes growing on boundary
+
+() Trees and bushes growing on a boundary are in the common ownership of the neighbours.
+
+§ 151. Boundary constructions
+
+(1) If two immovables are separated from each other by a wall, hedge, ditch, garden bed or other such thing, it is in the joint use of the neighbours regardless of the ownership of the thing.
+
+(2) The use of a thing specified in subsection (1) of this section shall not be contrary to the purpose of the thing or cause damage to a neighbour.
+
+(3) If a thing specified in subsection (1) of this section is used by both neighbours, they shall bear the maintenance expenses equally. If the thing is necessary in the interest of one neighbour, the thing shall not be removed or changed without the consent of the neighbour.
+
+§ 152.  –  § 154. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+3. subdivision  Roads and utility networks and constructions 
+
+§ 155. Public roads
+
+(1) An owner through whose immovable a public road passes shall not hinder or terminate use of the road even if the road is not entered in the land register as a public road.
+
+(2) The owner of an immovable shall observe the restrictions established by law for the shoulder of a public road.
+
+(3) A private road is designated for public use pursuant to the procedure provided by law.
+
+§ 156. Access to public road
+
+() [RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(1) An owner whose immovable lacks a necessary access from a public road or from a separate part of the immovable has the right to demand access over an immovable of another. The location and the term and remuneration for use of the access shall be specified by agreement. Failing agreement, the access and remuneration for use thereof shall be specified by a court. Upon specification of the access, the interests of the owner of the immovable being encumbered shall be considered.
+
+(2) If as a result of a transfer of part of an immovable the transferred or remaining part loses contact with a public road, the owner of the part through which contact was effected previously shall enable the owner of the other part to maintain contact through the owner's immovable under the conditions specified in subsection (1) of this section.
+
+(3) The owner of an immovable does not have the right to demand access if the previous contact with a public road or between parts of the immovable was discontinued at the intention of the owner.
+
+§ 157. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 158. Utility networks and utility works
+
+(1) The owner of an immovable is required to tolerate utility networks and utility works (heating, water supply or sewerage systems, electronic communications or power networks, weak current installations, gaseous fuel installations, electrical installations or pressure assemblies and construction works necessary for servicing thereof) to be built on the owner's immovable on the ground, in the earth and in the airspace if these are necessary for the intended use or management of other immovables, the building thereof is not possible without using the immovable or the building thereof at another location would cause excessive expense.
+
+(2) In the case provided for in subsection (1) of this section, the owner of the immovable may demand from the owner of the other immovable encumbering of the immovable with a real servitude.
+
+(3) The detailed contents of the real servitude, the location of the utility network or utility works, the term and payment shall be determined upon agreement. Failing agreement, the contents of the servitude and if necessary the term and amount of payment shall be specified by a court. Upon establishment of the servitude, the interests of the owner of the immovable being encumbered shall be considered.
+
+(4) If the building or maintenance of a utility network or utility works involves causing of damage to the immovable, the owner of the utility network or utility works is required to eliminate the consequences of the damage or compensate for the damage caused to the owner of the immovable. Decrease in value of an immovable due to the creation of the obligation to tolerate shall not be considered to be damage for the purposes of this provision.
+
+(5) The owner of an immovable may demand from the owner of the utility network or utility works relocation of the utility network or utility works on the immovable of the owner if this is technically possible and the owner of the immovable compensates for the costs related to relocation of the utility network or utility works.
+[RT I 2007, 24, 128 - entry into force 26.03.2007]
+
+§ 158^1. Utility networks and utility works required in public interest
+
+(1) The owner of an immovable is required to tolerate utility networks or utility works on the immovable of the owner and permit the building thereof on the immovable if the utility networks or utility works are required in the public interest and there is no other technically and economically more expedient possibility to connect to utility networks or utility works the consumption site of a person who wishes to connect to the utility networks or utility works or to develop the utility networks or utility works. Utility networks or utility works have been built in public interest if public services are provided through them and these are owned by a person, to whom extends the obligation established in subsection 72 (1) of the Electronic Communications Act, subsections 65 (1) or 66 (1) of the Electricity Market Act, subsection 7 (1) of the Public Water Supply and Sewerage Act or subsection 18 (2) of the Natural Gas Act or who is a network operator within the meaning of the District Heating Act operating in the corresponding area. Upon termination of the contract for the provision of universal services the obligation to tolerate shall not cease in the case that the provision of services offered to all persons through the corresponding utility works is continued pursuant to the general procedure. The obligation to tolerate provided for in this subsection is created pursuant to the procedure provided for in the Immovables Expropriation Act by establishment of compulsory possession.
+
+(2) A person shall not be subject to the obligation to tolerate provided for in subsection (1) of this section if the restriction arising from the utility networks or utility works to the owner of the immovable is significantly greater than the public interest in the utility networks or utility works or the interest of the person who wishes to connect to the utility network in connecting to the utility network and there is a possibility of building the utility network or utility works so that the owner of another immovable is not placed in an equivalent or worse situation.
+
+(3) The provisions of this section do not preclude the creation of the obligation to tolerate pursuant to the procedure provided for in § 158 of this Act.
+[RT I 2007, 24, 128 - entry into force 26.03.2007]
+
+§ 158^2. Making of payment for tolerating utility works
+
+(1) The owner of an immovable has the right to demand payment for tolerating utility networks or utility works provided for in subsection 158^1  (1) of this Act. No payment shall be made for tolerating utility networks or utility works provided for in subsection 158^1  (1) of this Act built on land in state ownership.
+[RT I, 23.04.2012, 1 - entry into force 17.04.2012 - Judgment of Constitutional Review Chamber of Supreme Court declares to be in conflict with the Constitution and repeals as of entry into force of this judgement subsections 15.4 (2)–(4) of the Law of Property Act Implementation Act and the part of the first sentence of subsection 158² (1) of the Law of Property Act "in the amount established in § 15.4 of the Law of Property Act Implementation Act".]
+
+(2) To receive payment for tolerating utility networks or utility works on the bases provided for in subsection (1) of this section the owner of an immovable shall submit a request to the owner of the utility networks or utility works. The format of the request and the procedure for the submission shall be established by the minister responsible for the area.
+[RT I, 29.06.2014, 109 - entry into force 01.07.2014, as of 1 July 2014 "the Minister of Economic Affairs and Communications" substituted with the words "the minister responsible for the area" on the basis of subsection 107³ (4) of the Government of the Republic Act.]
+
+(3) A person has the right to receive payment for the current year if the person was the owner of the corresponding immovable as at 1 March of the same year provided that the person submits a request provided for in subsection (2) of this section by 1 July of the current year.
+
+(4) Payment shall be made on the basis of the request provided for in subsection (2) of this section also in subsequent years until submission of a new request. Upon a change in the circumstances serving as a basis for receiving payment, the right to receive a higher payment arises after submission of an additional request pursuant to the procedure provided for in subsection (3). Upon a change of owners, the new owner becomes entitled to receive payment after submission of the request provided for in subsection (2) in compliance with the time limits provided for in subsection (3).
+
+(5) Payment for the current year shall be made no later than by 1 December of the same year.
+
+(6) In the case of an immovable divided into apartment ownerships, the request specified in subsection (2) of this section may be submitted by the apartment association or the administrator of apartment ownerships. In such case the compensation shall be paid to the apartment association or the administrator of apartment ownerships, who is obliged to pay the corresponding compensation to the apartment owners or set it off against receivable management costs.
+
+(7) The limitation period of a claim for receiving payment is three years. The limitation period commences on 1 July of each year.
+[RT I 2007, 24, 128 - entry into force 26.03.2007]
+
+4. subdivision  Water 
+
+§ 159. Public water bodies
+
+() [Repealed - RT I, 08.07.2014, 3 - entry into force 01.08.2014]
+
+§ 160. Restriction of rights of shore-owner
+
+() [Repealed - RT I, 08.07.2014, 3 - entry into force 01.08.2014]
+
+§ 161. Shore paths
+
+() [Repealed - RT I, 08.07.2014, 3 - entry into force 01.08.2014]
+
+§ 162.  –  § 165. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+5. subdivision  Forest 
+
+[Repealed -  
+								RT I
+								2014-07-08
+								3
+								108072014003
+							 - pub. 01.08.2014] 
+
+§ 166. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 167. Use of forest of another
+
+() [Repealed - RT I, 08.07.2014, 3 - entry into force 01.08.2014]
+
+§ 168. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+6. subdivision  Other restrictions 
+
+§ 169.  –  § 171. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+4. part  SERVITUDES 
+
+8. chapter  REAL SERVITUDES 
+
+1. division  DEFINITION, CREATION AND EXTINGUISHMENT 
+
+§ 172. Definition of real servitude
+
+(1) A real servitude encumbers a servient immovable for the benefit of a dominant immovable such that the actual owner of the dominant immovable is entitled to use the servient immovable in a particular manner or that the actual owner of the servient immovable is required to refrain to a particular extent from the exercise of the owner's right of ownership for the benefit of the dominant immovable.
+
+(2) A real servitude shall not require the owner of the servient immovable to perform any acts except acts which assist in the exercise of the real servitude.
+
+§ 173. Creation of real servitude
+
+(1) A real right contract required for the establishment of a real servitude shall be notarially authenticated.
+
+(2) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(4) An owner may only encumber an immovable encumbered with a right of superficies or usufruct with a real servitude with the consent of the superficiary or usufructuary.
+
+(5) A real servitude cannot be created by prescription.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 174.  –  § 175. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+§ 176. Termination of real servitude on demand of owner of dominant immovable
+
+(1) Failing agreement on termination of a real servitude, the owner of the dominant immovable has the right to demand for good reason that the owner of the servient immovable consent to the termination of the real servitude provided that the owner of the dominant immovable shall compensate the owner of the servient immovable for any damage arising from termination of the servitude.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) The owner of the dominant immovable shall notify the owner of the servient immovable of the termination of a real servitude of an unspecified term or of the premature termination of a real servitude of a specified term six months in advance.
+
+§ 177. Termination of real servitude on demand of owner of servient immovable
+
+(1) If the benefit receivable from a real servitude is unreasonably small in comparison to the encumbrance of the servient immovable, the owner of the servient immovable has the right to demand that the owner of the dominant immovable consent to the termination of the real servitude provided that the owner of the servient immovable shall compensate the owner of the dominant immovable for any damage arising from termination of the servitude.
+
+(2) If the owner of a dominant immovable has lost interest in exercising the rights arising from a real servitude, the owner of the servient immovable has the right to demand that the owner of the dominant immovable consent to the termination of the real servitude. A loss of interest is presumed if the owner of the dominant immovable has not used the real servitude for ten years or if the owner has allowed the use of the servient immovable in a manner which is contrary to the real servitude during the same period.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+2. division  CONTENT 
+
+§ 178. Manner of exercise of real servitude
+
+(1) A real servitude grants the right to perform only those acts which in view of the content of the servitude are necessary in the interests of the dominant immovable. The content of a real servitude shall be determined by agreement of the parties unless otherwise provided by law.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) A real servitude shall be exercised in a manner which is least cumbersome to the servient immovable.
+
+(3) An increase in the needs of the dominant immovable does not in itself increase the encumbrance incumbent on the servient immovable.
+
+§ 179. Exercise of real servitude by means of construction or installation
+
+(1) If a real servitude is exercised on the servient immovable by means of a construction or installation, the owner of the dominant immovable is required to construct and maintain it and upon the extinguishment of the servitude, to remove it at the expense of the owner of the dominant immovable on demand of the owner of the servient immovable unless otherwise provided by law or the transaction establishing the servitude.
+
+(2) If the construction or installation can also be utilised in the interests of the servient immovable, the owners of the dominant and servient immovables shall bear the construction and maintenance expenses corresponding to the received benefit.
+
+(3) If the owner of a servient immovable has a maintenance obligation with respect to a construction or installation, the corresponding provisions concerning real encumbrances apply.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(4) The owner of a dominant immovable has the right to use the servient immovable for performance of construction and maintenance work necessary for use of the servitude.
+
+§ 180. Change in manner of exercise of real servitude
+
+(1) The owner of a servient immovable has the right to demand a change in the manner of exercise of the real servitude at the expense of the owner if the change in the manner of exercise may also achieve the current economic purpose of the real servitude and if the current manner of exercise as compared to the new manner is considerably more prejudicial to the interests of the owner of the servient immovable. The expenses related to the change in the manner of exercise of a servitude shall be paid by the owner of the servient immovable in advance.
+
+(2) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 181. Change of place of exercise of real servitude
+
+(1) If the exercise of a real servitude is confined to use of one part of the servient immovable and some other part is as suitable for such use, and the exercise of the real servitude on the current part as compared to some other part is considerably more prejudicial to the owner of the servient immovable, the owner has the right to demand that the real servitude be exercised on the other part of the immovable. The expenses relating to relocation shall be paid by the owner of the servient immovable in advance.
+
+(2) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 182. Indivisibility of real servitude
+
+(1) A real servitude is indivisible.
+
+(2) If a dominant immovable is divided, the real servitude remains valid for the benefit of all parts. After division of a dominant immovable, exercise of the real servitude is not permitted in the extent where it becomes more encumbering with respect to the servient immovable.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) If after division of a dominant immovable, exercise of the real servitude is confined to the interest of one part, the owner of the servient immovable has the right to demand deletion of the real servitude from the land register with respect to the other parts.
+
+(4) Upon division of a servient immovable, the real servitude remains valid with respect to all parts.
+
+(5) If after division of a servient immovable, the real servitude does not encumber or cannot encumber some of its parts, the owner of an unencumbered part has the right to demand deletion of the real servitude from the land register with respect to the owner's part.
+
+§ 183. Rights of use of one and same ranking
+
+() If several servitudes or a servitude and another right of use which rank equally in the land register encumber an immovable and these rights cannot be fully or partly exercised together, each entitled person may demand exercise of the rights in a manner which most complies with the interests of all entitled persons.
+
+§ 184. Removal of interference with real servitude
+
+() In the event of interference with the exercise of a real servitude, the entitled person shall have the rights specified in § 89 of this Act.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 184^1. Protection of possession of person exercising real servitude
+
+() If the possessor of a dominant immovable is prevented from exercising a servitude entered in the land register for the benefit of the actual owner of the dominant immovable, the provisions concerning protection of possession apply accordingly, provided that the servitude has been exercised at least once within a year before the violation.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 185. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+3. division  INDIVIDUAL REAL SERVITUDES 
+
+§ 186.  –  § 200. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+9. chapter  PERSONAL SERVITUDES 
+
+1. division  USUFRUCT 
+
+1. subdivision  Definition, creation and extinguishment 
+
+§ 201. Definition of usufruct
+
+(1) A usufruct encumbers an immovable in such a way that the person for whose benefit the usufruct is established is entitled to use the immovable and to acquire the fruits thereof.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) A usufruct may be restricted by the exclusion of a particular manner of use.
+
+(4) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 202. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 203. Creation of usufruct
+
+() A real right contract entered into for the establishment of a usufruct shall be notarially authenticated.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 204.  –  § 209. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+§ 210. Extinguishment of usufruct by death of usufructuary
+
+(1) A usufruct extinguishes by the death of the usufructuary unless otherwise provided by law.
+
+(1^1) If a usufruct is established for the benefit of several persons, in the event of death or dissolution of one of the usufructuaries, the shares in the usufruct of the other usufructuaries increase in accordance with their size, unless agreed otherwise.
+
+(2) If the law or a transaction designates that a usufruct shall transfer to a successor of the usufructuary, the usufruct shall remain valid with respect to the successor.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 211. Extinguishment of usufruct with respect to legal person
+
+(1) A usufruct extinguishes upon dissolution of the usufructuary who is a legal person.
+
+(2) A usufruct of a legal person extinguishes in every case after 100 years after creation of the usufruct.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 212. Termination of usufruct
+
+(1) A usufruct may be terminated by agreement of the usufructuary and the owner.
+
+(1^1) A usufructuary has the right to demand termination of the usufruct provided that the usufructuary compensates the owner of the immovable for any damage caused as a result of the termination of the usufruct. A usufructuary shall notify the owner of the immovable of the usufructuary's desire to terminate the usufruct six months in advance.
+
+(2) The owner of an immovable may demand termination of a usufruct if:
+1) the usufruct has lost all importance for the usufructuary;
+2) the damage to the owner is significantly greater than the benefit to the usufructuary;
+3) the usufructuary does not give security to the owner of the immovable (§ 224).
+
+(3) In the cases specified in subsections (1) – (2) of this section, the corresponding provisions concerning termination of a real servitude apply unless otherwise provided by law.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+2. subdivision  Content 
+
+§ 213. Determination of content of usufruct
+
+() The rights and obligations arising from a usufruct shall be determined by law or the transaction which is the basis for the creation of the usufruct.
+
+§ 214. Rights of usufructuary
+
+(1) A usufructuary has the right to possess and use the thing subject to usufruct.
+
+(2) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) A usufructuary has the right to the fruit of the thing.
+
+(4) The natural fruit which ripens and is severed during the usufruct period belongs to the usufructuary.
+
+(5) The civil fruit which is created during the usufruct period belongs to the usufructuary regardless of the time of its collection.
+
+(6) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 215. Prohibition of transfer of usufruct
+
+() A usufruct is not transferable. The rights and obligations arising from a usufruct may be exercised by another person unless otherwise provided by law or the transaction which is the basis for the creation of the usufruct.
+
+§ 216. Return of object of usufruct
+
+() Upon extinguishment of a usufruct, the usufructuary or legal successor thereof is required to return the object of the usufruct to the owner in the state provided for in subsection 218 (1).
+
+§ 217. Division of immovables subject to usufruct
+
+() Upon division of an immovable which is subject to usufruct, the real servitude provisions concerning division of a servient immovable apply (subsections 182 (4) and (5)).
+
+§ 218. Preservation and use of thing
+
+(1) A usufructuary is required to preserve the current economic purpose of a thing and to use the thing in a regular manner and prudently. The usufructuary shall not significantly change or transform the thing.
+
+(2) The rights of a usufructuary with respect to the use of a thing which is subject to usufruct shall not be greater than the rights of the owner.
+
+(3) Pursuant to the procedure provided by law, a usufructuary may use the mineral resources and forest to the extent necessary for regular management of the immovable.
+
+§ 219. Maintenance of thing
+
+(1) A usufructuary is required to maintain a thing which is subject to usufruct at the expense of the usufructuary and to make repairs and renovations necessary for ordinary maintenance of the thing.
+
+(2) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) A usufructuary is not liable for a change of or decrease in value of a thing which accompanies the regular exercise of the usufruct.
+
+§ 220. Notification obligation of usufructuary
+
+(1) If a thing subject to usufruct is damaged, or repairs or renovations which exceed ordinary maintenance are necessary for the preservation of the thing, the usufructuary is required to notify the owner promptly.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) A usufructuary is required to notify the owner if a third person gives notice of the person's right to the thing subject to the usufruct.
+
+§ 221. Disposal of accessories of immovable
+
+(1) A usufructuary has the right to dispose of the accessories of an immovable.
+
+(2) In the case of a decrease or severance of accessories due to regular management of an immovable, the usufructuary is required to replace these things with new ones. Things used to replace accessories transfer into the ownership of the owner of the immovable. If accessories did not belong to the owner of the immovable, the things used to replace the accessories transfer into the ownership of the owner of the replaced accessories.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 222. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 223. Payment obligation of usufructuary and encumbrances
+
+(1) Taxes and debt interest incumbent on the object of a usufruct shall be paid and the encumbrances, management and other expenses shall be borne by the usufructuary according to the duration of the rights of the usufructuary.
+
+(2) If the taxes, encumbrances or expenses are collected from the owner, the usufructuary is required to compensate the owner to the same extent.
+
+§ 224. Right of owner to demand security
+
+() The owner of a thing has the right to demand security from the usufructuary if the danger of a significant violation of the rights of the owner is evident from the activities of the usufructuary.
+
+2. division  PERSONAL RIGHT OF USE 
+
+§ 225. Definition of personal right of use
+
+(1) A personal right of use encumbers an immovable such that the person for whose benefit it is established is entitled to use the immovable in a particular manner or to exercise with respect to the immovable a particular right which in substance corresponds to a real servitude.
+
+(2) In the case of doubt, the extent of personal right of use shall be determined according to the needs of the entitled person.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 226. Transfer of personal right of use
+
+(1) A personal right of use may be transferred to another person with the consent of the owner of the immovable without changing the duration of the personal right of use. The acquirer of a personal right of use and initial holder of the right shall be solidarily liable to the owner of the immovable for the performance of the obligations arising from the personal right of use.
+
+(2) Where the object of a personal right of use is a utility network or construction, consent of the owner of the immovable shall not be required for the transfer or encumbrance of the personal right of use.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 227. Personal right of use in residential building
+
+(1) A personal right of use in a residential building encumbers the immovable such that the person for whose benefit it is established has the right to use the residential building or a part thereof situated on the immovable for habitation.
+
+(2) A person who has the right specified in subsection (1) of this section may house in the residential building members of his or her family and persons who are needed for taking care of him or her.
+
+(3) If a right of use is granted to several persons jointly, the right of use continues as long as any of these persons is alive unless otherwise provided by the basis for the creation of the right of use.
+
+(4) If a right of use is granted in part of a residential building, the entitled person may also use the rooms, furnishings and fixtures designated for common use by the residents.
+
+§ 228. Application of provisions concerning real servitude and usufruct
+
+() In addition to the provisions of §§ 225–227, the corresponding provisions for a real servitude apply to a personal right of use. If a personal right of use is related to possession, the corresponding provisions concerning usufruct apply.
+
+5. part  REAL ENCUMBRANCES 
+
+10. chapter DEFINITION, CREATION AND EXTINGUISHMENT 
+
+§ 229. Definition of real encumbrance
+
+(1) An immovable may be encumbered such that the actual owner of the immovable must pay periodic payments in money or in kind to the person for whose benefit the real encumbrance is established, or perform particular acts.
+
+(2) A real encumbrance may also be established for the benefit of the actual owner of another immovable.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 230. Classification of real encumbrances
+
+(1) A real encumbrance is an encumbrance in public law if it is established pursuant to law for the benefit of the state, a local government or other legal person in public law.
+
+(2) A real encumbrance is an encumbrance in private law if it is established for the benefit of a natural person, a legal person in private law or the actual owner of another immovable.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 231. Creation of real encumbrance
+
+(1) A real right contract entered into for the establishment of a real encumbrance shall be notarially authenticated.
+
+(2) Upon the establishment of a real encumbrance, the monetary value of the real encumbrance shall be determined, if possible, and entered in the land register.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 232. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 233. Termination of real encumbrance on demand of entitled person
+
+() An entitled person may demand termination of a real encumbrance and its redemption by an obligated person if:
+1) the encumbered immovable is divided and thereby the rights of the entitled person are considerably damaged; or
+2) the obligated person considerably decreases the value of the encumbered immovable and does not give security for performance of the obligations arising from the real encumbrance; or
+3) the obligated person fails to perform the obligations arising from the real encumbrance for three consecutive years.
+
+§ 234. Termination of real encumbrance on demand of obligated person
+
+(1) An obligated person may demand termination of a real encumbrance by its redemption from the entitled person if:
+1) the entitled person does not perform the agreement which is the basis for the creation of the real encumbrance; or
+2) the real encumbrance has continued for thirty years regardless of a longer term indicated in the land register entry or disallowance of redemption.
+
+(2) If redemption of a real encumbrance is demanded on the basis provided for in clause (1) 2) of this section, one year advance notice shall be given.
+
+(3) Redemption shall not be demanded if the real encumbrance is established for the benefit of a particular natural person, is established pursuant to law or is related to a real servitude.
+
+§ 235. Redemption price
+
+(1) The value of a real encumbrance indicated in the land register entry shall be taken as the basis for specification of the redemption price of the real encumbrance.
+
+(2) If the value of a real encumbrance is not entered in the land register, the entry is insufficient or the monetary value of acts arising from the real encumbrance has changed significantly, the redemption price shall be specified by a court, which shall consider the actual circumstances and deem the duration of the real encumbrance to be thirty years.
+
+§ 236. Expiration of obligation arising from real encumbrance
+
+(1) A real encumbrance is not created by prescription or extinguished by expiration.
+
+(2) Each individual obligation arising from a real encumbrance expires after the same period as the general limitation period of a claim from the date it becomes a personal debt of the obligated person (subsection 239 (1)).
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+11. chapter CONTENT 
+
+§ 237. Connection of real encumbrance to immovable
+
+(1) A real encumbrance transfers to each acquirer of an immovable together with the encumbered immovable regardless of the consent of the acquirer.
+
+(2) A real encumbrance established for the benefit of the actual owner of an immovable shall not be severed from the immovable.
+
+(3) A real encumbrance established for the benefit of a particular person shall not be connected to the immovable.
+
+§ 238. Transferability of real encumbrance
+
+(1) A real encumbrance established for the benefit of a particular person may be transferred to another person if the real encumbrance is transferable by its nature and does not increase thereby.
+
+(2) A real encumbrance is not transferable if an individual obligation arising from the real encumbrance is not transferable.
+
+§ 239. Liability for obligations arising from real encumbrance
+
+(1) An owner is liable with the encumbered immovable for performance of the individual obligations arising from a real encumbrance. The owner of an immovable is also personally liable for the performance of each individual obligation which falls due within the duration of the owner's ownership, unless otherwise agreed.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(1^1) If a financial claim secured by a real encumbrance is not performed, the entitled person has the right to demand compulsory execution pursuant to the procedure provided for in the Code of Enforcement Procedure.
+[RT I 2009, 68, 463 - entry into force 01.01.2010]
+
+(2) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) If an encumbered immovable is divided, the real encumbrance continues to be valid with respect to the individual parts and the owners of the individual parts are solidarily liable for performance of the obligations.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 240. Validity of real encumbrance upon division of dominant immovable
+
+(1) Upon division of an immovable for the benefit of whose actual owner a real encumbrance is established (dominant immovable), the real encumbrance continues to be valid for the benefit of the parts.
+
+(2) If the obligations arising from a real encumbrance are divisible, the real encumbrance shall be divided among the parts specified in subsection (1) of this section according to their size. If the obligations are not divisible, the owners of these parts are solidarily entitled to demand performance.
+
+(3) Upon division of a dominant immovable, the owner of the immovable may specify that the real encumbrance is valid with respect to only one or several parts. The specification shall be entered in the land register.
+
+(4) If the owner of a dominant immovable transfers one part of the immovable without making provision for division of the real encumbrance, the real encumbrance remains valid with respect to the part of the immovable which is retained by the owner.
+
+(5) If due to its nature a real encumbrance is connected to one of the parts created upon division of the immovable, the obligated person may demand extinguishment of the real encumbrance with respect to the other parts.
+
+6. part  RIGHT OF SUPERFICIES 
+
+12. chapter DEFINITION, CREATION AND EXTINGUISHMENT 
+
+§ 241. Definition and extent of right of superficies
+
+(1) An immovable may be encumbered such that the person for whose benefit a right of superficies is constituted has a transferable and inheritable right for a specified term to own a construction permanently attached to the immovable. Only one right of superficies may be established on an immovable.
+
+(2) In addition to the land under a construction, a right of superficies extends to the part of the immovable which is necessary for use of the construction.
+
+(3) The extent of a right of superficies shall not be confined to one part of the construction, such as a storey.
+
+(4) The provisions concerning immovables apply to a right of superficies unless otherwise provided by law.
+
+(5) A construction which is constructed on the basis of a right of superficies or exists at the time of its constitution and to which the right of superficies extends is an essential part of the right of superficies.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 242. Establishment and transfer of right of superficies
+
+(1) A transaction by which the establishment or transfer of a right of superficies is undertaken shall be notarially authenticated.
+
+(2) A real right contract entered into for the establishment or transfer of a right of superficies shall be notarially authenticated.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 243. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 244. Termination of right of superficies by agreement
+
+() Consent of the owner of the immovable is required for termination of a right of superficies. Consent shall be given to a land registry department or the holder of the right of superficies (superficiary). Consent cannot be withdrawn.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 244^1. Reversion of right of superficies
+
+(1) If a superficiary has not erected the required construction within the term set upon the establishment of the right of superficies or if a superficiary materially violates contractual obligations thereof, the owner of the immovable has the right to demand that the superficiary consent to entry of the right of superficies in the name of the owner (reversion).
+
+(2) The right of an owner to demand entry of a right of superficies in the name of the owner shall not be separate from the immovable.
+
+(2^1) Instead of demanding entry of the right of superficies in the name of the owner, the owner may demand transfer of the right of superficies to a person designated by the owner.
+
+(3) The limitation period of the claim specified in subsection (1) of this section expires six months after the date the owner of the immovable became aware of the existence of the relevant prerequisite, however, not later than two years after the creation of the claim.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 244^2. Compensation for right of superficies
+
+(1) Upon reversion of a right of superficies, the owner shall pay compensation to the superficiary. The content of a right of superficies may be an agreement concerning the amount of compensation and method of payment or preclusion of compensation. If the amount of compensation is not agreed upon, the amount shall be deemed to equal the usual value of the right of superficies.
+
+(2) If a right of superficies is established for the erection of a residential building, no agreement shall be made for the payment of compensation in an amount less than two thirds of the usual value of the right of superficies.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 244^3. Preservation of encumbrance
+
+(1) Upon the reversion of a right of superficies, the following encumbrances incumbent on the right of superficies are preserved:
+1) a mortgage or real encumbrance which does not belong to the superficiary;
+2) other restricted real right which encumbers an immovable also encumbered by the right of superficies.
+
+(2) Other real rights incumbent on a right of superficies become invalid.
+
+§ 245. Extinguishment of right of superficies upon acquisition by owner of immovable
+
+(1) If one and the same person becomes the owner of a right of superficies and the plot of land, the right of superficies shall be deleted from the land register on the basis of the application of the person. Until deletion of the entry, the right of superficies continues as a real right unless the owner submits an application for the deletion of the right of superficies.
+
+(2) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 246. Preservation of right of superficies upon destruction of construction
+
+() A right of superficies does not extinguish by destruction of the construction.
+
+13. chapter CONTENT OF RIGHT OF SUPERFICIES 
+
+§ 247. Exercise of rights of superficiaries
+
+(1) A superficiary shall not violate the rights of the owner of the encumbered immovable in the exercise of the superficiary's rights.
+
+(2) A superficiary shall ensure the preservation of the construction unless otherwise agreed by the superficiary and the owner of the immovable.
+
+§ 248. Prohibition of restriction of right of superficies
+
+(1) A right of superficies shall not be restricted by conditions which are contrary to the nature of the lease.
+
+(2) A right of superficies shall not be established with a resolutive condition. Any agreement whereby the extinguishment of a right of superficies is bound to a resolutive condition and any agreement whereby the extinguishment of a right of superficies is bound to the death of the superficiary is void.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 249. Disposal of right of superficies
+
+(1) A superficiary has the right to transfer or bequeath a right of superficies or to encumber it with real security, a servitude, a real encumbrance or a right of pre-emption. A right of superficies shall not be encumbered with another right of superficies.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(1^1) The consent of the owner is required for transfer of a right of superficies if such condition is entered in the land register. The owner may also establish, as a condition for the grant of consent, that all agreements under the law of obligations entered into between the owner and the superficiary are assumed by the acquirer of the right of superficies.
+
+(2) The consent of the owner is required for encumbrance of a right of superficies with a real right if such condition is entered in the land register.
+
+(3) [Repealed]
+
+(4) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 249^1. Granting consent
+
+(1) If in the case provided for in subsection 249 (1^1 ) it may be presumed that the objective sought by the constitution of the right of superficies is not essentially changed or endangered and that the acquirer ensures proper performance of the obligations arising from the content of the right of superficies, the superficiary may demand that the owner grant consent for the transfer of the right of superficies.
+
+(2) If in the case provided for in subsection 249 (2) it may be presumed that the encumbrance may be integrated with regular management and that the objective sought by the constitution of the right of superficies is not essentially changed or endangered, the superficiary may demand that the owner grant consent for the encumbrance of the right of superficies.
+
+(3) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 250. Ranking of right of superficies
+
+() A right of superficies may only be constituted with a first ranking in the land register. Other real rights or notations shall not have the same ranking as a right of superficies.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 251. Term of right of superficies
+
+(1) A right of superficies may only be established for a certain term but for not more than 99 years.
+
+(2) If the term is unspecified or more than 99 years, the term shall be deemed to be 99 years.
+
+(3) After the term has elapsed, the owner of an immovable and the superficiary may extend the right of superficies by agreement but for not more than 99 years. Extension of the right of superficies shall be entered in the land register.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 252. Fate of construction upon end of term of right of superficies
+
+(1) A superficiary has the right to remove the superficiary's construction within one year before the due date of the right of superficies unless the owner of the immovable uses the right specified in subsection (3) of this section. If the owner of the immovable presents a demand for removal not later than four months before the end of term, the superficiary is required to do so.
+
+(2) A construction which is not removed by the end of term becomes an essential part of the immovable and transfers into the ownership of the owner of the immovable. If the owner of the immovable presents a demand for removal in time, the owner of the immovable may demand payment for removal of the construction from the superficiary if the owner of the construction removes it within one year after the end of term.
+
+(3) The owner of an immovable has the right to demand, not later than one year before the due date, that the construction be left to the owner of the immovable for payment equal to the damage arising to the superficiary from the loss of the right of removal specified in subsection (1) of this section.
+
+(4) The provisions of subsections (1) – (3) of this section are valid insofar as the entry in the land register does not specify otherwise.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 253. Compensation upon end of term of right of superficies
+
+(1) If a right of superficies extinguishes due to expiry of its term, the owner of the immovable shall pay the superficiary compensation for the construction which remains on the immovable. Upon the establishment of a right of superficies, agreement may be made concerning the amount of compensation and method of payment or preclusion of compensation. If the amount of compensation is not agreed upon, the amount shall be deemed to equal the usual value of the right of superficies.
+
+(1^1) If a right of superficies is established for the erection of a residential building, no agreement shall be made for the payment of compensation in an amount less than two thirds of the value of the right of superficies.
+
+(2) The owner of the immovable shall be relieved of the obligation to pay compensation if the owner of the immovable extends the term of the right of superficies to the end of the period of the presumed life of the construction. If the superficiary does not consent to extension of the term, the superficiary loses the right to compensation.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 254. Payment for right of superficies
+
+(1) A superficiary shall make a payment for the right of superficies to the owner of the immovable unless otherwise agreed.
+
+(2) The payment for a right of superficies shall be made according to an agreement in money or other fungible things such that upon constitution of the right of superficies, the amount of payment or the bases for calculation of the amount of payment may be specified in advance for the whole term of the right of superficies.
+
+(3) A change in the amount of payment payable for a right of superficies according to changing conditions may be agreed to upon the constitution of the right of superficies if the time and extent of change of the conditions can be determined.
+
+(4) The payment obligation for a right of superficies may be entered in the land register as a real encumbrance.
+
+(4^1) The consent of the lower ranking owners in the land register is required for the change of a real encumbrance established to secure the right of superficies payment due to a change in the amount of payment payable for the right of superficies pursuant to subsection (3) of this section only if the increase in the payment significantly exceeds the change of the conditions.
+
+(4^2) It may be agreed concerning the right of superficies payment that:
+1) differently from the provisions of subsection 158 (3) of the Code of Enforcement Procedure, the real encumbrance established to secure payment shall be preserved if the owner on the basis of a real encumbrance or another person with a restricted real right of a higher or same ranking claims payment for the right of superficies;
+2) the actual superficiary has the right with regard to the actual owner of the real encumbrance to encumber the right of superficies with a mortgage of a determined extent of the same or higher ranking.
+
+(4^3) If a right of superficies is encumbered with a restricted real right of the same ranking with the real encumbrance established to secure the right of superficies payment, the consent of the person for whose benefit the restricted real right is established is required for entry in the land register of the mortgage specified in clause (4^2 ) 2) of this section.
+
+(5) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(6) The co-owners of a right of superficies are solidarily liable for the right of superficies payment.
+[RT I 2005, 39, 308 - entry into force 01.01.2006]
+
+§ 255. Taxes and encumbrances
+
+() All taxes incumbent on a plot of land encumbered with a right of superficies shall be paid and real encumbrances in public law shall be borne by the superficiary, unless otherwise agreed.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 255^1. Agreements
+
+() The content of the right of superficies also includes the agreements between the owner and superficiary concerning:
+1) the construction, maintenance and use of a construction;
+2) the insurance of a construction and its reconstruction in the case of its destruction;
+3) the obligation of the superficiary to pay contractual penalties;
+4) the obligation of the superficiary to transfer, upon the arrival of a corresponding prerequisite, the right of superficies to the owner;
+5) the compensation to be paid to the superficiary for the construction upon the extinguishment of the right of superficies or upon the reversion of the right of superficies;
+6) the bearing of encumbrances in public law and private law and payment of taxes;
+7) the grant of preferential right to the superficiary to renew the right of superficies after its extinguishment;
+8) the obligation of the owner of the immovable to sell the immovable to its actual superficiary.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+7. part  RIGHT OF PRE-EMPTION 
+
+14. chapter DEFINITION, CREATION AND EXTINGUISHMENT 
+
+§ 256. Definition of right of pre-emption
+
+(1) An immovable may be encumbered with a right of pre-emption relating to real rights.
+
+(2) A right of pre-emption may be established for the benefit of a particular person or the actual owner of another immovable.
+
+(3) A legal share of an immovable may be encumbered with a right of pre-emption only if it is the share of a co-owner.
+[RT I 2003, 78, 523 - entry into force 27.12.2003]
+
+§ 257. Establishment and meaning of right of pre-emption
+
+(1) A transaction by which the establishment of right of pre-emption is undertaken shall be notarially authenticated.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) A real right contract required for the establishment of right of pre-emption shall be notarially authenticated.
+
+(3) Right of pre-emption entered in the land register has the same legal force with regard to third persons as a preliminary notation securing a claim for the transfer of ownership. Right of pre-emption with respect to an immovable which is created pursuant to law and with regard to which a notation has been entered in the land register, and the right of pre-emption of a co-owner of an immovable have the same legal force.
+
+(4) The provisions of the Law of Obligations Act concerning right of pre-emption apply to relationships between an owner and a person with the right of pre-emption, unless otherwise provided by this Act.
+
+(5) [Repealed - RT I 2005, 39, 308 - entry into force 01.01.2006]
+
+§ 258. [Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002]
+
+§ 259. [Repealed - RT I 2003, 78, 523 - entry into force 27.12.2003]
+
+§ 260. Restrictions on transfer of right of pre-emption
+
+(1) A right of pre-emption established for the benefit of the actual owner of an immovable shall not be severed from the immovable.
+
+(2) A right of pre-emption established for the benefit of a particular person shall not be connected to any other immovable.
+
+(3) The right of pre-emption established for the benefit of a particular person is not transferable or inheritable.
+
+15. chapter CONTENT 
+
+§ 261. [Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002]
+
+§ 261^1. Rights of purchaser
+
+(1) A purchaser or the legal successor of a purchaser may refuse to grant their consent to entry of a person with the right of pre-emption in the land register as an owner and to transfer the immovable until the purchaser or the legal successor of a purchaser is compensated for the purchase price paid.
+
+(2) After entry of a person with the right of pre-emption in the land register as an owner, a purchaser may refuse to transfer the immovable until the purchaser is compensated for the purchase price paid by the purchaser.
+[RT I 2002, 53, 336 - entry into force 01.07.2002]
+
+§ 261^2. Payment of purchase price
+
+() If, pursuant to § 261^1  of this Act, a person with the right of pre-emption is required to pay the purchase price to a purchaser or the legal successor of a purchaser, the person with the right of pre-emption is released from the obligation to pay the purchase price to the seller.
+[RT I 2002, 53, 336 - entry into force 01.07.2002]
+
+§ 261^3. Release of purchaser from obligation to pay purchase price
+
+() If a purchaser or the legal successor of a purchaser loses immovable property ownership due to the exercise of right of pre-emption, the purchaser or the legal successor shall be released from the obligation to pay the purchase price. A purchaser may request that a seller repay the purchase price already paid only if the purchaser withdraws from the contract of sale.
+[RT I 2002, 53, 336 - entry into force 01.07.2002]
+
+§ 261^4. Right of pre-emption upon division of immovable
+
+() Upon the division of an immovable, the right of pre-emption remains with respect to each immovable created as a result of the division.
+[RT I 2002, 53, 336 - entry into force 01.07.2002]
+
+§ 262.  –  § 275. [Repealed - RT I 2002, 53, 336 - entry into force 01.07.2002]
+
+
+
+8. part  RIGHT OF SECURITY 
+
+16. chapter GENERAL PROVISIONS 
+
+§ 276. Definition and classification of pledge
+
+(1) A thing may be encumbered with a pledge (right of security) such that the person for whose benefit the pledge is established has the right to satisfaction of the claim secured by the pledge out of the pledged property, unless the claim is appropriately performed.
+
+(2) A pledge is security over movables or real security.
+
+§ 277. Object of pledge
+
+(1) Things and proprietary rights the pledging of which is not prohibited by law may be pledged (object of pledge).
+
+(2) Property for which a claim for payment is not permitted by law shall not be pledged.
+
+(3) Several pledges may be established on one and the same object of pledge for the benefit of one or several creditors unless otherwise provided by law or a pledge contract.
+
+(4) A co-owner's legal share in a thing may only be encumbered as a whole.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 278. Pledgor
+
+() A debtor or a third person may be a pledgor.
+
+§ 279. Claim secured by pledge
+
+(1) Any claim which can be valuated in money may be secured by a pledge.
+
+(2) A conditional claim may also be secured by a pledge.
+
+(3) A future claim may be secured by a pledge.
+
+(4) Collateral claims relating to a claim, including interest and penalties, are also secured by a pledge unless otherwise provided by law or a contract.
+
+(5) A transaction which is entered into after the establishment of a pledge and by which the liability of the debtor of the claim secured by the pledge is increased is not valid with regard to the owner of the thing encumbered with the pledge, unless otherwise provided by a contract.
+
+(6) Procedure expenses, expenses relating to the sale of the thing and expenses necessary for the preservation of a pledged object which are incurred by the pledgee are also secured by the pledge.
+[RT I 2005, 39, 308 - entry into force 01.01.2006]
+
+(7) A pledgor who is not the debtor may present the same objections against a claim secured by the pledge which may be presented by the debtor or a surety. The pledgor may also present objections if the debtor does not contest the claim.
+[RT I, 06.12.2010, 1 - entry into force 05.04.2011]
+
+§ 280. Preference of claim secured by pledge
+
+() A claim secured by a pledge shall be preferred to all other claims with respect to the pledged property unless otherwise provided by law.
+
+17. chapter SECURITY OVER MOVABLES 
+
+1. division  POSSESSORY PLEDGE 
+
+1. subdivision  Definition, creation and extinguishment 
+
+§ 281. Definition of possessory pledge
+
+(1) A movable may be encumbered with a pledge such that the pledged thing is transferred into the possession of the pledgee and the establishment of a possessory pledge is agreed upon. A thing may also be encumbered by a pledge so that the thing is transferred to a third person and the pledgee obtains indirect possession of the pledged thing.
+
+(2) The provisions concerning possessory pledges apply correspondingly to any right of security over movables which is created pursuant to law, unless otherwise provided by law.
+
+(3) If a movable is encumbered with several rights of security, the rankings of the rights of security shall be specified according to the time of creation of the rights of security.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 282. Creation of possessory pledge
+
+(1) A possessory pledge is created by transfer of possession of a thing from the pledgor to the pledgee if they have agreed on the establishment of the pledge. If the thing is already in the possession of the pledgee, a pledge is created by entering into a pledge contract.
+
+(1^1) A possessory pledge is not created if, upon establishment of a possessory pledge on the thing encumbered with the pledge, the pledgee obtains common possession together with the owner of the thing encumbered with the pledge.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(1^2) Upon the pledging of a thing for which a document of title has been issued, transfer of the document of title is deemed to equal transfer of the possession of the thing.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) An agreement for establishment of a pledge (possessory pledge contract) shall be entered into in writing if the value of the pledged thing exceeds 50 euros.
+[RT I 2010, 22, 108 - entry into force 01.01.2011]
+
+(3) Several possessory pledges shall not be established on the same movable.
+
+§ 282^1. Acquisition of right of security in good faith
+
+(1) A pledgee also obtains a right of security in the cases specified in § 282 of this Act if the pledgor was not entitled to establish a pledge, unless the pledgee did not act in good faith upon encumbrance of the object with a right of security.
+
+(2) A pledgee acted in bad faith if the pledgee knew or ought to have known upon encumbrance of an object with a right of security that the pledgor had no right to encumber the object with a pledge.
+
+(3) Acquisition of a right of security in good faith pursuant to subsection (1) of this section is not effected if a thing is stolen, lost or dispossessed in any other manner from the owner against the will of the owner. This provision does not apply to the pledging of bearer securities.
+
+(4) If a pledged thing is encumbered with the right of a third person, the right of security obtains a higher ranking than that right, unless the pledgee knew or ought to have known about the existence of the right at the moment of obtaining the right of security.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 283. Possessory pledge on several things
+
+(1) Upon establishment of a possessory pledge on several things, the entire claim is secured by each thing.
+
+(2) A pledgee may claim payment for the pledged thing at the pledgee's discretion unless otherwise provided by the pledge contract.
+
+§ 284. Extinguishment of possessory pledge by termination of claim
+
+() A possessory pledge extinguishes by termination of the secured claim.
+
+§ 285. Extinguishment of possessory pledge by destruction of movable
+
+(1) A possessory pledge extinguishes by destruction of the pledged movable.
+
+(2) If a pledged thing was insured, the pledgee has the right to take possession of the insurance proceeds in the case of complete or partial destruction of the thing. Insurance proceeds shall be deposited on the demand of the pledgor.
+
+(3) In the event of complete or partial destruction of a pledged object, the pledgee may demand that the owner of the pledged object transfer or deposit that which is acquired in compensation for the destruction of the object.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 286. Other bases for extinguishment of possessory pledge
+
+() A possessory pledge extinguishes if:
+1) one and the same person becomes the pledgee and the owner of the pledged thing, unless the owner has legitimate interest in the continuation of the right of security;
+2) the pledged thing is no longer in the possession of the pledgee and the pledgee cannot reclaim the thing;
+3) the pledgee returns the pledged thing to the pledgor or notifies the pledgor of discharge of the pledge;
+4) a third person specified in subsection 281 (1) of this Act return the pledged thing to the pledgor.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+2. subdivision  Content 
+
+§ 287. Obligations of pledgee upon safe-keeping of pledged thing
+
+(1) A pledgee is required to:
+1) preserve and maintain the pledged thing;
+2) notify promptly the pledgor of a danger of destruction of the thing.
+3) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) The expenses for preservation and maintenance of a pledged thing shall be borne by the pledgor unless otherwise provided by the pledge contract.
+
+(3) If the pledgee violates the obligations in safe-keeping the pledged thing, the pledgor has the right to satisfy the claim and demand return of the pledged thing.
+
+§ 288. Right of pledgee to use pledged thing
+
+(1) A pledgee does not have the right to use a pledged thing unless otherwise provided by the pledge contract.
+
+(2) A pledgee who uses a pledged thing is required to report on it to the pledgor pursuant to the procedure provided by the pledge contract.
+
+(3) The income received from use of a pledged thing shall be calculated to cover expenses, interest and the debt unless otherwise provided by the contract.
+
+§ 289. Transfer of possessory pledge together with claim
+
+(1) Upon transfer of a claim to a new creditor, a possessory pledge also transfers to the new creditor and the new creditor has the right to claim the pledged thing from the pledgee.
+
+(2) By taking possession of a pledged thing, the rights and obligations of the current pledgee transfer to the new pledgee.
+
+(3) If upon transfer of a claim it is agreed that a possessory pledge will not transfer, the possessory pledge extinguishes.
+
+(4) A possessory pledge shall not transfer without a claim.
+
+(5) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 290. Return of pledged thing
+
+() Upon extinguishment of a possessory pledge, the pledgee is required to return the pledged thing to the pledgor.
+
+§ 291. Transfer of claim to pledgor
+
+() If a debt is paid by the pledgor who is not the debtor, the claim transfers to the pledgor to the extent that the claim is satisfied. In this case, the provisions concerning surety apply.
+
+§ 292. Creation of right of sale for pledgee
+
+(1) Satisfaction of a claim of a pledgee is effected by sale of the pledged thing.
+
+(2) The right to sell a pledged thing is created for the pledgee if a claim secured by the pledge is not satisfied according to the claim.
+
+(3) Any agreement entered into before the creation of the right of sale whereby the pledgee acquires the pledged thing for satisfaction of a claim secured by the pledge is void.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 293. Notification of sale
+
+(1) A pledgee is required to notify the pledgor of the sale of the pledged thing one month in advance. Advance notice may be given after creation of the right of sale.
+
+(2) Notification specified in subsection (1) of this section may be waived if notification is impossible. In such case, the pledged thing shall not be sold before one month has passed since creation of the right of sale.
+
+(3) The term specified in subsections (1) and (2) of this section may be disregarded if the pledged object is in danger of perishing and any delay in selling would obviously result in a decrease in the value of the thing or destruction of the thing.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 294. Sale of pledged thing
+
+(1) A pledged thing is sold by public auction.
+
+(2) The time and place of the public auction shall be made known to the pledgor and third persons who have rights in the pledged thing.
+
+(3) The pledgee and the pledgor may also participate in the public auction. If the thing is sold to the pledgee, the monetary value of the pledgee's claim shall be set off against the selling price.
+
+(4) The pledgee and the pledgor may agree to sell the pledged thing in a manner different from that specified in subsection (1) of this section. If a third person has a right in the pledged thing which extinguishes upon sale of the thing, the consent of the third person is required to change the manner of sale.
+
+(5) A pledgee who violates an agreement regarding the manner of sale of the pledged thing is liable for damage arising therefrom.
+
+§ 295. Money received from sale of pledged thing
+
+(1) The obligation of a pledgor shall be deemed performed to the extent of the money received from a sale of the pledged thing from which the necessary sale expenses have been deducted.
+
+(2) The money remaining after payment of the sale expenses and satisfaction of the claim of the pledgee shall be returned to the pledgor.
+
+§ 296. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+2. division  REGISTERED SECURITY OVER MOVABLES 
+
+1. subdivision  General provisions 
+
+§ 297. Definition of registered security over movables
+
+(1) A patent, trade mark, industrial design, utility model, variety, layout-design of an integrated circuit, motor vehicle or aircraft which is entered in a register the data of which are public and maintenance of which is regulated pursuant to the procedure provided by law may be encumbered with a registered security over movables in such a way that the person in whose benefit the registered security over movables is established has the right to satisfaction of the claim secured by the pledge out of the pledged object.
+
+(2) A legal share in a pledged object specified in subsection (1) of this section can only be encumbered with a registered security over movables if it is the share of a co-owner.
+
+(3) A registered security over movables does not presume the existence of a claim to be secured.
+[RT I 2004, 20, 141 - entry into force 22.04.2004]
+
+§ 297^1. Information entered in register
+
+() Only the information provided by law is entered in the register with regard to the registered security over movables.
+[RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 297^2. Judicial registered security over movables
+
+(1) To secure an action, a court may establish a registered security over movables to the extent of the claim of the action which shall be entered in the register as a judicial registered security over movables. The provisions concerning a registered security over movables apply to the judicial registered security over movables.
+
+(2) A judicial registered security over movables secures a claim satisfied on the basis of a judgment.
+
+(3) A judicial registered security over movables is entered in the register pursuant to the general procedure.
+
+(4) The provisions concerning judicial mortgages apply to judicial registered securities over movables unless otherwise provided by law.
+[RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 297^3. Making of entry in register
+
+(1) For establishment of a registered security over movables, for amendment of its content or termination thereof, an entry shall be made in the register on the basis of an application. An application is unilateral and it expresses the desire for an entry to be made in the registry. An application may also be contained in a real right contract.
+
+(2) If for making an entry, an application or consent of a person is needed, such application or consent may be replaced by a court decision which has entered into force and is subject to immediate execution and which establishes the obligation of the person to facilitate the making of the entry, or establishes a legal relationship based on which the entry must be made.
+
+(3) In the cases provided by law, an entry is ex officio made without an application.
+[RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 298. Application of maritime mortgage provisions
+
+(1) The provisions of Chapter 1 of Part III of the Law of Maritime Property Act concerning maritime mortgages apply to registered securities over movables unless otherwise provided by law.
+
+(2) The provisions of §§ 15–17 and 19–22, subsection 28 (2) and §§ 43, 44, 46, 48, 50, 53 and 60–66 of Chapter I of Part III of the Law of Maritime Property Act do not apply to registered securities over movables.
+[RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 299. Creation of registered security over movables
+
+(1) For creation of a registered security over movables, an agreement between the holder of the pledged object and the pledgee concerning encumbrance of the object with a registered security over movables and the making of an entry concerning the pledging in the corresponding register is required.
+
+(2) Upon registration, the pledgee and the monetary value of the registered security over movables shall be entered in the register.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 299^1. Extinguishment of registered security over movables
+
+(1) A registered security over movables extinguishes by agreement of the holder of the object encumbered with a registered security over movables and the pledgee and upon deletion of the entry made with regard to the registered security over movables.
+
+(2) A registered security over movables does not extinguish upon deletion of the pledged object from the register unless otherwise provided by law.
+[RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 299^2. Deletion of pledged object from register
+
+(1) The registrar notifies the pledgee immediately of deletion of the pledged object from the register.
+
+(2) Upon deletion of the pledged object from the register the registrar makes a notation under the registered security over movables concerning the deletion of the pledged object.
+[RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 300. Ranking of registered security over movables
+
+(1) The ranking of a registered security over movables is determined by the time of entry in a register.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) If the applications for registration of pledges established on one and the same object are submitted concurrently, they shall be granted the same ranking and it shall be entered in the corresponding register.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) The provisions of subsections (1) and (2) of this section do not apply if the persons concerned have agreed on a different relationship between the ranking of rights and an entry has been made in the register concerning such agreement.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(4) The provisions of § 60 of this Act apply correspondingly to changes in the ranking of registered securities over movables.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(5) An agreement entered into between the holder of a pledged object and the pledgee upon the establishment of a registered security over movables whereby the holder has the right to establish a right on the pledged object the extent of which is determined and the ranking of which is higher than the ranking of the registered security over movables is valid only if an entry concerning the agreement has been made in a register.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(6) [Repealed - RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 300^1. Amendment of entry
+
+(1) Written consent of the registrar is required for amendment or deletion of an entry made with regard to a registered security over movables unless otherwise provided by law.
+
+(2) The provisions of subsection 65 (1) of this Act apply upon amendment or deletion of incorrect entries.
+[RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 300^2. Partial registered security over movables
+
+(1) A registered security over movables may be divided into parts.
+
+(2) An entry in the register is required for the division of a registered security over movables. An entry shall be made on the basis of an application of the pledgee, unless otherwise provided by law.
+
+(3) Partial registered securities over movables have the ranking of the divided registered security over movables.
+
+(4) Partial registered securities over movables are equal between themselves and have the same ranking unless otherwise provided by law or an entry.
+[RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 300^3. Transfer of registered security over movables
+
+() Written consent of the pledgee and an entry in the register are required for transfer of a registered security over movables.
+[RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 300^4. Discharge of registered security over movables
+
+(1) If a pledgee discharges the registered security over movables, it is acquired by the holder of the object encumbered with the registered security over movables. For discharge of a registered security over movables, the pledgee shall submit a written application to the register on the basis of which an entry shall be made in the register.
+
+(2) If a pledgee partially discharges the registered security over movables, the holder of the object encumbered with the registered security over movables acquires the respective part of the registered security over movables. Exercise of the rights which arise from the partial registered security over movables which is transferred to the holder of the object encumbered with the registered security over movables shall not damage the interests of the pledgee.
+[RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 300^5. Pledging of registered security over movables
+
+(1) A registered security over movables is pledged as a whole.
+
+(2) Provisions concerning the pledge of claims apply to the pledge of a registered security over movables.
+[RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 301. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 302. Satisfaction of claims of pledgees
+
+(1) If a claim secured by a registered security over movables is not performed, the pledgee has the right to demand compulsory execution by compulsory auction.
+
+(2) Any agreement entered into before a claim secured by a registered security over movables falls due whereby the pledgee acquires the object encumbered with the registered security over movables for satisfaction of the claim secured by the registered security over movables is void.
+
+(3) An object encumbered with a registered security over movables is sold by public auction pursuant to the procedure provided by law on the basis of an execution document, unless otherwise provided by law.
+
+(4) Claims are satisfied according to the ranking of pledges unless otherwise provided by law.
+
+(5) Claims secured by pledges with one and the same ranking are satisfied in proportion to the amount of the claims.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 303. Access to registered security over movables
+
+() Everyone has the right to examine information entered in the register concerning registered security over movables.
+
+§ 304. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 305. [Repealed - RT I 2009, 30, 178 - entry into force 01.10.2009]
+
+§ 306. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+2. subdivision  Pledge of means of transport 
+
+§ 307.  –  § 308. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003] 
+
+
+
+3. subdivision  Commercial pledge 
+
+§ 309. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 310.  –  § 312. [Repealed]
+
+
+
+4. subdivision  Pledge of intellectual property 
+
+§ 313. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+3. division  PLEDGE OF RIGHTS 
+
+[
+							RT I
+							2003
+							13
+							64
+							252549
+						 - pub. 01.07.2003] 
+
+§ 314. Rights as object of pledge
+
+(1) A proprietary right may be the object of a pledge if it is transferable.
+
+(2) The provisions of possessory pledge apply to the pledge of rights unless otherwise provided by law. The provisions of subsection 282 (3) of this Act do not apply to the pledge of rights.
+
+§ 314^1. Financial collateral
+
+(1) Encumbrance of a right of claim to money in an account, securities or a credit claim with the right of security is deemed to be financial collateral if the collateral provider and the collateral taker each are one of the following persons or organisations:
+1) a person or agency specified in clause 6 (2) 1) or 2) of the Securities Market Act;
+2) a person or organisation specified in paragraph 2 (b) or (d) of Article 1 of the Directive 2002/47/EC of the European Parliament and of the Council on financial collateral arrangements (OJ L 168, 27.06.2002, p. 43–50);
+3) a linked system operator specified in subsection 213^1  (1) of the Securities Market Act;
+4) an operator of a securities settlement system specified in subsection 214 (2) of the Securities Market Act;
+5) another person or organisation similar to the persons specified in clauses 1) – 4) of this subsection provided that the person has the right to be a collateral provider or a collateral taker according to legislation of a Contracting Party to the EEA or the EU.
+
+(2) Encumbrance of a right of claim to money in an account, securities or a credit claim with the right of security is deemed to be financial collateral also if one party to the transaction is a person or organisation specified in clauses (1) 1)–5) of this section and the collateral provider or the collateral taker is a company which according to its latest annual report or consolidated accounts meets at least two of the following criteria:
+1) an average number of employees of the company during the financial year is more than 250;
+2) the annual balance sheet total of the company exceeds 43 million euros;
+3) the annual turnover of the company exceeds 50 million euros.
+
+(3) Only securities specified clauses 2 (1) 1)–5) and 7) of the Security Market Act and in subsection (3) of the same section as well as other rights or claims related to the above securities may be encumbered with financial collateral provided that the securities or the rights or claims related to the securities are expressed and transferred only by the making of a registry entry within the meaning of subsection 917 (2) of the Law of Obligations Act.
+
+(4) A credit claim within the meaning of this Act is a claim which arises from a loan or credit issued by a credit institution or by a person or an organisation specified in Article 2 of the Directive 2006/48/EC of the European Parliament and of the Council relating to the taking up and pursuit of the business of credit institutions (OJ L 177, 30.06.2006, p. 1–200), except for a claim which arises from a consumer credit contract or a credit contract with a micro or small-sized undertaking. An undertaking is deemed to be a micro or small-sized undertaking if an average number of employees of the undertaking during the financial year is less than 50 and the annual balance sheet total or annual turnover of the undertaking does not exceed 10 million euros
+
+(5) Transfer of a right of claim to money in an account, securities or a credit claim to a person or organisation specified in subsection (1) or (2) of this section in order to provide collateral on the bases provided for in the Law of Obligations Act and in conformity with the provisions of subsection 314^2  (1) of this Act is also deemed to be financial collateral
+[RT I, 29.06.2011, 1 - entry into force 30.06.2011]
+
+§ 314^2. Provision of financial collateral
+
+(1) Entry into a financial collateral agreement shall be evidenced in writing or in another legally equivalent form and the manner of providing financial collateral shall enable the collateral taker to control the object of financial collateral. Violation of the provisions of the first sentence of this subsection does not influence the validity of the financial collateral agreement.
+
+(2) Upon providing credit claims as financial collateral on the basis of § 314^1  of this Act the collateral taker shall be presented with a list of credit claims provided as collateral in writing.
+
+(3) The provisions of subsection 315 (3) of this Act and § 168 of the Law of Obligations Act do not apply upon providing credit claims as financial collateral. If a pledgee needs additional information to file a claim against the debtor, the pledgor shall provide the pledgee with necessary information, if possible.
+
+(4) The right of the collateral provider to replace financial collateral, to withdraw excess financial collateral or in the case of credit claims the right to interests and other accessory claims does not influence the validity of the financial collateral provided for the benefit of the collateral taker.
+[RT I, 29.06.2011, 1 - entry into force 30.06.2011]
+
+§ 314^3. Disposal of financial collateral
+
+(1) A pledgee may dispose of the object of financial collateral on the basis of a financial collateral agreement, except for credit claims.
+
+(2) If a pledgee exercises the right to dispose of an object of financial collateral granted thereto under a financial collateral agreement, the pledgee is required to replace the original object of financial collateral with an equivalent object not later than when the claim secured by the financial collateral becomes collectable, whereas money shall be replaced by money in the same currency and a security shall be replaced by a security of the same issuer, forming part of the same issue or class and of the same nominal amount, currency and description, unless the parties have agreed otherwise.
+[RT I, 29.06.2011, 1 - entry into force 30.06.2011]
+
+§ 315. Establishment of pledge
+
+(1) An agreement between the pledgor and the pledgee concerning the establishment of a pledge is necessary for the pledge of a right, unless otherwise provided by law.
+
+(2) An agreement specified in subsection (1) of this section shall be in writing unless otherwise provided by law.
+
+(2^1) [Repealed - RT I, 29.06.2011, 1 - entry into force 30.06.2011]
+
+(3) If a pledgee obtains a right to demand fulfilment of a claim and to accept fulfilment in connection with a pledge, the pledgor shall deliver to the pledgee documents certifying the claim and accessory obligations and provide information necessary to file a claim against the debtor.
+[RT I 2004, 37, 255 - entry into force 01.05.2004]
+
+§ 316. Termination and alteration of pledged right
+
+(1) A pledged right may be terminated by a transaction only with the consent of the pledgee. Consent shall be given to the person in whose benefit the right is terminated. A consent cannot be withdrawn.
+
+(2) The consent of the pledgee is necessary for the alteration of a pledged right if the alteration results in a decrease of the value of the pledged right or damages the security of the pledgee in some other way. Consent shall be given to the person in whose benefit the right is altered.
+
+(3) The provisions of subsections (1) and (2) of this section do not extend to the termination or alteration of a share or a share of an investment fund pledged as a right or of other similar rights.
+
+§ 317. Notification of pledge of claim
+
+(1) The pledgor shall notify the debtor of a pledged claim of the pledge of the claim unless otherwise agreed in the pledge contract.
+
+(2) Notification of a pledge by the pledgor and submission by the pledgee to the debtor of a document concerning the pledge issued by the pledgor have the same consequences as notification of assignment of a claim.
+
+(3) At the request of the pledgor or pledgee, the debtor shall provide written confirmation of being notified of the pledge.
+
+§ 318. Consequences of pledge for debtor upon pledge of claim
+
+() If a claim is pledged, the provisions concerning the relationship between the acquirer of the claim and the debtor upon assignment of a claim apply to the legal relationship between the pledgee and the debtor of the pledged claim, unless otherwise provided by law.
+
+§ 319. Performance of obligation upon pledge of claim
+
+(1) If a claim is pledged, a pledgor and a pledgee may, prior to the creation of right of sale, only demand performance of an obligation from a debtor jointly and the debtor may only perform to the pledgor and the pledgee jointly.
+
+(2) After creation of right of sale, only the pledgee may demand fulfilment of a pledged claim and the debtor may only perform to the pledgee. Performance of an obligation to the pledgee has the same effect as performance to the creditor.
+
+(3) If a part of a claim is the pledged object, the pledgor shall retain the privilege of satisfaction of the part of the claim which is not encumbered by the pledge in the absence of an agreement stating otherwise and privileged ranking for accessory rights and securities.
+
+(4) A right of security established on a claim also extends to interest of the pledged claim payable by the debtor and to other accessory claims unless otherwise agreed by the pledgor and the pledgee.
+
+§ 319^1. Right of advance notice
+
+(1) If collectability of a pledged claim is contingent upon advance notice, a creditor may give advance notice prior to the creation of right of sale.
+
+(2) Advance notification by a debtor is valid if advance notice is given to both the pledgee and the creditor.
+
+(3) After the creation of right of sale (§ 292), advance notice may be given by both a creditor and a pledgee. In the case of a debtor, advance notification of the pledgee is sufficient.
+
+§ 319^2. Permissibility of different agreement
+
+(1) A pledgor and a pledgee may agree on a manner of selling the pledged object which differs from that provided by law. If a third person has a right in the pledged object which extinguishes upon sale of the object, the consent of the third person is required to change the manner of sale.
+
+(2) An agreement shall not derogate from the provisions of subsection 292 (3) of this Act, except in the case of financial collateral specified in § 314^1  of this Act and if the agreement of the parties allows determination of the value of the pledged object in an economically justified manner.
+[RT I, 29.06.2011, 1 - entry into force 30.06.2011]
+
+(3) If, upon provision of financial collateral, an agreement specified in subsection (2) of this section has been entered into, then, upon creation of the right of sale, a claim secured by the pledge is deemed to be satisfied to the extent which corresponds to the agreed value of the pledged object.
+[RT I 2004, 37, 255 - entry into force 01.05.2004]
+
+(4) On the basis of a financial collateral agreement, the term for the advice notice of sale of the pledged object may be shorter than the term provided by subsection 293 (1) of this Act.
+[RT I, 29.06.2011, 1 - entry into force 30.06.2011]
+
+§ 319^3. Promotion of performance
+
+(1) If performance is due to the pledgee and the creditor jointly and the claim is collectable, the pledgee and the creditor shall be required to accept performance jointly.
+
+(2) If a pledgee has the right to collect a claim independently, the pledgee shall act in a reasonable manner and with due diligence. A pledgee shall promptly notify a creditor of collection.
+
+§ 319^4. Effect of performance
+
+() If a debtor performs an obligation pursuant to subsection 319 (1) or (2) of this Act, the creditor acquires the object received as a result of the performance and the pledgee acquires the right of security on the object. If performance involves the transfer of ownership of an immovable, the pledgee has the right to the mortgage; if performance involves the transfer of ownership of a registered ship or a ship under construction, the pledgee has the right to the maritime mortgage.
+
+§ 319^5. Deposit of sums collected
+
+(1) If a financial claim is collected pursuant to subsection 319 (1) of this Act, the sum received shall be deposited for the benefit of the pledgee so that the pledgee acquires a right to the deposited amount on the date of the creation of the right of sale pursuant to § 292 of this Act.
+
+(2) If a financial claim is collected pursuant to subsection 319 (2)of this Act, the pledgee shall keep the amount collected in the extent necessary for the satisfaction of the claim of the pledgee. The pledgee shall deliver the remaining amount to the pledgor.
+
+§ 319^6. Sale of other rights
+
+() Other pledged rights are sold pursuant to the provisions concerning possessory pledges.
+
+§ 319^7. [Repealed - RT I 2004, 37, 255 - entry into force 01.05.2004]
+
+4. division  RIGHT OF RETENTION 
+
+§ 320.  –  § 324. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+18. chapter REAL SECURITY 
+
+1. division  MORTGAGE 
+
+1. subdivision  Definition, creation and extinguishment 
+
+§ 325. Definition of mortgage
+
+(1) An immovable may be encumbered with a mortgage such that the person for whose benefit the mortgage is established (mortgagee) has the right to satisfaction of a claim secured by the mortgage out of the pledged immovable.
+
+(2) A legal share of an immovable may be encumbered with a mortgage only if it is the share of a co-owner.
+
+(3) A mortgage shall not be established only on a physical share of an immovable or a part of the legal share of a co-owner.
+
+(4) A mortgage does not presume the existence of a claim to be secured.
+
+(5) If a claim secured by a mortgage terminates due to termination of the legal person who was a debtor, the claim is deemed to remain in force with regard to the owner of the immovable encumbered with the pledge.
+[RT I 2003, 17, 95 - entry into force 01.01.2004]
+
+§ 326. Form of agreement to establish mortgage
+
+() A real right contract entered into for the establishment of a mortgage shall be notarially authenticated.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 327. Entry of mortgage
+
+() A land register entry concerning establishment of a mortgage shall set out the mortgagee and the monetary amount of the mortgage (sum of mortgage).
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 328. Original owner mortgage
+
+(1) The owner of an immovable may establish a mortgage for the owner's benefit.
+
+(2) The establishment of an owner mortgage is effected by making an entry in the land register on the basis of a notarially certified application of the owner.
+
+§ 329. Discharge of mortgage by mortgagee
+
+(1) If a mortgagee discharges the mortgage, the owner of the encumbered immovable acquires the mortgage. For discharge, an entry shall be made in the land register on the basis of a notarially certified application of the mortgagee.
+
+(2) If a mortgagee partly discharges the mortgage, the provisions of subsection 349 (2) apply.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 330. Termination of mortgage
+
+() Notarially certified consent of the owner of the immovable is required for termination of a mortgage. Consent shall be granted to a land registry department or the mortgagee. Consent cannot be withdrawn.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 331. Termination of mortgage on demand of owner
+
+() [RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(1) If the residence or location of a mortgagee is not known, the owner of the encumbered immovable may demand that the mortgage be deleted or changed to an owner mortgage if the owner has the right to satisfaction of the claim and the owner deposits the entire sum of the mortgage.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) Interest shall be deposited if the interest rate is entered in the land register but not more than three years interest from the date the owner of an immovable submits an application to the court for deletion of the mortgage or changing of the mortgage to an owner mortgage.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) If a claim specified in subsection (1) of this section is filed, the court shall determine the term for submission of objections and shall publish a corresponding announcement. If no objections are filed within the set term or objections are rejected, the court shall issue an order to delete the mortgage which shall be the basis for the making of the entry in the land register.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3^1) The owner of an immovable has the right to request that instead of depositing the sum of the mortgage and the interests specified in subsections (1) and (2) of this section the court determine a term of five years for submission of objections. Upon expiry of the five-year term the court shall publish a repeated announcement and determine a new term of three months for submission of objections. During the above new term the court shall also collect information concerning the mortgagee's residence or seat at its own initiative and in the case of identifying these try to contact the mortgagee. If no objections are filed within the repeatedly set term or objections are rejected, the court shall issue an order to delete the mortgage which shall be the basis for the making of the entry in the land register.
+[RT I 2010, 26, 128 - entry into force 14.06.2010]
+
+(4) The mortgagee has the right to receive the deposited money within five years after the date of deletion of the mortgage or changing of the mortgage to an owner mortgage. If the mortgagee does not withdraw the money within this period, the owner of the immovable has the right to get it back.
+[RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+§ 332. Deletion of owner mortgage on demand of mortgagee
+
+(1) If one and the same person becomes the owner of a mortgage and the encumbered immovable, the same or a lower ranking mortgagee may demand deletion of such mortgage.
+
+(2) The provisions of subsection (1) of this section are not valid concerning a mortgage created pursuant to § 328.
+
+(3) The demand provided for in subsection (1) of this section is not valid with respect to the mortgage if the entry shows its invalidity with respect to the given mortgage.
+
+(4) A preliminary notation may be entered in the land register after the creation of an owner mortgage in order to secure a claim specified in subsection (1) of this section.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+2. subdivision  Content 
+
+1. sub-subdivision  General provisions 
+
+§ 333. Rights of owner of encumbered immovable
+
+() The owner of an immovable encumbered with a mortgage has the right to possess, use and dispose of the encumbered immovable if thereby the owner does not decrease the value of the encumbered immovable or damage the rights of the mortgagee in any other manner except if this occurs as a result of regular management.
+
+§ 334. Rights of mortgagee to prevent decrease in value of immovable
+
+(1) If the value of an encumbered immovable decreases as a result of the activities of the owner, the mortgagee has the right to demand that the owner of the immovable terminate further harmful activity.
+
+(2) A mortgagee may perform acts necessary for prevention of a decrease in value of an encumbered immovable pursuant to a court decision. The mortgagee may also perform such acts without a court decision if a delay would significantly reduce the value of the encumbered immovable.
+[RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+(3) The mortgagee has the right to demand reimbursement of expenses relating to the acts specified in subsection (2) of this section. In order to secure reimbursement of the expenses relating to the specified acts, a mortgage which is not entered in the land register and which has the same ranking as the mortgage of the mortgagee belongs to the mortgagee.
+
+§ 335. Rights of mortgagee upon decrease in value of immovable
+
+(1) If a decrease in value of an encumbered immovable can be presumed or if it has already occurred, the mortgagee may demand restoration of the former state or additional security from the owner of the immovable.
+
+(2) If the owner of an immovable does not restore the former state or give additional security on the demand of the mortgagee, the mortgagee may demand satisfaction of a claim secured by the mortgage to the extent by which the value of the encumbered immovable has decreased. Notice of the demand for satisfaction shall be given one month in advance.
+
+(3) If the value of an encumbered immovable decreases by no fault of the owner, the mortgagee may demand additional security or partial payment of the debt to the extent the owner of the immovable is compensated for the decrease in value. The mortgagee may not demand additional security or partial payment of the debt if the value of the immovable, where the main housing of a natural person is located, decreases due to a change in the market situation of immovables.
+[RT I, 06.12.2010, 1 - entry into force 05.04.2011]
+
+§ 336. Reduction in value of accessories
+
+() Reduction in value or severance from the immovable in breach of the demands of regular management of accessories of an encumbered immovable grants a mortgagee the same rights as upon decrease in value of the immovable.
+
+§ 337. Disposal of encumbered immovable
+
+(1) Waiver by an owner of the right to transfer or additionally encumber an immovable encumbered with a mortgage is invalid.
+
+(2) If after establishment of a mortgage a servitude or real encumbrance is established on the same immovable without the consent of the mortgagee, the mortgage is preferred to the servitude or real encumbrance established later. Such servitude or real encumbrance shall be deleted to the extent it damages exercise of the mortgage.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 338. Disposal of mortgage
+
+(1) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) A notarially certified agreement between the mortgagee and the acquirer of the mortgage and the making of an entry in the land register are required for transfer of a mortgage.
+
+(3) A mortgage is pledged as a whole. A notation concerning the pledgee is made in the land register with regard to pledging.
+
+§ 338^1. Pledge of mortgage
+
+(1) Provisions concerning the pledge of claims apply correspondingly to the pledge of a mortgage.
+
+(2) Upon the pledge of a claim secured by a mortgage, the pledgee also has the right to demand the pledge of the mortgage securing the claim unless otherwise agreed by the parties.
+
+(3) Upon creation of the right of sale, a pledgee is entitled to exercise the rights of a mortgagee.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 339. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+2. sub-subdivision  Ranking 
+
+§ 340.  –  § 341. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+3. sub-subdivision  Extent of Mortgage 
+
+§ 342. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 343. Extent of mortgage to immovables
+
+(1) A mortgage extends to the parts, accessories and fruits of an immovable. A mortgage does not extend to the accessories of an immovable which are not in the ownership of the owner of the immovable.
+
+(2) A mortgage does not extend to accessories, parts and natural fruits which before seizure of the immovable are transferred according to regular management or permanently severed from the immovable.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 344. Extension of mortgage to commercial and residential lease claims
+
+() If an immovable encumbered with a mortgage is leased commercially or residentially, the mortgage also extends to a claim under the commercial or residential lease which is created within the period between seizure of the immovable or declaration of bankruptcy of the debtor and sale of the immovable, or which is created within one year before seizure of the immovable or declaration of bankruptcy of the debtor and is uncollected.
+[RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+§ 345. Extent of mortgage to insurance proceeds
+
+() [RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(1) If an immovable encumbered with a mortgage is insured, the mortgage also extends to a claim for insurance proceeds.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(4) [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+4. sub-subdivision  Satisfaction of claims 
+
+§ 346. Extent of claims
+
+(1) A mortgage, to the extent of the sum of the mortgage, secures a claim, interests (including the fine for delay) for up to three years before sale of the immovable in enforcement proceeding, expenses for the collection of the debt, including the costs of the enforcement proceeding and bailiff's fees, and the insurance premiums paid by the mortgagee on behalf of the owner of the immovable.
+[RT I, 06.12.2010, 1 - entry into force 05.04.2011]
+
+(2) An agreement determining which claim is secured by a mortgage shall be notarially authenticated. A security agreement shall be valid, in the event of a change of owner of an immovable encumbered with a mortgage, also with regard to the new owner and, in the event of a change of mortgagee, with regard to the new mortgagee.
+[RT I, 06.12.2010, 1 - entry into force 05.04.2011]
+
+§ 347.  –  § 348. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+
+
+§ 349. Transfer of mortgage to owner
+
+(1) If a claim secured by a mortgage is satisfied or a claim is not created, the actual owner of the encumbered immovable may demand entry of the mortgage in the name of the owner or its deletion, unless otherwise agreed.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(2) If a claim secured by a mortgage is partially satisfied, the actual owner of the encumbered immovable may demand entry of a partial mortgage in the land register for the owner's benefit to the extent the claim was satisfied, or deletion of the mortgage.
+
+(3) If a debt is paid by the owner of an immovable encumbered with a mortgage and the owner is not the debtor, the claim transfers to the owner to the extent that it was satisfied. In this case, the provisions concerning surety apply.
+
+§ 350. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 351. Objections of owner of immovable
+
+(1) The owner of an immovable may only present objections against a mortgagee which are based on a land register entry or which the owner has on the basis of the law of obligations against the creditor who presented a claim for payment.
+
+(2) The owner of an immovable may also present objections specified in subsection (1) of this section to a legal successor of the creditor or a person to whom the mortgagee transferred the mortgage (§ 338).
+
+(3) [Repealed - RT I, 06.12.2010, 1 - entry into force 05.04.2011]
+
+§ 352. Compulsory execution
+
+() [RT I 2005, 39, 308 - entry into force 01.01.2006]
+
+(1) If a claim secured by a mortgage is not performed, the mortgagee has the right to demand compulsory execution pursuant to the procedure provided for in the Code of Enforcement Procedure.
+
+(2) Any agreement entered into before a claim secured by a mortgage falls due whereby the mortgagee acquires the immovable encumbered with the mortgage for satisfaction of the claim secured by the mortgage is void.
+
+(3) [Repealed - RT I 2005, 39, 308 - entry into force 01.01.2006]
+
+(4) [Repealed - RT I 2005, 39, 308 - entry into force 01.01.2006]
+
+§ 353. Order of satisfaction of claims of mortgagees
+
+(1) The claims of mortgagees secured by a mortgage for the satisfaction of which a compulsory execution is carried out are satisfied from the money received from the compulsory execution of the immovable according to the ranking of the mortgages.
+
+(2) A claim of a subsequent ranking secured by a mortgage is satisfied after satisfaction of the claim of the preceding ranking secured by a mortgage.
+
+(3) Claims which have one and the same ranking and are secured by mortgages are satisfied concurrently and in proportion to the amount of the claims.
+
+(4) [Repealed]
+
+§ 354. Particulars of owner mortgage upon compulsory execution
+
+(1) In the case of an owner mortgage, the owner of an encumbered immovable shall not demand compulsory execution for satisfaction of the claim of the owner.
+
+(2) [Repealed - RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+5. sub-subdivision  Division and merger of mortgage 
+
+§ 355. Partial mortgage
+
+(1) A mortgage may be divided into parts.
+
+(2) The consent of the owner is not required for division of a mortgage into parts or for an exchange of ranking among partial mortgages.
+
+(3) Partial mortgages assume the ranking of the current mortgage.
+
+§ 356. Division of immovable encumbered with mortgage
+
+(1) A notarially authenticated agreement between the mortgagee and the owner of the immovable is required for division of an immovable encumbered with a mortgage.
+
+(2) A mortgage shall remain valid with respect to the immovables created as a result of a division according to the agreement specified in subsection (1) of this section.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 357. [Repealed - RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 358. Transfer of mortgage
+
+(1) In the case of land readjustment or replanning by the state or a local government, mortgages which encumber immovables to be surrendered are transferred in their current rankings to the immovables to be granted in replacement.
+
+(2) If upon expropriation of an immovable encumbered with a mortgage the immovable is replaced by another, the mortgages which encumbered the expropriated immovable are established on the replaced immovable according to their current rankings.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(3) If several immovables which are encumbered with several mortgages or of which some are not encumbered with mortgages are merged into one immovable, the mortgages are transferred to the merged immovable and their current rankings are preserved as much as possible.
+
+6. sub-subdivision  Combined mortgage 
+
+§ 359. Definition of combined mortgage
+
+(1) One mortgage may encumber several immovables. In this case, each immovable is liable for the entire claim secured by the mortgage.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+(1^1) With regard to a combined mortgage, the legal share of a co-owner in an immovable is deemed to be an immovable
+
+(2) Upon establishment of a combined mortgage, the land register shall indicate with respect to each immovable being encumbered the other immovables encumbered with the combined mortgage.
+
+§ 360. Satisfaction of claim secured by combined mortgage
+
+(1) A mortgagee has the right to complete or partial satisfaction of a claim out of any immovable encumbered with a combined mortgage.
+
+(2) A mortgagee may divide the sum of the mortgage between the encumbered immovables and shall determine the extent to which each immovable is liable for the mortgage. In this case, the provisions concerning division of an immovable encumbered with a mortgage apply (§ 356).
+
+§ 361. Satisfaction of claim by owner of one immovable
+
+(1) If the owner of an immovable encumbered with a combined mortgage satisfies the claim of the mortgagee, the owner may demand entry of the combined mortgage which encumbers the owner's immovable in the name of the owner. Combined mortgages on the other immovables shall be deleted.
+
+(2) If the owner of an immovable who satisfied the claim of the mortgagee may demand compensation from the owners of the other immovables encumbered with the combined mortgage, the owner may also demand entry of the combined mortgages which encumber the other immovables in the name of the owner to the extent of the compensation.
+[RT I 2003, 13, 64 - entry into force 01.07.2003]
+
+§ 362. Combined mortgage of owner
+
+(1) If a claim for the securing of which a combined mortgage is established is not created or terminates or if the mortgagee discharges the combined mortgage, the owners of the immovables encumbered with the combined mortgage may demand entry of the combined mortgage in the land register in their names jointly.
+
+(2) In the case specified in subsection (1) of this section, each owner of an immovable encumbered with the combined mortgage may demand that the immovable of the owner be encumbered with an owner mortgage in proportion to the value of the immovable of the owner, unless otherwise agreed (§ 356).
+
+2. division  JUDICIAL MORTGAGE 
+
+§ 363. Definition of judicial mortgage
+
+(1) To secure an action, a court may establish a mortgage to the extent of the claim of the action which shall be entered in the land register as a judicial mortgage.
+
+(2) A judicial mortgage secures a claim satisfied on the basis of a court decision.
+[RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+(3) The provisions of subsections (1) and (2) of this section apply accordingly to the establishment of a mortgage on an immovable on the basis of a regulation of any other official so entitled by law.
+[RT I 2008, 59, 330 - entry into force 01.01.2009]
+
+§ 363^1. Judicial mortgage with regard to several immovables
+
+() If a judicial mortgage is established with regard to several immovables of an owner, the secured claim shall be divided between the immovables in shares as determined by the creditor.
+
+§ 364. Application of mortgage provisions
+
+() The provisions concerning mortgage otherwise apply to a judicial mortgage.
+
+9. part  IMPLEMENTATION OF ACT 
+
+§ 365. Entry into force of Act
+
+() This Act enters into force pursuant to the procedure and under the conditions prescribed in the implementation Act of this Act.
+1 Directive 2002/47/EC of the European Parliament and of the Council on financial collateral arrangements (OJ L 168, 27.06.2002, p. 43–50), as last amended by Directive 2009/44/EC (OJ L 146, 10.06.2009, p. 37–43). [RT I, 29.06.2011, 1 - entry into force 30.06.2011]
