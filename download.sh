@@ -1,0 +1,1 @@
+php -f update.php
