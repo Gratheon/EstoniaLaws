@@ -1,7 +1,7 @@
 Issuer: Riigikogu
 Type: seadus
 In force from: 01.04.2013
-In force until: In force
+In force until: 31.12.2014
 Publication notation: RT V, 30.10.2013, 61
 
 Employment Contracts Act

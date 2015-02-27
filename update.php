@@ -79,7 +79,15 @@ $repos = [
             "en_title" => "Republic of Estonia Education Act",
         ]
     ],
+    "Administrative/TrafficTransport/"                     => [
+        [
+            "et_title" => "Liiklusseadus",
+            "et"       => "https://www.riigiteataja.ee/akt/108102014011.txt",
 
+            "en_title" => "Traffic Act",
+            "en"       => "https://www.riigiteataja.ee/en/tolge/text/522012015004"
+        ]
+    ],
     "Work/Employment/"                     => [
         [
             "et_title" => "Töölepingu seadus",
